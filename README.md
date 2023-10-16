@@ -1,5 +1,8 @@
 # betania-patmos
 Proyecto Tipografía BP para primeras escrituras
 
-- referencias
+- Referencias:
 https://smed2015.it/formarsi-a-milano/
+Font: Escolar 1
+Rosalie Wagner
+Primarium
