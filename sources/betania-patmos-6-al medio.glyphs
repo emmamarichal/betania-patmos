@@ -2,7 +2,9 @@
 .appVersion = "3227";
 .formatVersion = 3;
 DisplayStrings = (
-""
+"",
+"/q.left.o.fina  ",
+"‘’"
 );
 axes = (
 {
@@ -2220,7 +2222,7 @@ unicode = 90;
 color = 10;
 export = 0;
 glyphname = Q.alt;
-lastChange = "2023-11-27 15:26:33 +0000";
+lastChange = "2023-11-27 15:50:28 +0000";
 layers = (
 {
 background = {
@@ -2257,12 +2259,20 @@ lineCapStart = 1;
 strokeHeight = 45;
 strokeWidth = 40;
 };
-closed = 0;
+closed = 1;
 nodes = (
-(181,140,l),
-(289,140,o),
-(461,79,o),
-(577,-146,c)
+(477,0,o),
+(583,205,o),
+(583,394,cs),
+(583,565,o),
+(498,700,o),
+(342,700,cs),
+(152,700,o),
+(46,495,o),
+(46,306,cs),
+(46,135,o),
+(131,0,o),
+(287,0,cs)
 );
 },
 {
@@ -2272,20 +2282,12 @@ lineCapStart = 1;
 strokeHeight = 45;
 strokeWidth = 40;
 };
-closed = 1;
+closed = 0;
 nodes = (
-(46,495,o),
-(152,700,o),
-(342,700,cs),
-(498,700,o),
-(583,565,o),
-(583,394,cs),
-(583,205,o),
-(477,0,o),
-(287,0,cs),
-(131,0,o),
-(46,135,o),
-(46,306,cs)
+(181,140,l),
+(289,140,o),
+(461,79,o),
+(577,-146,c)
 );
 }
 );
@@ -13024,7 +13026,7 @@ nodes = (
 hints = (
 {
 horizontal = 1;
-place = (0,9223372036854775808);
+place = (0,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13036,7 +13038,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (0,9223372036854775808);
+place = (0,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13048,7 +13050,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (0,9223372036854775808);
+place = (0,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13060,7 +13062,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (174,9223372036854775808);
+place = (174,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13072,7 +13074,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (511,9223372036854775808);
+place = (511,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13084,7 +13086,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (511,9223372036854775808);
+place = (511,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13096,7 +13098,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (511,9223372036854775808);
+place = (511,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13108,7 +13110,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13120,7 +13122,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13132,7 +13134,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13144,7 +13146,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13156,7 +13158,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13168,7 +13170,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13276,7 +13278,7 @@ layers = (
 hints = (
 {
 horizontal = 1;
-place = (0,9223372036854775808);
+place = (0,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13288,7 +13290,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (0,9223372036854775808);
+place = (0,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13300,7 +13302,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (0,9223372036854775808);
+place = (0,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13312,7 +13314,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (174,9223372036854775808);
+place = (174,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13324,7 +13326,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (511,9223372036854775808);
+place = (511,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13336,7 +13338,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (511,9223372036854775808);
+place = (511,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13348,7 +13350,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (511,9223372036854775808);
+place = (511,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13360,7 +13362,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13372,7 +13374,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13384,7 +13386,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13396,7 +13398,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13408,7 +13410,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13420,7 +13422,7 @@ type = TTDelta;
 },
 {
 horizontal = 1;
-place = (699,9223372036854775808);
+place = (699,0);
 settings = {
 deltaV = {
 "{100, 100, 0, 0, 0, 0}" = {
@@ -13516,11 +13518,11 @@ width = 570;
 },
 {
 glyphname = space;
-lastChange = "2023-11-27 13:07:36 +0000";
+lastChange = "2023-11-27 15:50:11 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-width = 123;
+width = 240;
 }
 );
 unicode = 32;
@@ -13545,7 +13547,7 @@ unicode = 46;
 },
 {
 glyphname = comma;
-lastChange = "2023-11-27 15:35:22 +0000";
+lastChange = "2023-11-27 15:50:28 +0000";
 layers = (
 {
 anchors = (
@@ -13556,15 +13558,6 @@ pos = (162,91);
 );
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
-{
-closed = 0;
-nodes = (
-(117,-131,l),
-(176,-70,o),
-(197,-16,o),
-(197,41,cs)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -13580,6 +13573,15 @@ nodes = (
 (126,8,o),
 (138,-10,o),
 (161,-10,cs)
+);
+},
+{
+closed = 0;
+nodes = (
+(117,-131,l),
+(176,-70,o),
+(197,-16,o),
+(197,41,cs)
 );
 }
 );
@@ -13777,7 +13779,7 @@ unicode = 191;
 },
 {
 glyphname = periodcentered;
-lastChange = "2023-11-27 15:35:22 +0000";
+lastChange = "2023-11-27 15:50:28 +0000";
 layers = (
 {
 anchors = (
@@ -13817,7 +13819,7 @@ unicode = 183;
 },
 {
 glyphname = bullet;
-lastChange = "2023-11-27 15:35:22 +0000";
+lastChange = "2023-11-27 15:50:28 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -14260,6 +14262,129 @@ width = 472;
 unicode = 93;
 },
 {
+glyphname = quotesinglbase;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+width = 600;
+}
+);
+unicode = 8218;
+},
+{
+glyphname = quotedblbase;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = comma;
+},
+{
+ref = comma;
+}
+);
+width = 312;
+}
+);
+unicode = 8222;
+},
+{
+glyphname = quotedblleft;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+width = 600;
+}
+);
+unicode = 8220;
+},
+{
+glyphname = quotedblright;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+width = 600;
+}
+);
+unicode = 8221;
+},
+{
+glyphname = quoteleft;
+lastChange = "2023-11-27 15:54:15 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+angle = 180;
+pos = (290,566);
+ref = quotedblbase;
+}
+);
+width = 265;
+}
+);
+unicode = 8216;
+},
+{
+glyphname = quoteright;
+lastChange = "2023-11-27 15:54:15 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+pos = (-22,607);
+ref = quotedblbase;
+}
+);
+width = 267;
+}
+);
+unicode = 8217;
+},
+{
+glyphname = guillemetleft;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+width = 600;
+}
+);
+unicode = 171;
+},
+{
+glyphname = guillemetright;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+width = 600;
+}
+);
+unicode = 187;
+},
+{
+glyphname = guilsinglleft;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+width = 600;
+}
+);
+unicode = 8249;
+},
+{
+glyphname = guilsinglright;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+width = 600;
+}
+);
+unicode = 8250;
+},
+{
 glyphname = quotedbl;
 lastChange = "2023-11-27 15:35:22 +0000";
 layers = (
@@ -14352,7 +14477,7 @@ unicode = 776;
 },
 {
 glyphname = dotaccentcomb;
-lastChange = "2023-11-27 13:31:44 +0000";
+lastChange = "2023-11-27 15:50:28 +0000";
 layers = (
 {
 anchors = (
