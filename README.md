@@ -15,7 +15,7 @@ No es una tipografía display ni para diseñadores, es una tipografía para el a
 
 - Referencias:
 https://smed2015.it/formarsi-a-milano/
-Font: 
 Escolar 1 - es la utilizada actualmente
 Rosalie Wagner - es mi referente
 Primarium
+Monica Dengo
