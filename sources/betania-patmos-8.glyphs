@@ -3,7 +3,7 @@
 .formatVersion = 3;
 DisplayStrings = (
 " ABCDEFGHIJKLMNOPQRSTUVWXYZ",
-"núme/_r.base ro"
+Arvejas
 );
 axes = (
 {
@@ -15095,7 +15095,7 @@ width = 435;
 },
 {
 glyphname = r.left.b;
-lastChange = "2024-04-11 12:56:10 +0000";
+lastChange = "2024-04-11 15:11:41 +0000";
 layers = (
 {
 background = {
@@ -15119,7 +15119,7 @@ pos = (68,0);
 ref = _r.base;
 }
 );
-width = 357;
+width = 387;
 }
 );
 },
@@ -18160,7 +18160,7 @@ width = 539;
 },
 {
 glyphname = r.left.o;
-lastChange = "2024-04-11 12:56:10 +0000";
+lastChange = "2024-04-11 15:11:57 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -18173,7 +18173,7 @@ pos = (188,0);
 ref = _r.base;
 }
 );
-width = 477;
+width = 507;
 }
 );
 },
