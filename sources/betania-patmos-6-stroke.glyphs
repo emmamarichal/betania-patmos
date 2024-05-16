@@ -1,9 +1,9 @@
 {
-.appVersion = "3257";
+.appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
 "/ampersand.alt",
-babbbcbdbebfbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwwabxbybzbbbb
+"ahora a quien"
 );
 axes = (
 {
@@ -399,7 +399,6 @@ name = b;
 {
 code = "b
 b.fina
-b.init
 b.left.b
 b.right.e
 b.left.g
@@ -407,11 +406,9 @@ b.left.o
 b.left.b.fina
 b.left.g.fina
 b.left.o.fina
-b.right.e.init
 b.left.g.right.e
 v
 v.fina
-v.init
 v.left.b
 v.right.e
 v.left.g
@@ -419,11 +416,9 @@ v.left.o
 v.left.b.fina
 v.left.g.fina
 v.left.o.fina
-v.right.e.init
 v.left.o.right.e
 w
 w.fina
-w.init
 w.left.b
 w.right.e
 w.left.g
@@ -431,14 +426,12 @@ w.left.o
 w.left.b.fina
 w.left.g.fina
 w.left.o.fina
-w.right.e.init
 w.left.o.right.e";
 name = b.all;
 },
 {
 code = "b
 b.fina
-b.init
 b.left.b
 b.right.e
 b.left.g
@@ -446,11 +439,9 @@ b.left.o
 b.left.b.fina
 b.left.g.fina
 b.left.o.fina
-b.right.e.init
 b.left.g.right.e
 v
 v.fina
-v.init
 v.left.b
 v.right.e
 v.left.g
@@ -458,11 +449,9 @@ v.left.o
 v.left.b.fina
 v.left.g.fina
 v.left.o.fina
-v.right.e.init
 v.left.o.right.e
 w
 w.fina
-w.init
 w.left.b
 w.right.e
 w.left.g
@@ -470,24 +459,41 @@ w.left.o
 w.left.b.fina
 w.left.g.fina
 w.left.o.fina
-w.right.e.init
 w.left.o.right.e
 ";
 name = b.left.o.rhigt.e;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo a aacute abreve acircumflex adieresis agrave amacron aring atilde ae b c ccedilla d eth e eacute ecircumflex edieresis egrave etilde f g h i idotless iacute icircumflex idieresis igrave itilde ij j jdotless jacute k l ldot m n ntilde o oacute ocircumflex odieresis ograve oslash otilde oe p thorn q r s germandbls t u uacute ucircumflex udieresis ugrave utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave ytilde z saltillo k.alt a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina a.init b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init a.left.b aacute.left.b abreve.left.b acircumflex.left.b adieresis.left.b agrave.left.b amacron.left.b aring.left.b atilde.left.b b.left.b c.left.b d.left.b e.left.b eacute.left.b ecircumflex.left.b edieresis.left.b egrave.left.b etilde.left.b f.left.b g.left.b h.left.b i.left.b iacute.left.b icircumflex.left.b idieresis.left.b igrave.left.b itilde.left.b j.left.b jacute.left.b k.left.b l.left.b m.left.b n.left.b o.left.b oacute.left.b ocircumflex.left.b odieresis.left.b ograve.left.b otilde.left.b p.left.b q.left.b r.left.b s.left.b t.left.b u.left.b uacute.left.b ucircumflex.left.b udieresis.left.b ugrave.left.b utilde.left.b v.left.b w.left.b wacute.left.b wcircumflex.left.b wdieresis.left.b wgrave.left.b x.left.b y.left.b yacute.left.b ycircumflex.left.b ydieresis.left.b ygrave.left.b ytilde.left.b z.left.b b.right.e v.right.e w.right.e a.left.g aacute.left.g abreve.left.g acircumflex.left.g adieresis.left.g agrave.left.g amacron.left.g aring.left.g atilde.left.g b.left.g c.left.g d.left.g e.left.g eacute.left.g ecircumflex.left.g edieresis.left.g egrave.left.g etilde.left.g f.left.g g.left.g h.left.g i.left.g iacute.left.g icircumflex.left.g idieresis.left.g igrave.left.g itilde.left.g j.left.g jacute.left.g k.left.g l.left.g m.left.g n.left.g o.left.g oacute.left.g ocircumflex.left.g odieresis.left.g ograve.left.g otilde.left.g p.left.g q.left.g r.left.g s.left.g t.left.g u.left.g uacute.left.g ucircumflex.left.g udieresis.left.g ugrave.left.g utilde.left.g v.left.g w.left.g wacute.left.g wcircumflex.left.g wdieresis.left.g wgrave.left.g x.left.g y.left.g yacute.left.g ycircumflex.left.g ydieresis.left.g ygrave.left.g ytilde.left.g z.left.g a.left.o aacute.left.o abreve.left.o acircumflex.left.o adieresis.left.o agrave.left.o amacron.left.o aring.left.o atilde.left.o b.left.o c.left.o d.left.o e.left.o eacute.left.o ecircumflex.left.o edieresis.left.o egrave.left.o etilde.left.o f.left.o g.left.o h.left.o i.left.o iacute.left.o icircumflex.left.o idieresis.left.o igrave.left.o itilde.left.o j.left.o jacute.left.o k.left.o l.left.o m.left.o n.left.o o.left.o oacute.left.o ocircumflex.left.o odieresis.left.o ograve.left.o otilde.left.o p.left.o q.left.o r.left.o s.left.o t.left.o u.left.o uacute.left.o ucircumflex.left.o udieresis.left.o ugrave.left.o utilde.left.o v.left.o w.left.o wacute.left.o wcircumflex.left.o wdieresis.left.o wgrave.left.o x.left.o y.left.o yacute.left.o ycircumflex.left.o ydieresis.left.o ygrave.left.o ytilde.left.o z.left.o k.left.b.alt k.left.g.alt a.left.b.fina b.left.b.fina c.left.b.fina d.left.b.fina e.left.b.fina f.left.b.fina g.left.b.fina h.left.b.fina i.left.b.fina j.left.b.fina k.left.b.fina l.left.b.fina m.left.b.fina n.left.b.fina o.left.b.fina p.left.b.fina q.left.b.fina r.left.b.fina s.left.b.fina t.left.b.fina u.left.b.fina v.left.b.fina w.left.b.fina x.left.b.fina y.left.b.fina z.left.b.fina a.left.g.fina b.left.g.fina c.left.g.fina d.left.g.fina e.left.g.fina f.left.g.fina g.left.g.fina h.left.g.fina i.left.g.fina j.left.g.fina k.left.g.fina l.left.g.fina m.left.g.fina n.left.g.fina o.left.g.fina p.left.g.fina q.left.g.fina r.left.g.fina s.left.g.fina t.left.g.fina u.left.g.fina v.left.g.fina w.left.g.fina x.left.g.fina y.left.g.fina z.left.g.fina a.left.o.fina b.left.o.fina c.left.o.fina d.left.o.fina e.left.o.fina f.left.o.fina g.left.o.fina h.left.o.fina i.left.o.fina j.left.o.fina k.left.o.fina l.left.o.fina m.left.o.fina n.left.o.fina o.left.o.fina p.left.o.fina q.left.o.fina r.left.o.fina s.left.o.fina t.left.o.fina u.left.o.fina v.left.o.fina w.left.o.fina x.left.o.fina y.left.o.fina z.left.o.fina b.right.e.init v.right.e.init w.right.e.init b.left.g.right.e b.left.o.right.e v.left.o.right.e w.left.o.right.e b_e zero one two three four five six seven eight nine eight.alt nine.alt zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths fraction.alt zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space thinspace period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle baht at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl ampersand.alt cent currency dollar euro hryvnia ruble rupeeIndian sheqel sterling won yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow dottedCircle lozenge dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb cedillacomb ogonekcomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo a aacute abreve acircumflex adieresis agrave amacron aring atilde ae b c ccedilla d eth e eacute ecircumflex edieresis egrave etilde f g h i idotless iacute icircumflex idieresis igrave itilde ij j jdotless jacute k l ldot m n ntilde o oacute ocircumflex odieresis ograve oslash otilde oe p thorn q r s germandbls t u uacute ucircumflex udieresis ugrave utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave ytilde z saltillo k.alt a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina a.init c.init d.init g.init o.init q.init a.left.b aacute.left.b abreve.left.b acircumflex.left.b adieresis.left.b agrave.left.b amacron.left.b aring.left.b atilde.left.b b.left.b c.left.b d.left.b e.left.b eacute.left.b ecircumflex.left.b edieresis.left.b egrave.left.b etilde.left.b f.left.b g.left.b h.left.b i.left.b iacute.left.b icircumflex.left.b idieresis.left.b igrave.left.b itilde.left.b j.left.b jacute.left.b k.left.b l.left.b m.left.b n.left.b o.left.b oacute.left.b ocircumflex.left.b odieresis.left.b ograve.left.b otilde.left.b p.left.b q.left.b r.left.b s.left.b t.left.b u.left.b uacute.left.b ucircumflex.left.b udieresis.left.b ugrave.left.b utilde.left.b v.left.b w.left.b wacute.left.b wcircumflex.left.b wdieresis.left.b wgrave.left.b x.left.b y.left.b yacute.left.b ycircumflex.left.b ydieresis.left.b ygrave.left.b ytilde.left.b z.left.b b.right.e v.right.e w.right.e a.left.g aacute.left.g abreve.left.g acircumflex.left.g adieresis.left.g agrave.left.g amacron.left.g aring.left.g atilde.left.g b.left.g c.left.g d.left.g e.left.g eacute.left.g ecircumflex.left.g edieresis.left.g egrave.left.g etilde.left.g f.left.g g.left.g h.left.g i.left.g iacute.left.g icircumflex.left.g idieresis.left.g igrave.left.g itilde.left.g j.left.g jacute.left.g k.left.g l.left.g m.left.g n.left.g o.left.g oacute.left.g ocircumflex.left.g odieresis.left.g ograve.left.g otilde.left.g p.left.g q.left.g r.left.g s.left.g t.left.g u.left.g uacute.left.g ucircumflex.left.g udieresis.left.g ugrave.left.g utilde.left.g v.left.g w.left.g wacute.left.g wcircumflex.left.g wdieresis.left.g wgrave.left.g x.left.g y.left.g yacute.left.g ycircumflex.left.g ydieresis.left.g ygrave.left.g ytilde.left.g z.left.g a.left.o aacute.left.o abreve.left.o acircumflex.left.o adieresis.left.o agrave.left.o amacron.left.o aring.left.o atilde.left.o b.left.o c.left.o d.left.o e.left.o eacute.left.o ecircumflex.left.o edieresis.left.o egrave.left.o etilde.left.o f.left.o g.left.o h.left.o i.left.o iacute.left.o icircumflex.left.o idieresis.left.o igrave.left.o itilde.left.o j.left.o jacute.left.o k.left.o l.left.o m.left.o n.left.o o.left.o oacute.left.o ocircumflex.left.o odieresis.left.o ograve.left.o otilde.left.o p.left.o q.left.o r.left.o s.left.o t.left.o u.left.o uacute.left.o ucircumflex.left.o udieresis.left.o ugrave.left.o utilde.left.o v.left.o w.left.o wacute.left.o wcircumflex.left.o wdieresis.left.o wgrave.left.o x.left.o y.left.o yacute.left.o ycircumflex.left.o ydieresis.left.o ygrave.left.o ytilde.left.o z.left.o k.left.b.alt k.left.g.alt a.left.b.fina b.left.b.fina c.left.b.fina d.left.b.fina e.left.b.fina f.left.b.fina g.left.b.fina h.left.b.fina i.left.b.fina j.left.b.fina k.left.b.fina l.left.b.fina m.left.b.fina n.left.b.fina o.left.b.fina p.left.b.fina q.left.b.fina r.left.b.fina s.left.b.fina t.left.b.fina u.left.b.fina v.left.b.fina w.left.b.fina x.left.b.fina y.left.b.fina z.left.b.fina a.left.g.fina b.left.g.fina c.left.g.fina d.left.g.fina e.left.g.fina f.left.g.fina g.left.g.fina h.left.g.fina i.left.g.fina j.left.g.fina k.left.g.fina l.left.g.fina m.left.g.fina n.left.g.fina o.left.g.fina p.left.g.fina q.left.g.fina r.left.g.fina s.left.g.fina t.left.g.fina u.left.g.fina v.left.g.fina w.left.g.fina x.left.g.fina y.left.g.fina z.left.g.fina a.left.o.fina b.left.o.fina c.left.o.fina d.left.o.fina e.left.o.fina f.left.o.fina g.left.o.fina h.left.o.fina i.left.o.fina j.left.o.fina k.left.o.fina l.left.o.fina m.left.o.fina n.left.o.fina o.left.o.fina p.left.o.fina q.left.o.fina r.left.o.fina s.left.o.fina t.left.o.fina u.left.o.fina v.left.o.fina w.left.o.fina x.left.o.fina y.left.o.fina z.left.o.fina b.left.g.right.e b.left.o.right.e v.left.o.right.e w.left.o.right.e b_e zero one two three four five six seven eight nine eight.alt nine.alt zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths fraction.alt zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space thinspace period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle baht at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl ampersand.alt cent currency dollar euro hryvnia ruble rupeeIndian sheqel sterling won yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow dottedCircle lozenge dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb cedillacomb ogonekcomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek";
 name = All;
 },
 {
 automatic = 1;
 code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo";
 name = Uppercase;
+},
+{
+code = "a.init
+c.init
+d.init
+g.init
+o.init
+q.init";
+name = init;
+},
+{
+code = "a
+c
+d
+g
+o
+q";
+name = noInit;
 }
 );
-date = "2023-11-24 17:09:42 +0000";
-familyName = "betania-7";
+date = "2024-05-14 13:13:35 +0000";
+familyName = "betania-7-formas iniciales";
 featurePrefixes = (
 {
 automatic = 1;
@@ -510,9 +516,8 @@ feature sinf;
 feature sups;
 feature numr;
 feature dnom;
-feature init;
-feature fina;
 feature frac;
+feature init;
 ";
 tag = aalt;
 },
@@ -625,6 +630,9 @@ sub v.left.o' e.left.b by v.left.o.right.e;
 sub w' e by w.right.e;
 sub w.right.e e' by e.left.b;
 sub o v.left.o' e.left.b by v.left.o.right.e;
+
+#iniciales
+sub space @noInit' by @init;
 ";
 notes = "sub b.left.g e.left.b by b_e;";
 tag = calt;
@@ -703,40 +711,6 @@ sub eight by eight.dnom;
 sub nine by nine.dnom;
 ";
 tag = dnom;
-},
-{
-automatic = 1;
-code = "sub a by a.init;
-sub b by b.init;
-sub c by c.init;
-sub d by d.init;
-sub e by e.init;
-sub f by f.init;
-sub g by g.init;
-sub h by h.init;
-sub i by i.init;
-sub j by j.init;
-sub k by k.init;
-sub l by l.init;
-sub m by m.init;
-sub n by n.init;
-sub o by o.init;
-sub p by p.init;
-sub q by q.init;
-sub r by r.init;
-sub s by s.init;
-sub t by t.init;
-sub u by u.init;
-sub v by v.init;
-sub w by w.init;
-sub x by x.init;
-sub y by y.init;
-sub z by z.init;
-sub b.right.e by b.right.e.init;
-sub v.right.e by v.right.e.init;
-sub w.right.e by w.right.e.init;
-";
-tag = init;
 },
 {
 automatic = 1;
@@ -845,6 +819,7 @@ sub x.left.o by x.left.o.fina;
 sub y.left.o by y.left.o.fina;
 sub z.left.o by z.left.o.fina;
 ";
+disabled = 1;
 tag = fina;
 },
 {
@@ -943,6 +918,17 @@ sub @figDefault space' @figNumer by thinspace;
 # END FRACTION-FEVER-2
 ";
 tag = frac;
+},
+{
+automatic = 1;
+code = "sub a by a.init;
+sub c by c.init;
+sub d by d.init;
+sub g by g.init;
+sub o by o.init;
+sub q by q.init;
+";
+tag = init;
 }
 );
 fontMaster = (
@@ -966,7 +952,7 @@ value = "5";
 );
 guides = (
 {
-pos = (153,-5);
+pos = (153,-19);
 },
 {
 pos = (308,363);
@@ -11510,7 +11496,7 @@ color = 5;
 glyphname = t;
 kernLeft = t;
 kernRight = t;
-lastChange = "2024-03-23 07:51:54 +0000";
+lastChange = "2024-05-16 10:56:01 +0000";
 layers = (
 {
 anchors = (
@@ -11880,7 +11866,7 @@ color = 5;
 glyphname = x;
 kernLeft = a;
 kernRight = c;
-lastChange = "2024-03-23 07:51:54 +0000";
+lastChange = "2024-05-16 10:56:01 +0000";
 layers = (
 {
 background = {
@@ -11901,7 +11887,7 @@ pos = (330,0);
 ref = _x.base;
 }
 );
-width = 719;
+width = 723;
 }
 );
 metricLeft = a;
@@ -12610,11 +12596,11 @@ shapes = (
 ref = x;
 },
 {
-pos = (719,0);
+pos = (723,0);
 ref = _final;
 }
 );
-width = 842;
+width = 846;
 }
 );
 },
@@ -12658,64 +12644,48 @@ width = 606;
 },
 {
 glyphname = a.init;
-lastChange = "2024-03-23 06:59:32 +0000";
+lastChange = "2024-05-14 13:08:29 +0000";
 layers = (
 {
-background = {
-shapes = (
+anchors = (
 {
-alignment = -1;
-pos = (2,0);
-ref = _trazo.entra;
+name = bottom;
+pos = (265,0);
 },
 {
-pos = (132,0);
-ref = a;
+name = ogonek;
+pos = (409,0);
 }
 );
-};
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
-ref = a;
-}
-);
-width = 551;
-}
-);
-metricRight = a;
+ref = _a.base;
 },
 {
-glyphname = b.init;
-kernLeft = lc_o;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-pos = (-144,0);
-ref = l.init;
+pos = (271,0);
+ref = _conect.right;
 }
 );
-};
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = b;
+width = 391;
 }
 );
-width = 572;
-}
-);
-metricLeft = a.init;
-metricRight = o;
 },
 {
 glyphname = c.init;
-lastChange = "2024-03-23 06:59:32 +0000";
+lastChange = "2024-05-16 10:56:01 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (250,0);
+},
+{
+name = top;
+pos = (325,360);
+}
+);
 background = {
 shapes = (
 {
@@ -12728,19 +12698,19 @@ strokeWidth = 40;
 };
 closed = 0;
 nodes = (
-(511,355,l),
-(480,368,o),
-(449,374,o),
-(420,374,cs),
-(326,374,o),
-(252,309,o),
-(252,180,cs),
-(252,-8,o),
-(389,-5,o),
-(471,-5,cs),
-(530,-5,o),
-(611,53,o),
-(621,179,c)
+(509,355,l),
+(478,368,o),
+(447,374,o),
+(418,374,cs),
+(324,374,o),
+(250,309,o),
+(250,180,cs),
+(250,-8,o),
+(387,-5,o),
+(469,-5,cs),
+(528,-5,o),
+(609,53,o),
+(619,179,c)
 );
 }
 );
@@ -12748,10 +12718,10 @@ nodes = (
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
-ref = c;
+ref = _c.base;
 }
 );
-width = 411;
+width = 251;
 }
 );
 metricLeft = a;
@@ -12759,38 +12729,17 @@ metricRight = a;
 },
 {
 glyphname = d.init;
-lastChange = "2024-03-23 06:59:32 +0000";
+lastChange = "2024-05-14 13:10:39 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
-ref = d;
-}
-);
-width = 551;
-}
-);
-metricLeft = a;
-metricRight = a;
+ref = _d.base;
 },
 {
-glyphname = e.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-pos = (10,0);
-ref = e;
-}
-);
-};
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = e;
+pos = (271,0);
+ref = _conect.right;
 }
 );
 width = 391;
@@ -12800,900 +12749,82 @@ metricLeft = a;
 metricRight = a;
 },
 {
-glyphname = f.init;
-lastChange = "2024-03-23 07:16:55 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-attr = {
-identifier = ID0x7ff03cfdb690;
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(649,178,l),
-(690,289,o),
-(740,450,o),
-(740,573,cs),
-(740,652,o),
-(723,709,o),
-(679,709,cs),
-(627,709,o),
-(610,639,o),
-(610,539,cs),
-(610,322,o),
-(693,-39,o),
-(693,-146,cs),
-(693,-302,o),
-(661,-354,o),
-(628,-354,cs),
-(596,-354,o),
-(564,-304,o),
-(564,-239,cs),
-(564,-174,o),
-(596,-93,o),
-(689,-33,cs),
-(742,1,o),
-(828,58,o),
-(865,179,c)
-);
-}
-);
-};
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = f;
-}
-);
-width = 339;
-}
-);
-metricLeft = a.init;
-metricRight = a;
-},
-{
 glyphname = g.init;
-lastChange = "2024-03-23 06:59:32 +0000";
+lastChange = "2024-05-14 13:09:46 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
-ref = g;
+ref = _g.base;
 }
 );
-width = 534;
+width = 374;
 }
 );
-},
-{
-glyphname = h.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-guides = (
-{
-angle = 84.5324;
-pos = (-237,351);
-}
-);
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = h;
-}
-);
-width = 559;
-}
-);
-metricLeft = a.init;
-metricRight = a;
-},
-{
-glyphname = i.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = i;
-}
-);
-width = 306;
-}
-);
-metricLeft = a;
-metricRight = a;
-},
-{
-glyphname = j.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = j;
-}
-);
-width = 289;
-}
-);
-},
-{
-glyphname = k.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = k;
-}
-);
-width = 453;
-}
-);
-metricLeft = a.init;
-metricRight = a;
-},
-{
-glyphname = l.init;
-lastChange = "2024-03-23 07:09:03 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(245,170,l),
-(203,71,o),
-(142,-5,o),
-(61,-5,c)
-);
-},
-{
-pos = (222,0);
-ref = l;
-}
-);
-};
-guides = (
-{
-angle = 84.5324;
-pos = (81,351);
-}
-);
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-alignment = -1;
-ref = l;
-}
-);
-width = 343;
-}
-);
-metricLeft = a.init;
-metricRight = a;
-},
-{
-glyphname = m.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = m;
-}
-);
-width = 997;
-}
-);
-metricLeft = a.init;
-metricRight = a;
-},
-{
-glyphname = n.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = n;
-}
-);
-width = 763;
-}
-);
-metricLeft = a.init;
-metricRight = a.init;
 },
 {
 glyphname = o.init;
-lastChange = "2024-03-23 06:59:32 +0000";
+lastChange = "2024-05-14 13:10:45 +0000";
 layers = (
 {
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = o;
-}
-);
-width = 552;
-}
-);
-},
-{
-glyphname = p.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-closed = 0;
-nodes = (
-(163,-349,l),
-(163,360,l),
-(149,307,o),
-(134,250,o),
-(105,150,c)
-);
-},
-{
-closed = 0;
-nodes = (
-(163,154,l),
-(177,344,o),
-(242,360,o),
-(277,360,cs),
-(332,360,o),
-(357,319,o),
-(357,227,cs),
-(357,100,ls),
-(357,30,o),
-(380,0,o),
-(410,0,c)
-);
-}
-);
-};
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = p;
-}
-);
-width = 540;
-}
-);
-metricLeft = a;
-metricRight = a;
-},
-{
-glyphname = q.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-alignment = -1;
-pos = (193,0);
-ref = _part.bucle;
-},
-{
-attr = {
-identifier = ID0x7fba9a38cdf0;
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(481,100,l),
-(481,61,o),
-(494,-5,o),
-(551,-5,c)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(481,356,l),
-(481,-349,ls)
-);
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(574,-178,l),
-(369,-178,ls)
-);
-},
-{
-alignment = -1;
-pos = (60,0);
-ref = _trazo.entra;
-}
-);
-};
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = q;
-}
-);
-width = 551;
-}
-);
-metricLeft = a;
-metricRight = a;
-},
-{
-glyphname = r.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(531,-5,l),
-(440,-5,o),
-(420,114,o),
-(420,194,cs),
-(420,258,o),
-(425,297,o),
-(429,322,cs),
-(435,364,o),
-(435,364,o),
-(395,359,cs),
-(308,349,o),
-(264,359,o),
-(237,389,c)
-);
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(230,179,l),
-(238,276,o),
-(234,393,o),
-(234,393,c)
-);
-}
-);
-};
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = r;
-}
-);
-width = 465;
-}
-);
-metricLeft = a;
-metricRight = a;
-},
-{
-glyphname = s.init;
-kernLeft = a;
-kernRight = s;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(227,360,l),
-(227,223,o),
-(400,249,o),
-(400,109,cs),
-(400,54,o),
-(360,8,o),
-(304,8,cs),
-(304,8,o),
-(230,57,o),
-(220,29,c),
-(278,-1,o),
-(338,-10,o),
-(380,-10,cs),
-(472,-10,o),
-(581,34,o),
-(592,179,c)
-);
-},
-{
-attr = {
-identifier = ID0x7f8862385790;
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(14,-4,l),
-(142,-4,o),
-(212,305,o),
-(229,370,c)
-);
-}
-);
-};
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = s;
-}
-);
-width = 552;
-}
-);
-metricLeft = a;
-metricRight = a;
-},
-{
-glyphname = t.init;
-lastChange = "2024-04-11 13:38:47 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-pos = (12,0);
-ref = i;
-}
-);
-};
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-alignment = -1;
-ref = t;
-}
-);
-width = 351;
-}
-);
-metricLeft = a;
-metricRight = a;
-},
-{
-glyphname = u.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-closed = 0;
-nodes = (
-(532,150,l),
-(507,50,o),
-(456,0,o),
-(408,0,cs),
-(333,0,o),
-(301,59,o),
-(301,182,cs),
-(301,359,l)
-);
-},
-{
-pos = (331,0);
-ref = _part.bucle;
-}
-);
-};
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = u;
-}
-);
-width = 577;
-}
-);
-metricLeft = a;
-metricRight = a;
-},
-{
-glyphname = v.init;
-kernLeft = lc_o;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-guides = (
-{
-angle = 180;
-lockAngle = 1;
-pos = (316,310);
-}
-);
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = v;
-}
-);
-width = 715;
-}
-);
-metricLeft = a;
-metricRight = o;
-},
-{
-glyphname = w.init;
-kernLeft = lc_o;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(752,327,qs),
-(768,327,o),
-(795,293,qs),
-(826,254,o),
-(832,205,q),
-(796,226,o),
-(745,282,o),
-(745,317,qs),
-(745,327,o)
-);
-},
-{
-closed = 1;
-nodes = (
-(934,178,qs),
-(915,178,o),
-(893,182,q),
-(889,183,o),
-(873,187,o),
-(869,188,q),
-(861,263,o),
-(821,316,qs),
-(785,364,o),
-(748,364,qs),
-(709,364,o),
-(709,317,qs),
-(709,274,o),
-(746,228,qs),
-(774,192,o),
-(833,164,q),
-(828,106,o),
-(793,67,qs),
-(764,34,o),
-(725,34,qs),
-(677,34,o),
-(612,122,o),
-(612,181,qs),
-(612,360,l),
-(575,360,l),
-(575,164,ls),
-(575,111,o),
-(535,67,qs),
-(505,34,o),
-(467,34,qs),
-(420,34,o),
-(354,122,o),
-(354,181,qs),
-(354,270,ls),
-(354,361,o),
-(282,361,qs),
-(236,361,o),
-(214,324,qs),
-(156,225,l),
-(187,206,l),
-(241,300,ls),
-(255,324,o),
-(278,324,qs),
-(318,324,o),
-(318,280,qs),
-(318,181,ls),
-(318,105,o),
-(405,-2,o),
-(467,-2,qs),
-(553,-2,o),
-(593,93,q),
-(639,-2,o),
-(725,-2,qs),
-(779,-2,o),
-(859,87,o),
-(868,151,q),
-(874,149,o),
-(885,147,qs),
-(911,143,o),
-(933,143,qs),
-(1015,143,o),
-(1051,206,q),
-(1020,225,l),
-(994,178,o)
-);
-}
-);
-};
-guides = (
-{
-angle = 85;
-lockAngle = 1;
-pos = (583,227);
-}
-);
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = w;
-}
-);
-width = 979;
-}
-);
-metricLeft = v;
-metricRight = o;
-},
-{
-glyphname = x.init;
-kernLeft = a;
-kernRight = c;
-lastChange = "2024-03-23 07:51:54 +0000";
-layers = (
-{
-background = {
 anchors = (
 {
 name = bottom;
-pos = (708,0);
+pos = (250,0);
+},
+{
+name = center;
+pos = (250,180);
+},
+{
+name = ogonek;
+pos = (450,10);
 },
 {
 name = top;
-pos = (678,360);
-}
-);
-shapes = (
-{
-attr = {
-identifier = ID0x7faded1a7c00;
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(255,360,l),
-(255,223,o),
-(428,249,o),
-(428,109,cs),
-(428,54,o),
-(388,8,o),
-(332,8,cs),
-(332,8,o),
-(258,57,o),
-(248,29,c),
-(276,15,o),
-(306,14,o),
-(332,8,cs)
-);
+pos = (313,360);
 },
 {
-attr = {
-identifier = ID0x7faded1a7c00;
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(42,-4,l),
-(170,-4,o),
-(240,305,o),
-(257,370,c)
-);
-},
-{
-attr = {
-identifier = ID0x7fade9b16650;
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(684,355,l),
-(653,368,o),
-(622,374,o),
-(593,374,cs),
-(499,374,o),
-(425,309,o),
-(425,180,cs),
-(425,-71,o),
-(774,-79,o),
-(794,179,c)
-);
+name = topright;
+pos = (480,360);
 }
 );
-};
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
-ref = x;
+ref = _o.base;
 }
 );
-width = 719;
+width = 392;
 }
 );
-metricLeft = a;
-metricRight = a;
 },
 {
-glyphname = y.init;
-lastChange = "2024-03-23 06:59:32 +0000";
+glyphname = q.init;
+lastChange = "2024-05-14 13:11:04 +0000";
 layers = (
 {
 background = {
 shapes = (
 {
-closed = 0;
-nodes = (
-(492,360,l),
-(489,270,ls),
-(483,102,o),
-(411,1,o),
-(352,1,cs),
-(314,1,o),
-(282,25,o),
-(282,90,c)
-);
-},
-{
-pos = (166,0);
-ref = trazo.entrada.curvo;
-},
-{
-pos = (365,0);
-ref = bucle.descendente;
+alignment = -1;
+pos = (132,0);
+ref = _part.bucle;
 }
 );
 };
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
-ref = y;
-}
-);
-width = 560;
-}
-);
-metricLeft = a;
-metricRight = a;
+ref = _q.base;
 },
 {
-glyphname = z.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-pos = (60,0);
-ref = _trazo.entra;
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(187,389,l),
-(207,367,o),
-(271,355,o),
-(338,355,cs),
-(360,355,o),
-(506,360,o),
-(506,360,c),
-(507,357,l),
-(426,254,o),
-(362,151,o),
-(280,48,c),
-(426,0,o),
-(457,-56,o),
-(457,-196,cs),
-(457,-295,o),
-(412,-349,o),
-(371,-349,cs),
-(338,-349,o),
-(308,-311,o),
-(308,-249,cs),
-(308,-146,o),
-(421,-4,o),
-(528,-4,c)
-);
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 45;
-strokeWidth = 40;
-};
-closed = 0;
-nodes = (
-(210,179,l),
-(218,276,o),
-(184,393,o),
-(184,393,c)
-);
+pos = (271,0);
+ref = _conect.right;
 }
 );
-};
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = z;
-}
-);
-width = 459;
+width = 391;
 }
 );
 metricLeft = a;
@@ -13701,7 +12832,7 @@ metricRight = a;
 },
 {
 glyphname = a.left.b;
-lastChange = "2024-03-23 06:59:32 +0000";
+lastChange = "2024-05-14 13:07:31 +0000";
 layers = (
 {
 background = {
@@ -15095,7 +14226,7 @@ width = 736;
 },
 {
 glyphname = x.left.b;
-lastChange = "2024-03-23 07:51:54 +0000";
+lastChange = "2024-05-16 10:56:01 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -15108,7 +14239,7 @@ pos = (145,0);
 ref = _x.base;
 }
 );
-width = 534;
+width = 538;
 }
 );
 metricRight = a;
@@ -15299,7 +14430,7 @@ width = 572;
 },
 {
 glyphname = v.right.e;
-lastChange = "2024-03-23 06:59:32 +0000";
+lastChange = "2024-05-16 08:03:46 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -15313,16 +14444,16 @@ ref = _v.base;
 },
 {
 pos = (597,0);
-ref = _base.salida.b.e;
+ref = _brazo.b;
 }
 );
-width = 732;
+width = 715;
 }
 );
 },
 {
 glyphname = w.right.e;
-lastChange = "2024-03-23 06:59:32 +0000";
+lastChange = "2024-05-16 08:03:57 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -15344,10 +14475,10 @@ ref = _panza.b;
 },
 {
 pos = (861,0);
-ref = _base.salida.b.e;
+ref = _brazo.b;
 }
 );
-width = 996;
+width = 979;
 }
 );
 metricLeft = v;
@@ -16697,7 +15828,7 @@ width = 979;
 },
 {
 glyphname = x.left.g;
-lastChange = "2024-03-23 07:51:54 +0000";
+lastChange = "2024-05-16 10:56:01 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -16710,7 +15841,7 @@ pos = (264,0);
 ref = _x.base;
 }
 );
-width = 653;
+width = 657;
 }
 );
 metricLeft = a;
@@ -18822,11 +17953,11 @@ shapes = (
 ref = x.left.b;
 },
 {
-pos = (534,0);
+pos = (538,0);
 ref = _final;
 }
 );
-width = 657;
+width = 661;
 }
 );
 },
@@ -19318,11 +18449,11 @@ shapes = (
 ref = x.left.g;
 },
 {
-pos = (653,0);
+pos = (657,0);
 ref = _final;
 }
 );
-width = 776;
+width = 780;
 }
 );
 },
@@ -19859,51 +18990,6 @@ width = 608;
 );
 },
 {
-glyphname = b.right.e.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = b.right.e;
-}
-);
-width = 572;
-}
-);
-},
-{
-glyphname = v.right.e.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = v.right.e;
-}
-);
-width = 732;
-}
-);
-},
-{
-glyphname = w.right.e.init;
-lastChange = "2024-03-23 06:59:32 +0000";
-layers = (
-{
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-ref = w.right.e;
-}
-);
-width = 996;
-}
-);
-},
-{
 glyphname = b.left.g.right.e;
 kernLeft = lc_o;
 kernRight = lc_o;
@@ -20043,7 +19129,7 @@ width = 938;
 },
 {
 glyphname = b_e;
-lastChange = "2024-03-23 07:51:54 +0000";
+lastChange = "2024-05-16 10:56:01 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
