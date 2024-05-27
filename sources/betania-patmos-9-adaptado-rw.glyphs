@@ -1,10 +1,8 @@
 {
-.appVersion = "3306";
+.appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"/c.fina",
-"ß",
-"/_a.master a/a.init/a.from.bottom/a.from.middle/a.from.top/a.from.base.long/a.from.top.fina @/_d.master/_g.master/_q.master a"
+albert
 );
 axes = (
 {
@@ -52,6 +50,7 @@ features = (
 {
 automatic = 1;
 code = "feature locl;
+feature calt;
 feature subs;
 feature sinf;
 feature sups;
@@ -99,16 +98,17 @@ lookup locl_latn_1 {
 tag = locl;
 },
 {
-code = "# POSICION EN LA PALABRA @init @media (estas dos @fina @isol no las uso)
+code = "# https://docs.google.com/spreadsheets/d/1EkZOVEq2mW7irsxCQbfG921_dTimuX6Kt_FzSJJKsU8/edit#gid=0
+# POSICION EN LA PALABRA @init @media (estas dos @fina @isol no las uso)
 
 # All base lowercases letters (has unicode + idotaccent), would like to use a token but that one is not supported by GliphsLib
 # Estas son las letras por default
 
-@Medial=[a ae b c d  e f g h i idotless j jdotless k l ldot m n o oe p q r s germandbls t u v w x y z]; 
+@Medial=[a b c d e f g h i j k l m n o p q r s t u v w x y z a.from.bottom b.from.bottom c.from.bottom d.from.bottom e.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom o.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom a.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top]; 
 
 	# @Isolated=[$[name endswith \".isol\"]];
 
-@Initial=[$[name endswith \".init\"]];
+@Initial=[a.init b c.init d.init e f g.init h i j k l m n o.init p q.init r s t u v w x y z a.from.bottom b.from.bottom c.from.bottom d.from.bottom e.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom o.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom a.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top];
 	# solo tienen forma inicial: a ae c d g o oe q 
 
 @Final=[$[name endswith \".fina\"]];
@@ -119,7 +119,7 @@ code = "# POSICION EN LA PALABRA @init @media (estas dos @fina @isol no las uso)
 
 # Letters that need a long connection on the base line
 
-@BaseLongConnection=[ c $[name beginswith \"c.\"] germandbls $[name beginswith \"germandbls.\"] s $[name beginswith \"s.\"] x $[name beginswith \"x.\"]];
+@BaseLongConnection=[ c $[name beginswith \"c.\"] germandbls $[name beginswith \"germandbls\"] s $[name beginswith \"s.\"] x $[name beginswith \"x.\"]];
 	# c s ß x necesitan conectarse con un brazo largo a la derecha. from.base.long
 
 # Letters that needs connection from the top
@@ -134,6 +134,12 @@ code = "# POSICION EN LA PALABRA @init @media (estas dos @fina @isol no las uso)
 @Bottom=[f $[name beginswith \"f.\"] g $[name beginswith \"g.\"] j $[name beginswith \"j.\"] $[name beginswith \"jdotless\"] y $[name beginswith \"y.\"] z $[name beginswith \"z.\"]];
 	#después de las descendentes f g j y z van las letras que terminan .from.bottom
 
+
+lookup INITIAL {
+	lookupflag IgnoreMarks;
+	ignore sub @Lowercase @Medial';
+	sub @Medial' by @Initial;
+} INITIAL;
 ";
 tag = calt;
 },
@@ -13049,15 +13055,17 @@ metricRight = b;
 },
 {
 glyphname = c.from.top;
-lastChange = "2024-05-27 08:56:51 +0000";
+lastChange = "2024-05-27 12:00:52 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
+alignment = -1;
 ref = _conect.from.top;
 },
 {
+alignment = -1;
 pos = (44,0);
 ref = _c.master;
 }
@@ -14848,15 +14856,17 @@ width = 485;
 },
 {
 glyphname = c.from.top.fina;
-lastChange = "2024-05-27 08:57:37 +0000";
+lastChange = "2024-05-27 12:00:52 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
+alignment = -1;
 ref = c.from.top;
 },
 {
+alignment = -1;
 pos = (295,0);
 ref = _final;
 }
