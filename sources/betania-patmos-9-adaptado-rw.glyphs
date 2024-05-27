@@ -1,5 +1,5 @@
 {
-.appVersion = "3260";
+.appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
 albert
@@ -115,12 +115,17 @@ code = "# https://docs.google.com/spreadsheets/d/1EkZOVEq2mW7irsxCQbfG921_dTimuX
 	# revisar si es imprescindible que esté esta forma final
 
 
+
 # GRUPOS SEGUN EL LUGAR DE CONECTION
 
 # Letters that need a long connection on the base line
 
 @BaseLongConnection=[ c $[name beginswith \"c.\"] germandbls $[name beginswith \"germandbls\"] s $[name beginswith \"s.\"] x $[name beginswith \"x.\"]];
 	# c s ß x necesitan conectarse con un brazo largo a la derecha. from.base.long
+
+@Medial.BaseLongConnection=[a.from.base.long b c d e f g h i j k l m n o p q r s t u v w x y z a.from.bottom b.from.bottom c.from.bottom d.from.bottom e.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom o.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom a.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top];
+
+@Medial.FromTop=[a.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top a.from.top.fina b.from.top.fina c.from.top.fina d.from.top.fina e.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina j.from.top.fina k.from.top.fina l.from.top.fina m.from.top.fina n.from.top.fina o.from.top.fina p.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina t.from.top.fina u.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina z.from.top.fina a.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top];
 
 # Letters that needs connection from the top
 @Top=[b $[name beginswith \"b.\"] v $[name beginswith \"v.\"] w $[name beginswith \"w.\"]];
@@ -129,6 +134,7 @@ code = "# https://docs.google.com/spreadsheets/d/1EkZOVEq2mW7irsxCQbfG921_dTimuX
 # Letters that needs connection from the middle
 @Middle=[o $[name beginswith \"o.\"]];
 	#después de la o van las letras que terminan .from.middle
+
 
 # Letters that needs connection from the bottom
 @Bottom=[f $[name beginswith \"f.\"] g $[name beginswith \"g.\"] j $[name beginswith \"j.\"] $[name beginswith \"jdotless\"] y $[name beginswith \"y.\"] z $[name beginswith \"z.\"]];
@@ -140,6 +146,9 @@ lookup INITIAL {
 	ignore sub @Lowercase @Medial';
 	sub @Medial' by @Initial;
 } INITIAL;
+
+sub @BaseLongConnection @Medial' by @Medial.BaseLongConnection;
+sub @Top @Medial' by @Medial.FromTop;
 ";
 tag = calt;
 },
@@ -460,7 +469,7 @@ value = "5";
 );
 guides = (
 {
-pos = (153,-5);
+pos = (103,-5);
 },
 {
 pos = (308,363);
@@ -10186,7 +10195,7 @@ unicode = 115;
 },
 {
 glyphname = germandbls;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-05-27 13:23:13 +0000";
 layers = (
 {
 anchors = (
@@ -10210,47 +10219,25 @@ pos = (267,710);
 background = {
 shapes = (
 {
-closed = 0;
-nodes = (
-(176,-173,l),
-(192,700,l)
-);
+pos = (60,0);
+ref = _entra_s;
+},
+{
+pos = (296,0);
+ref = _s.master;
 },
 {
 attr = {
-identifier = ID0x7fadae4621b0;
-lineCapEnd = 1;
-lineCapStart = 1;
-};
-closed = 0;
-nodes = (
-(183,173,l),
-(183,347,o),
-(247,699,o),
-(409,699,cs),
-(578,699,o),
-(561,359,o),
-(281,360,c),
-(684,360,o),
-(575,-97,o),
-(331,31,c)
-);
-},
-{
-attr = {
-identifier = ID0x7fb660710af0;
+identifier = ID0x7f7bd5659180;
 lineCapEnd = "1";
 lineCapStart = "1";
 };
 closed = 0;
 nodes = (
-(386,11,l),
-(426,2,o),
-(495,-5,o),
-(582,-5,cs),
-(732,-5,o),
-(762,157,o),
-(768,360,c)
+(434,6,l),
+(466,-1,o),
+(500,-5,o),
+(554,-5,c)
 );
 }
 );
@@ -10283,21 +10270,26 @@ nodes = (
 (500,350,o),
 (281,360,c),
 (637,387,o),
-(587,-69,o),
-(323,31,c)
+(587,-79,o),
+(323,21,c)
 );
 },
 {
+attr = {
+identifier = ID0x7f7bd5659180;
+lineCapEnd = "1";
+lineCapStart = "1";
+};
 closed = 0;
 nodes = (
-(293,46,l),
-(353,10,o),
-(455,-5,o),
-(582,-5,c)
+(384,7,l),
+(416,0,o),
+(465,-5,o),
+(535,-5,c)
 );
 }
 );
-width = 582;
+width = 535;
 }
 );
 unicode = 223;
@@ -10479,7 +10471,7 @@ unicode = 119;
 glyphname = x;
 kernLeft = a;
 kernRight = c;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-05-27 13:03:43 +0000";
 layers = (
 {
 background = {
@@ -10500,7 +10492,7 @@ pos = (330,0);
 ref = _x.master;
 }
 );
-width = 719;
+width = 660;
 }
 );
 metricLeft = a;
@@ -11105,11 +11097,11 @@ shapes = (
 ref = x;
 },
 {
-pos = (719,0);
+pos = (660,0);
 ref = _final;
 }
 );
-width = 842;
+width = 783;
 }
 );
 },
@@ -12153,7 +12145,7 @@ pos = (264,0);
 ref = _x.master;
 }
 );
-width = 653;
+width = 594;
 }
 );
 metricLeft = a;
@@ -12950,7 +12942,7 @@ pos = (232,0);
 ref = _x.master;
 }
 );
-width = 621;
+width = 562;
 }
 );
 },
@@ -13722,7 +13714,7 @@ pos = (145,0);
 ref = _x.master;
 }
 );
-width = 534;
+width = 475;
 }
 );
 metricRight = a;
@@ -14268,11 +14260,11 @@ shapes = (
 ref = x.from.bottom;
 },
 {
-pos = (653,0);
+pos = (594,0);
 ref = _final;
 }
 );
-width = 776;
+width = 717;
 }
 );
 },
@@ -14762,11 +14754,11 @@ shapes = (
 ref = x.from.middle;
 },
 {
-pos = (621,0);
+pos = (562,0);
 ref = _final;
 }
 );
-width = 744;
+width = 685;
 }
 );
 },
@@ -15268,11 +15260,11 @@ shapes = (
 ref = x.from.top;
 },
 {
-pos = (534,0);
+pos = (475,0);
 ref = _final;
 }
 );
-width = 657;
+width = 598;
 }
 );
 },
@@ -24907,18 +24899,51 @@ width = 129;
 {
 export = 0;
 glyphname = _fina.g;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-05-27 12:42:43 +0000";
 layers = (
 {
+background = {
+shapes = (
+{
+attr = {
+identifier = ID0x7fe6d54b4b70;
+lineCapEnd = "1";
+lineCapStart = "1";
+};
+closed = 0;
+nodes = (
+(-103,360,l),
+(-103,-129,ls),
+(-103,-310,o),
+(-120,-373,o),
+(-172,-373,cs),
+(-222,-373,o),
+(-242,-330,o),
+(-242,-278,cs),
+(-242,-117,o),
+(-145,-70,o),
+(0,0,cs),
+(50,24,o),
+(101,49,o),
+(147,84,cs)
+);
+}
+);
+};
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
+attr = {
+identifier = ID0x7fe6d54b4b70;
+lineCapEnd = "1";
+lineCapStart = "1";
+};
 closed = 0;
 nodes = (
-(0,-5,ls),
-(48,29,o),
-(101,60,o),
-(147,83,cs)
+(0,0,l),
+(50,24,o),
+(101,49,o),
+(147,84,cs)
 );
 }
 );
@@ -25128,7 +25153,7 @@ width = 313;
 {
 export = 0;
 glyphname = _o.master;
-lastChange = "2024-05-27 08:31:20 +0000";
+lastChange = "2024-05-27 12:43:07 +0000";
 layers = (
 {
 background = {
@@ -25165,7 +25190,7 @@ shapes = (
 closed = 0;
 nodes = (
 (392,92,l),
-(89,92,o),
+(79,92,o),
 (102,359,o),
 (186,359,cs),
 (234,359,o),
@@ -25604,7 +25629,7 @@ width = 571;
 {
 export = 0;
 glyphname = _x.master;
-lastChange = "2024-05-27 08:31:20 +0000";
+lastChange = "2024-05-27 13:03:43 +0000";
 layers = (
 {
 background = {
@@ -25645,7 +25670,7 @@ nodes = (
 );
 }
 );
-width = 389;
+width = 330;
 }
 );
 },
@@ -26096,7 +26121,7 @@ width = 160;
 {
 export = 0;
 glyphname = _conect.from.middle;
-lastChange = "2024-05-27 08:58:25 +0000";
+lastChange = "2024-05-27 12:43:24 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
