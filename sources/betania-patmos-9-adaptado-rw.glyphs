@@ -2,45 +2,7 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-"e/a.from.base.long.fina  /a.fina 
-e/b.from.base.long.fina  /b.fina 
-e/c.from.base.long.fina  /c.fina 
-e/d.from.base.long.fina  /a.fina 
-e/e.from.base.long.fina  /a.fina 
-e/f.from.base.long.fina  /g.fina 
-e/g.from.base.long.fina  /g.fina 
-e/h.from.base.long.fina  /a.fina 
-e/i.from.base.long.fina  /a.fina 
-e/j.from.base.long.fina  /g.fina 
-e/k.from.base.long.fina  /a.fina 
-e/l.from.base.long.fina  /a.fina 
-e/m.from.base.long.fina  /a.fina 
-e/n.from.base.long.fina  /a.fina 
-e/o.from.base.long.fina 
-e/p.from.base.long.fina  /a.fina 
-e/q.from.base.long.fina  /a.fina 
-e/r.from.base.long.fina  /a.fina 
-e/s.from.base.long.fina  /_s.master 
-e/t.from.base.long.fina  /a.fina 
-e/u.from.base.long.fina  /a.fina 
-e/v.from.base.long.fina  /b.fina 
-e/w.from.base.long.fina  /b.fina 
-e/x.from.base.long.fina 
-e/y.from.base.long.fina  /g.fina 
-e/z.from.base.long.fina  /g.fina",
-"ab/r.from.top azo
-bs",
-"b/a.isol/ae.isol/b.fina/b.isol/c.isol/d.isol/e.isol/f.isol/g.isol/h.isol/i.isol/j.isol/k.isol/l.isol/m.isol/n.isol/o.isol/oe.isol/p.isol/q.isol/r.isol/s.isol/t.isol/u.isol/v.isol/w.isol/x.isol/y.isol/z.isol",
-"babebibo
-bubabbbc
-bdbebf
-bg
-bhbibj
-bkblbmbnbo
-bpbqbrbs
-btbubvbwbx
-by bz",
-""
+"colocar acocacecicocu"
 );
 axes = (
 {
@@ -51,7 +13,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo a ae b c d eth e f g h i idotless j jdotless k l ldot m n o oslash oe p thorn q r s germandbls t u v w x y z saltillo k.alt a.fina ae.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina oe.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina a.init ae.init c.init d.init g.init o.init oe.init q.init a.isol ae.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol oe.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol a.from.bottom ae.from.bottom b.from.bottom c.from.bottom d.from.bottom e.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom o.from.bottom oe.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom b.right.e v.right.e w.right.e a.from.middle ae.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle oe.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top ae.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top oe.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top k.from.bottom.alt k.from.top.alt a.from.bottom.fina ae.from.bottom.fina b.from.bottom.fina c.from.bottom.fina d.from.bottom.fina e.from.bottom.fina f.from.bottom.fina g.from.bottom.fina h.from.bottom.fina i.from.bottom.fina j.from.bottom.fina k.from.bottom.fina l.from.bottom.fina m.from.bottom.fina n.from.bottom.fina o.from.bottom.fina oe.from.bottom.fina p.from.bottom.fina q.from.bottom.fina r.from.bottom.fina s.from.bottom.fina t.from.bottom.fina u.from.bottom.fina v.from.bottom.fina w.from.bottom.fina x.from.bottom.fina y.from.bottom.fina z.from.bottom.fina a.from.middle.fina ae.from.middle.fina b.from.middle.fina c.from.middle.fina d.from.middle.fina e.from.middle.fina f.from.middle.fina g.from.middle.fina h.from.middle.fina i.from.middle.fina j.from.middle.fina k.from.middle.fina l.from.middle.fina m.from.middle.fina n.from.middle.fina o.from.middle.fina oe.from.middle.fina p.from.middle.fina q.from.middle.fina r.from.middle.fina s.from.middle.fina t.from.middle.fina u.from.middle.fina v.from.middle.fina w.from.middle.fina x.from.middle.fina y.from.middle.fina z.from.middle.fina a.from.top.fina ae.from.top.fina b.from.top.fina c.from.top.fina d.from.top.fina e.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina j.from.top.fina k.from.top.fina l.from.top.fina m.from.top.fina n.from.top.fina o.from.top.fina oe.from.top.fina p.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina t.from.top.fina u.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina z.from.top.fina a.from.base.long ae.from.base.long b.from.base.long c.from.base.long d.from.base.long e.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long j.from.base.long k.from.base.long l.from.base.long m.from.base.long n.from.base.long o.from.base.long oe.from.base.long p.from.base.long q.from.base.long r.from.base.long s.from.base.long t.from.base.long u.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long z.from.base.long b.from.bottom.right.e b.from.middle.right.e v.from.middle.right.e w.from.middle.right.e a.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina d.from.base.long.fina e.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina j.from.base.long.fina k.from.base.long.fina l.from.base.long.fina m.from.base.long.fina n.from.base.long.fina o.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina t.from.base.long.fina u.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina z.from.base.long.fina b_e zero one two three four five six seven eight nine eight.alt nine.alt zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths fraction.alt zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space thinspace period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle baht at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl ampersand.alt cent currency dollar euro hryvnia ruble rupeeIndian sheqel sterling won yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow dottedCircle lozenge dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb cedillacomb ogonekcomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo a aacute adieresis agrave ae b c ccedilla d eth e eacute edieresis egrave f g h i idotless iacute idieresis igrave j jdotless k l ldot m n ntilde o oacute odieresis ograve oslash oe p thorn q r s germandbls t u uacute udieresis ugrave v w x y z saltillo k.alt a.fina aacute.fina adieresis.fina agrave.fina ae.fina b.fina c.fina ccedilla.fina d.fina e.fina eacute.fina edieresis.fina egrave.fina f.fina g.fina h.fina i.fina iacute.fina idieresis.fina igrave.fina j.fina k.fina l.fina m.fina n.fina ntilde.fina o.fina oacute.fina odieresis.fina ograve.fina oe.fina p.fina q.fina r.fina s.fina t.fina u.fina uacute.fina udieresis.fina ugrave.fina v.fina w.fina x.fina y.fina z.fina a.init aacute.init adieresis.init agrave.init ae.init c.init ccedilla.init d.init g.init o.init oacute.init odieresis.init ograve.init oe.init q.init a.isol aacute.isol adieresis.isol agrave.isol ae.isol b.isol c.isol ccedilla.isol d.isol e.isol eacute.isol edieresis.isol egrave.isol f.isol g.isol h.isol i.isol iacute.isol idieresis.isol igrave.isol j.isol k.isol l.isol m.isol n.isol ntilde.isol o.isol oacute.isol odieresis.isol ograve.isol oe.isol p.isol q.isol r.isol s.isol t.isol u.isol uacute.isol udieresis.isol ugrave.isol v.isol w.isol x.isol y.isol z.isol a.from.bottom aacute.from.bottom adieresis.from.bottom agrave.from.bottom ae.from.bottom b.from.bottom c.from.bottom ccedilla.from.bottom d.from.bottom e.from.bottom eacute.from.bottom edieresis.from.bottom egrave.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom iacute.from.bottom idieresis.from.bottom igrave.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom ntilde.from.bottom o.from.bottom oacute.from.bottom odieresis.from.bottom ograve.from.bottom oe.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom uacute.from.bottom udieresis.from.bottom ugrave.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom b.right.e v.right.e w.right.e a.from.middle aacute.from.middle adieresis.from.middle agrave.from.middle ae.from.middle b.from.middle c.from.middle ccedilla.from.middle d.from.middle e.from.middle eacute.from.middle edieresis.from.middle egrave.from.middle f.from.middle g.from.middle h.from.middle i.from.middle iacute.from.middle idieresis.from.middle igrave.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle ntilde.from.middle o.from.middle oacute.from.middle odieresis.from.middle ograve.from.middle oe.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle uacute.from.middle udieresis.from.middle ugrave.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top aacute.from.top adieresis.from.top agrave.from.top ae.from.top b.from.top c.from.top ccedilla.from.top d.from.top e.from.top eacute.from.top edieresis.from.top egrave.from.top f.from.top g.from.top h.from.top i.from.top iacute.from.top idieresis.from.top igrave.from.top j.from.top k.from.top l.from.top m.from.top n.from.top ntilde.from.top o.from.top oacute.from.top odieresis.from.top ograve.from.top oe.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top uacute.from.top udieresis.from.top ugrave.from.top v.from.top w.from.top x.from.top y.from.top z.from.top k.from.bottom.alt k.from.top.alt a.from.bottom.fina aacute.from.bottom.fina adieresis.from.bottom.fina agrave.from.bottom.fina ae.from.bottom.fina b.from.bottom.fina c.from.bottom.fina ccedilla.from.bottom.fina d.from.bottom.fina e.from.bottom.fina eacute.from.bottom.fina edieresis.from.bottom.fina egrave.from.bottom.fina f.from.bottom.fina g.from.bottom.fina h.from.bottom.fina i.from.bottom.fina iacute.from.bottom.fina idieresis.from.bottom.fina igrave.from.bottom.fina j.from.bottom.fina k.from.bottom.fina l.from.bottom.fina m.from.bottom.fina n.from.bottom.fina ntilde.from.bottom.fina o.from.bottom.fina oacute.from.bottom.fina odieresis.from.bottom.fina ograve.from.bottom.fina oe.from.bottom.fina p.from.bottom.fina q.from.bottom.fina r.from.bottom.fina s.from.bottom.fina t.from.bottom.fina u.from.bottom.fina uacute.from.bottom.fina udieresis.from.bottom.fina ugrave.from.bottom.fina v.from.bottom.fina w.from.bottom.fina x.from.bottom.fina y.from.bottom.fina z.from.bottom.fina a.from.middle.fina aacute.from.middle.fina adieresis.from.middle.fina agrave.from.middle.fina ae.from.middle.fina b.from.middle.fina c.from.middle.fina ccedilla.from.middle.fina d.from.middle.fina e.from.middle.fina eacute.from.middle.fina edieresis.from.middle.fina egrave.from.middle.fina f.from.middle.fina g.from.middle.fina h.from.middle.fina i.from.middle.fina iacute.from.middle.fina idieresis.from.middle.fina igrave.from.middle.fina j.from.middle.fina k.from.middle.fina l.from.middle.fina m.from.middle.fina n.from.middle.fina ntilde.from.middle.fina o.from.middle.fina oacute.from.middle.fina odieresis.from.middle.fina ograve.from.middle.fina oe.from.middle.fina p.from.middle.fina q.from.middle.fina r.from.middle.fina s.from.middle.fina t.from.middle.fina u.from.middle.fina uacute.from.middle.fina udieresis.from.middle.fina ugrave.from.middle.fina v.from.middle.fina w.from.middle.fina x.from.middle.fina y.from.middle.fina z.from.middle.fina a.from.top.fina aacute.from.top.fina adieresis.from.top.fina agrave.from.top.fina ae.from.top.fina b.from.top.fina c.from.top.fina ccedilla.from.top.fina d.from.top.fina e.from.top.fina eacute.from.top.fina edieresis.from.top.fina egrave.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina iacute.from.top.fina idieresis.from.top.fina igrave.from.top.fina j.from.top.fina k.from.top.fina l.from.top.fina m.from.top.fina n.from.top.fina ntilde.from.top.fina o.from.top.fina oacute.from.top.fina odieresis.from.top.fina ograve.from.top.fina oe.from.top.fina p.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina t.from.top.fina u.from.top.fina uacute.from.top.fina udieresis.from.top.fina ugrave.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina z.from.top.fina a.from.base.long aacute.from.base.long adieresis.from.base.long agrave.from.base.long ae.from.base.long b.from.base.long c.from.base.long ccedilla.from.base.long d.from.base.long e.from.base.long eacute.from.base.long edieresis.from.base.long egrave.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long iacute.from.base.long idieresis.from.base.long igrave.from.base.long j.from.base.long k.from.base.long l.from.base.long m.from.base.long n.from.base.long ntilde.from.base.long o.from.base.long oacute.from.base.long odieresis.from.base.long ograve.from.base.long oe.from.base.long p.from.base.long q.from.base.long r.from.base.long s.from.base.long t.from.base.long u.from.base.long uacute.from.base.long udieresis.from.base.long ugrave.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long z.from.base.long b.from.bottom.right.e b.from.middle.right.e v.from.middle.right.e w.from.middle.right.e a.from.base.long.fina aacute.from.base.long.fina adieresis.from.base.long.fina agrave.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina ccedilla.from.base.long.fina d.from.base.long.fina e.from.base.long.fina eacute.from.base.long.fina edieresis.from.base.long.fina egrave.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina iacute.from.base.long.fina idieresis.from.base.long.fina igrave.from.base.long.fina j.from.base.long.fina k.from.base.long.fina l.from.base.long.fina m.from.base.long.fina n.from.base.long.fina ntilde.from.base.long.fina o.from.base.long.fina oacute.from.base.long.fina odieresis.from.base.long.fina ograve.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina t.from.base.long.fina u.from.base.long.fina uacute.from.base.long.fina udieresis.from.base.long.fina ugrave.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina z.from.base.long.fina b_e zero one two three four five six seven eight nine eight.alt nine.alt zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths fraction.alt zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space thinspace period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle baht at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl ampersand.alt cent currency dollar euro hryvnia ruble rupeeIndian sheqel sterling won yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow dottedCircle lozenge dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb cedillacomb ogonekcomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek";
 name = All;
 },
 {
@@ -61,17 +23,17 @@ name = Uppercase;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo a ae b c d eth e f g h i idotless j jdotless k l ldot m n o oslash oe p thorn q r s germandbls t u v w x y z saltillo k.alt a.fina ae.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina oe.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina a.init ae.init c.init d.init g.init o.init oe.init q.init a.isol ae.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol oe.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol a.from.bottom ae.from.bottom b.from.bottom c.from.bottom d.from.bottom e.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom o.from.bottom oe.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom b.right.e v.right.e w.right.e a.from.middle ae.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle oe.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top ae.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top oe.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top k.from.bottom.alt k.from.top.alt a.from.bottom.fina ae.from.bottom.fina b.from.bottom.fina c.from.bottom.fina d.from.bottom.fina e.from.bottom.fina f.from.bottom.fina g.from.bottom.fina h.from.bottom.fina i.from.bottom.fina j.from.bottom.fina k.from.bottom.fina l.from.bottom.fina m.from.bottom.fina n.from.bottom.fina o.from.bottom.fina oe.from.bottom.fina p.from.bottom.fina q.from.bottom.fina r.from.bottom.fina s.from.bottom.fina t.from.bottom.fina u.from.bottom.fina v.from.bottom.fina w.from.bottom.fina x.from.bottom.fina y.from.bottom.fina z.from.bottom.fina a.from.middle.fina ae.from.middle.fina b.from.middle.fina c.from.middle.fina d.from.middle.fina e.from.middle.fina f.from.middle.fina g.from.middle.fina h.from.middle.fina i.from.middle.fina j.from.middle.fina k.from.middle.fina l.from.middle.fina m.from.middle.fina n.from.middle.fina o.from.middle.fina oe.from.middle.fina p.from.middle.fina q.from.middle.fina r.from.middle.fina s.from.middle.fina t.from.middle.fina u.from.middle.fina v.from.middle.fina w.from.middle.fina x.from.middle.fina y.from.middle.fina z.from.middle.fina a.from.top.fina ae.from.top.fina b.from.top.fina c.from.top.fina d.from.top.fina e.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina j.from.top.fina k.from.top.fina l.from.top.fina m.from.top.fina n.from.top.fina o.from.top.fina oe.from.top.fina p.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina t.from.top.fina u.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina z.from.top.fina a.from.base.long ae.from.base.long b.from.base.long c.from.base.long d.from.base.long e.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long j.from.base.long k.from.base.long l.from.base.long m.from.base.long n.from.base.long o.from.base.long oe.from.base.long p.from.base.long q.from.base.long r.from.base.long s.from.base.long t.from.base.long u.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long z.from.base.long b.from.bottom.right.e b.from.middle.right.e v.from.middle.right.e w.from.middle.right.e a.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina d.from.base.long.fina e.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina j.from.base.long.fina k.from.base.long.fina l.from.base.long.fina m.from.base.long.fina n.from.base.long.fina o.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina t.from.base.long.fina u.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina z.from.base.long.fina b_e";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo a aacute adieresis agrave ae b c ccedilla d eth e eacute edieresis egrave f g h i idotless iacute idieresis igrave j jdotless k l ldot m n ntilde o oacute odieresis ograve oslash oe p thorn q r s germandbls t u uacute udieresis ugrave v w x y z saltillo k.alt a.fina aacute.fina adieresis.fina agrave.fina ae.fina b.fina c.fina ccedilla.fina d.fina e.fina eacute.fina edieresis.fina egrave.fina f.fina g.fina h.fina i.fina iacute.fina idieresis.fina igrave.fina j.fina k.fina l.fina m.fina n.fina ntilde.fina o.fina oacute.fina odieresis.fina ograve.fina oe.fina p.fina q.fina r.fina s.fina t.fina u.fina uacute.fina udieresis.fina ugrave.fina v.fina w.fina x.fina y.fina z.fina a.init aacute.init adieresis.init agrave.init ae.init c.init ccedilla.init d.init g.init o.init oacute.init odieresis.init ograve.init oe.init q.init a.isol aacute.isol adieresis.isol agrave.isol ae.isol b.isol c.isol ccedilla.isol d.isol e.isol eacute.isol edieresis.isol egrave.isol f.isol g.isol h.isol i.isol iacute.isol idieresis.isol igrave.isol j.isol k.isol l.isol m.isol n.isol ntilde.isol o.isol oacute.isol odieresis.isol ograve.isol oe.isol p.isol q.isol r.isol s.isol t.isol u.isol uacute.isol udieresis.isol ugrave.isol v.isol w.isol x.isol y.isol z.isol a.from.bottom aacute.from.bottom adieresis.from.bottom agrave.from.bottom ae.from.bottom b.from.bottom c.from.bottom ccedilla.from.bottom d.from.bottom e.from.bottom eacute.from.bottom edieresis.from.bottom egrave.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom iacute.from.bottom idieresis.from.bottom igrave.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom ntilde.from.bottom o.from.bottom oacute.from.bottom odieresis.from.bottom ograve.from.bottom oe.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom uacute.from.bottom udieresis.from.bottom ugrave.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom b.right.e v.right.e w.right.e a.from.middle aacute.from.middle adieresis.from.middle agrave.from.middle ae.from.middle b.from.middle c.from.middle ccedilla.from.middle d.from.middle e.from.middle eacute.from.middle edieresis.from.middle egrave.from.middle f.from.middle g.from.middle h.from.middle i.from.middle iacute.from.middle idieresis.from.middle igrave.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle ntilde.from.middle o.from.middle oacute.from.middle odieresis.from.middle ograve.from.middle oe.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle uacute.from.middle udieresis.from.middle ugrave.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top aacute.from.top adieresis.from.top agrave.from.top ae.from.top b.from.top c.from.top ccedilla.from.top d.from.top e.from.top eacute.from.top edieresis.from.top egrave.from.top f.from.top g.from.top h.from.top i.from.top iacute.from.top idieresis.from.top igrave.from.top j.from.top k.from.top l.from.top m.from.top n.from.top ntilde.from.top o.from.top oacute.from.top odieresis.from.top ograve.from.top oe.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top uacute.from.top udieresis.from.top ugrave.from.top v.from.top w.from.top x.from.top y.from.top z.from.top k.from.bottom.alt k.from.top.alt a.from.bottom.fina aacute.from.bottom.fina adieresis.from.bottom.fina agrave.from.bottom.fina ae.from.bottom.fina b.from.bottom.fina c.from.bottom.fina ccedilla.from.bottom.fina d.from.bottom.fina e.from.bottom.fina eacute.from.bottom.fina edieresis.from.bottom.fina egrave.from.bottom.fina f.from.bottom.fina g.from.bottom.fina h.from.bottom.fina i.from.bottom.fina iacute.from.bottom.fina idieresis.from.bottom.fina igrave.from.bottom.fina j.from.bottom.fina k.from.bottom.fina l.from.bottom.fina m.from.bottom.fina n.from.bottom.fina ntilde.from.bottom.fina o.from.bottom.fina oacute.from.bottom.fina odieresis.from.bottom.fina ograve.from.bottom.fina oe.from.bottom.fina p.from.bottom.fina q.from.bottom.fina r.from.bottom.fina s.from.bottom.fina t.from.bottom.fina u.from.bottom.fina uacute.from.bottom.fina udieresis.from.bottom.fina ugrave.from.bottom.fina v.from.bottom.fina w.from.bottom.fina x.from.bottom.fina y.from.bottom.fina z.from.bottom.fina a.from.middle.fina aacute.from.middle.fina adieresis.from.middle.fina agrave.from.middle.fina ae.from.middle.fina b.from.middle.fina c.from.middle.fina ccedilla.from.middle.fina d.from.middle.fina e.from.middle.fina eacute.from.middle.fina edieresis.from.middle.fina egrave.from.middle.fina f.from.middle.fina g.from.middle.fina h.from.middle.fina i.from.middle.fina iacute.from.middle.fina idieresis.from.middle.fina igrave.from.middle.fina j.from.middle.fina k.from.middle.fina l.from.middle.fina m.from.middle.fina n.from.middle.fina ntilde.from.middle.fina o.from.middle.fina oacute.from.middle.fina odieresis.from.middle.fina ograve.from.middle.fina oe.from.middle.fina p.from.middle.fina q.from.middle.fina r.from.middle.fina s.from.middle.fina t.from.middle.fina u.from.middle.fina uacute.from.middle.fina udieresis.from.middle.fina ugrave.from.middle.fina v.from.middle.fina w.from.middle.fina x.from.middle.fina y.from.middle.fina z.from.middle.fina a.from.top.fina aacute.from.top.fina adieresis.from.top.fina agrave.from.top.fina ae.from.top.fina b.from.top.fina c.from.top.fina ccedilla.from.top.fina d.from.top.fina e.from.top.fina eacute.from.top.fina edieresis.from.top.fina egrave.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina iacute.from.top.fina idieresis.from.top.fina igrave.from.top.fina j.from.top.fina k.from.top.fina l.from.top.fina m.from.top.fina n.from.top.fina ntilde.from.top.fina o.from.top.fina oacute.from.top.fina odieresis.from.top.fina ograve.from.top.fina oe.from.top.fina p.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina t.from.top.fina u.from.top.fina uacute.from.top.fina udieresis.from.top.fina ugrave.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina z.from.top.fina a.from.base.long aacute.from.base.long adieresis.from.base.long agrave.from.base.long ae.from.base.long b.from.base.long c.from.base.long ccedilla.from.base.long d.from.base.long e.from.base.long eacute.from.base.long edieresis.from.base.long egrave.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long iacute.from.base.long idieresis.from.base.long igrave.from.base.long j.from.base.long k.from.base.long l.from.base.long m.from.base.long n.from.base.long ntilde.from.base.long o.from.base.long oacute.from.base.long odieresis.from.base.long ograve.from.base.long oe.from.base.long p.from.base.long q.from.base.long r.from.base.long s.from.base.long t.from.base.long u.from.base.long uacute.from.base.long udieresis.from.base.long ugrave.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long z.from.base.long b.from.bottom.right.e b.from.middle.right.e v.from.middle.right.e w.from.middle.right.e a.from.base.long.fina aacute.from.base.long.fina adieresis.from.base.long.fina agrave.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina ccedilla.from.base.long.fina d.from.base.long.fina e.from.base.long.fina eacute.from.base.long.fina edieresis.from.base.long.fina egrave.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina iacute.from.base.long.fina idieresis.from.base.long.fina igrave.from.base.long.fina j.from.base.long.fina k.from.base.long.fina l.from.base.long.fina m.from.base.long.fina n.from.base.long.fina ntilde.from.base.long.fina o.from.base.long.fina oacute.from.base.long.fina odieresis.from.base.long.fina ograve.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina t.from.base.long.fina u.from.base.long.fina uacute.from.base.long.fina udieresis.from.base.long.fina ugrave.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina z.from.base.long.fina b_e";
 name = AllLetters;
 },
 {
 automatic = 1;
-code = "a ae b c d eth e f g h i idotless j jdotless k l ldot m n o oslash oe p thorn q r s germandbls t u v w x y z saltillo k.alt a.fina ae.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina oe.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina a.init ae.init c.init d.init g.init o.init oe.init q.init a.isol ae.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol oe.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol a.from.bottom ae.from.bottom b.from.bottom c.from.bottom d.from.bottom e.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom o.from.bottom oe.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom b.right.e v.right.e w.right.e a.from.middle ae.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle oe.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top ae.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top oe.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top k.from.bottom.alt k.from.top.alt a.from.bottom.fina ae.from.bottom.fina b.from.bottom.fina c.from.bottom.fina d.from.bottom.fina e.from.bottom.fina f.from.bottom.fina g.from.bottom.fina h.from.bottom.fina i.from.bottom.fina j.from.bottom.fina k.from.bottom.fina l.from.bottom.fina m.from.bottom.fina n.from.bottom.fina o.from.bottom.fina oe.from.bottom.fina p.from.bottom.fina q.from.bottom.fina r.from.bottom.fina s.from.bottom.fina t.from.bottom.fina u.from.bottom.fina v.from.bottom.fina w.from.bottom.fina x.from.bottom.fina y.from.bottom.fina z.from.bottom.fina a.from.middle.fina ae.from.middle.fina b.from.middle.fina c.from.middle.fina d.from.middle.fina e.from.middle.fina f.from.middle.fina g.from.middle.fina h.from.middle.fina i.from.middle.fina j.from.middle.fina k.from.middle.fina l.from.middle.fina m.from.middle.fina n.from.middle.fina o.from.middle.fina oe.from.middle.fina p.from.middle.fina q.from.middle.fina r.from.middle.fina s.from.middle.fina t.from.middle.fina u.from.middle.fina v.from.middle.fina w.from.middle.fina x.from.middle.fina y.from.middle.fina z.from.middle.fina a.from.top.fina ae.from.top.fina b.from.top.fina c.from.top.fina d.from.top.fina e.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina j.from.top.fina k.from.top.fina l.from.top.fina m.from.top.fina n.from.top.fina o.from.top.fina oe.from.top.fina p.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina t.from.top.fina u.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina z.from.top.fina a.from.base.long ae.from.base.long b.from.base.long c.from.base.long d.from.base.long e.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long j.from.base.long k.from.base.long l.from.base.long m.from.base.long n.from.base.long o.from.base.long oe.from.base.long p.from.base.long q.from.base.long r.from.base.long s.from.base.long t.from.base.long u.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long z.from.base.long b.from.bottom.right.e b.from.middle.right.e v.from.middle.right.e w.from.middle.right.e a.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina d.from.base.long.fina e.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina j.from.base.long.fina k.from.base.long.fina l.from.base.long.fina m.from.base.long.fina n.from.base.long.fina o.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina t.from.base.long.fina u.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina z.from.base.long.fina b_e";
+code = "a aacute adieresis agrave ae b c ccedilla d eth e eacute edieresis egrave f g h i idotless iacute idieresis igrave j jdotless k l ldot m n ntilde o oacute odieresis ograve oslash oe p thorn q r s germandbls t u uacute udieresis ugrave v w x y z saltillo k.alt a.fina aacute.fina adieresis.fina agrave.fina ae.fina b.fina c.fina ccedilla.fina d.fina e.fina eacute.fina edieresis.fina egrave.fina f.fina g.fina h.fina i.fina iacute.fina idieresis.fina igrave.fina j.fina k.fina l.fina m.fina n.fina ntilde.fina o.fina oacute.fina odieresis.fina ograve.fina oe.fina p.fina q.fina r.fina s.fina t.fina u.fina uacute.fina udieresis.fina ugrave.fina v.fina w.fina x.fina y.fina z.fina a.init aacute.init adieresis.init agrave.init ae.init c.init ccedilla.init d.init g.init o.init oacute.init odieresis.init ograve.init oe.init q.init a.isol aacute.isol adieresis.isol agrave.isol ae.isol b.isol c.isol ccedilla.isol d.isol e.isol eacute.isol edieresis.isol egrave.isol f.isol g.isol h.isol i.isol iacute.isol idieresis.isol igrave.isol j.isol k.isol l.isol m.isol n.isol ntilde.isol o.isol oacute.isol odieresis.isol ograve.isol oe.isol p.isol q.isol r.isol s.isol t.isol u.isol uacute.isol udieresis.isol ugrave.isol v.isol w.isol x.isol y.isol z.isol a.from.bottom aacute.from.bottom adieresis.from.bottom agrave.from.bottom ae.from.bottom b.from.bottom c.from.bottom ccedilla.from.bottom d.from.bottom e.from.bottom eacute.from.bottom edieresis.from.bottom egrave.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom iacute.from.bottom idieresis.from.bottom igrave.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom ntilde.from.bottom o.from.bottom oacute.from.bottom odieresis.from.bottom ograve.from.bottom oe.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom uacute.from.bottom udieresis.from.bottom ugrave.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom b.right.e v.right.e w.right.e a.from.middle aacute.from.middle adieresis.from.middle agrave.from.middle ae.from.middle b.from.middle c.from.middle ccedilla.from.middle d.from.middle e.from.middle eacute.from.middle edieresis.from.middle egrave.from.middle f.from.middle g.from.middle h.from.middle i.from.middle iacute.from.middle idieresis.from.middle igrave.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle ntilde.from.middle o.from.middle oacute.from.middle odieresis.from.middle ograve.from.middle oe.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle uacute.from.middle udieresis.from.middle ugrave.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top aacute.from.top adieresis.from.top agrave.from.top ae.from.top b.from.top c.from.top ccedilla.from.top d.from.top e.from.top eacute.from.top edieresis.from.top egrave.from.top f.from.top g.from.top h.from.top i.from.top iacute.from.top idieresis.from.top igrave.from.top j.from.top k.from.top l.from.top m.from.top n.from.top ntilde.from.top o.from.top oacute.from.top odieresis.from.top ograve.from.top oe.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top uacute.from.top udieresis.from.top ugrave.from.top v.from.top w.from.top x.from.top y.from.top z.from.top k.from.bottom.alt k.from.top.alt a.from.bottom.fina aacute.from.bottom.fina adieresis.from.bottom.fina agrave.from.bottom.fina ae.from.bottom.fina b.from.bottom.fina c.from.bottom.fina ccedilla.from.bottom.fina d.from.bottom.fina e.from.bottom.fina eacute.from.bottom.fina edieresis.from.bottom.fina egrave.from.bottom.fina f.from.bottom.fina g.from.bottom.fina h.from.bottom.fina i.from.bottom.fina iacute.from.bottom.fina idieresis.from.bottom.fina igrave.from.bottom.fina j.from.bottom.fina k.from.bottom.fina l.from.bottom.fina m.from.bottom.fina n.from.bottom.fina ntilde.from.bottom.fina o.from.bottom.fina oacute.from.bottom.fina odieresis.from.bottom.fina ograve.from.bottom.fina oe.from.bottom.fina p.from.bottom.fina q.from.bottom.fina r.from.bottom.fina s.from.bottom.fina t.from.bottom.fina u.from.bottom.fina uacute.from.bottom.fina udieresis.from.bottom.fina ugrave.from.bottom.fina v.from.bottom.fina w.from.bottom.fina x.from.bottom.fina y.from.bottom.fina z.from.bottom.fina a.from.middle.fina aacute.from.middle.fina adieresis.from.middle.fina agrave.from.middle.fina ae.from.middle.fina b.from.middle.fina c.from.middle.fina ccedilla.from.middle.fina d.from.middle.fina e.from.middle.fina eacute.from.middle.fina edieresis.from.middle.fina egrave.from.middle.fina f.from.middle.fina g.from.middle.fina h.from.middle.fina i.from.middle.fina iacute.from.middle.fina idieresis.from.middle.fina igrave.from.middle.fina j.from.middle.fina k.from.middle.fina l.from.middle.fina m.from.middle.fina n.from.middle.fina ntilde.from.middle.fina o.from.middle.fina oacute.from.middle.fina odieresis.from.middle.fina ograve.from.middle.fina oe.from.middle.fina p.from.middle.fina q.from.middle.fina r.from.middle.fina s.from.middle.fina t.from.middle.fina u.from.middle.fina uacute.from.middle.fina udieresis.from.middle.fina ugrave.from.middle.fina v.from.middle.fina w.from.middle.fina x.from.middle.fina y.from.middle.fina z.from.middle.fina a.from.top.fina aacute.from.top.fina adieresis.from.top.fina agrave.from.top.fina ae.from.top.fina b.from.top.fina c.from.top.fina ccedilla.from.top.fina d.from.top.fina e.from.top.fina eacute.from.top.fina edieresis.from.top.fina egrave.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina iacute.from.top.fina idieresis.from.top.fina igrave.from.top.fina j.from.top.fina k.from.top.fina l.from.top.fina m.from.top.fina n.from.top.fina ntilde.from.top.fina o.from.top.fina oacute.from.top.fina odieresis.from.top.fina ograve.from.top.fina oe.from.top.fina p.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina t.from.top.fina u.from.top.fina uacute.from.top.fina udieresis.from.top.fina ugrave.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina z.from.top.fina a.from.base.long aacute.from.base.long adieresis.from.base.long agrave.from.base.long ae.from.base.long b.from.base.long c.from.base.long ccedilla.from.base.long d.from.base.long e.from.base.long eacute.from.base.long edieresis.from.base.long egrave.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long iacute.from.base.long idieresis.from.base.long igrave.from.base.long j.from.base.long k.from.base.long l.from.base.long m.from.base.long n.from.base.long ntilde.from.base.long o.from.base.long oacute.from.base.long odieresis.from.base.long ograve.from.base.long oe.from.base.long p.from.base.long q.from.base.long r.from.base.long s.from.base.long t.from.base.long u.from.base.long uacute.from.base.long udieresis.from.base.long ugrave.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long z.from.base.long b.from.bottom.right.e b.from.middle.right.e v.from.middle.right.e w.from.middle.right.e a.from.base.long.fina aacute.from.base.long.fina adieresis.from.base.long.fina agrave.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina ccedilla.from.base.long.fina d.from.base.long.fina e.from.base.long.fina eacute.from.base.long.fina edieresis.from.base.long.fina egrave.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina iacute.from.base.long.fina idieresis.from.base.long.fina igrave.from.base.long.fina j.from.base.long.fina k.from.base.long.fina l.from.base.long.fina m.from.base.long.fina n.from.base.long.fina ntilde.from.base.long.fina o.from.base.long.fina oacute.from.base.long.fina odieresis.from.base.long.fina ograve.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina t.from.base.long.fina u.from.base.long.fina uacute.from.base.long.fina udieresis.from.base.long.fina ugrave.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina z.from.base.long.fina b_e";
 name = Lowercase;
 }
 );
-date = "2024-05-14 13:13:35 +0000";
-familyName = "betania-7-formas iniciales";
+date = "2024-06-17 08:39:45 +0000";
+familyName = "betania-9";
 featurePrefixes = (
 {
 automatic = 1;
@@ -94,9 +56,9 @@ feature sinf;
 feature sups;
 feature numr;
 feature dnom;
-feature frac;
-feature init;
 feature isol;
+feature init;
+feature frac;
 ";
 tag = aalt;
 },
@@ -138,198 +100,51 @@ tag = locl;
 },
 {
 code = "# All base lowercases letters (has unicode + idotaccent), would like to use a token but that one is not supported by GliphsLib
-@Medial=[a
-	ae
-	b
-	c
-	d
-	e
-	f
-	g
-	h
-	i
-	j
-	k
-	l
-	m
-	n
-	o
-	oe
-	p
-	q
-	r
-	s
-	t
-	u
-	v
-	w
-	x
-	y
-	z]; 
+@Medial=[a aacute agrave adieresis ae b c ccedilla d e eacute egrave edieresis f g h i iacute igrave idieresis j k l m n ntilde o oacute ograve odieresis oe p q r s t u uacute ugrave udieresis v w x y z ]; 
 
-@Isolated=[a.isol
-	ae.isol
-	b.isol
-	c.isol
-	d.isol
-	e.isol
-	f.isol
-	g.isol
-	h.isol
-	i.isol
-	j.isol
-	k.isol
-	l.isol
-	m.isol
-	n.isol
-	o.isol
-	oe.isol
-	p.isol
-	q.isol
-	r.isol
-	s.isol
-	t.isol
-	u.isol
-	v.isol
-	w.isol
-	x.isol
-	y.isol
-	z.isol];
+@Isolated=[a.isol aacute.isol agrave.isol adieresis.isol ae.isol b.isol c.isol ccedilla.isol d.isol e.isol eacute.isol egrave.isol edieresis.isol f.isol g.isol h.isol i.isol iacute.isol igrave.isol idieresis.isol j.isol k.isol l.isol m.isol n.isol ntilde.isol o.isol oacute.isol ograve.isol odieresis.isol oe.isol p.isol q.isol r.isol s.isol t.isol u.isol uacute.isol ugrave.isol udieresis.isol v.isol w.isol x.isol y.isol z.isol];
 
-@Initial=[a.init
-	ae.init
-	b
-	c.init
-	d.init
-	e
-	f
-	g.init
-	h
-	i
-	j
-	k
-	l
-	m
-	n
-	o.init
-	oe.init
-	p
-	q.init
-	r
-	s
-	t
-	u
-	v
-	w
-	x
-	y
-	z];
+@Initial=[a.init aacute.init agrave.init adieresis.init ae.init b c.init ccedilla.init d.init e eacute egrave edieresis f g.init h i iacute igrave idieresis j k l m n ntilde o.init oacute.init ograve.init odieresis.init oe.init p q.init r s t u uacute ugrave udieresis v w x y z];
 
-@Final=[a.fina
-	ae.fina
-	b.fina
-	c.fina
-	d.fina
-	e.fina
-	f.fina
-	g.fina
-	h.fina
-	i.fina
-	j.fina
-	k.fina
-	l.fina
-	m.fina
-	n.fina
-	o.fina
-	oe.fina
-	p.fina
-	q.fina
-	r.fina
-	s.fina
-	t.fina
-	u.fina
-	v.fina
-	w.fina
-	x.fina
-	y.fina
-	z.fina];
+@Final=[a.fina aacute.fina agrave.fina adieresis.fina ae.fina b.fina c.fina ccedilla.fina d.fina e.fina eacute.fina egrave.fina edieresis.fina f.fina g.fina h.fina i.fina iacute.fina igrave.fina idieresis.fina j.fina k.fina l.fina m.fina n.fina ntilde.fina o.fina oacute.fina ograve.fina odieresis.fina oe.fina p.fina q.fina r.fina s.fina t.fina u.fina uacute.fina ugrave.fina udieresis.fina v.fina w.fina x.fina y.fina z.fina];
 
 # Letters that need a long connection on the base line from e oe ae c s x
-@Base=[	a.from.base.long
-	ae.from.base.long
-	b.from.base.long
-	c.from.base.long
-	d.from.base.long
-	e.from.base.long
-	f.from.base.long
-	g.from.base.long
-	h.from.base.long
-	i.from.base.long
-	j.from.base.long
-	k.from.base.long
-	l.from.base.long
-	m.from.base.long
-	n.from.base.long
-	o.from.base.long
-	oe.from.base.long
-	p.from.base.long
-	q.from.base.long
-	r.from.base.long
-	s.from.base.long
-	t.from.base.long
-	u.from.base.long
-	v.from.base.long
-	w.from.base.long
-	x.from.base.long
-	y.from.base.long
-	z.from.base.long];
+@Base=[a.from.base.long aacute.from.base.long agrave.from.base.long adieresis.from.base.long ae.from.base.long b.from.base.long c.from.base.long ccedilla.from.base.long d.from.base.long e.from.base.long eacute.from.base.long egrave.from.base.long edieresis.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long iacute.from.base.long igrave.from.base.long idieresis.from.base.long j.from.base.long k.from.base.long l.from.base.long m.from.base.long n.from.base.long ntilde.from.base.long o.from.base.long oacute.from.base.long ograve.from.base.long odieresis.from.base.long oe.from.base.long p.from.base.long q.from.base.long r.from.base.long s.from.base.long t.from.base.long u.from.base.long uacute.from.base.long ugrave.from.base.long udieresis.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long z.from.base.long];
 
-#@BaseMedial=[$[name endswith \".medi.cv01\"]];
+@BaseFinal=[a.from.base.long.fina aacute.from.base.long.fina agrave.from.base.long.fina adieresis.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina ccedilla.from.base.long.fina d.from.base.long.fina e.from.base.long.fina eacute.from.base.long.fina egrave.from.base.long.fina edieresis.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina iacute.from.base.long.fina igrave.from.base.long.fina idieresis.from.base.long.fina j.from.base.long.fina k.from.base.long.fina l.from.base.long.fina m.from.base.long.fina n.from.base.long.fina ntilde.from.base.long.fina o.from.base.long.fina oacute.from.base.long.fina ograve.from.base.long.fina odieresis.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina t.from.base.long.fina u.from.base.long.fina uacute.from.base.long.fina ugrave.from.base.long.fina udieresis.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina z.from.base.long.fina ];
 
-@BaseFinal=[a.from.base.long.fina
-	ae.from.base.long.fina
-	b.from.base.long.fina
-	c.from.base.long.fina
-	d.from.base.long.fina
-	e.from.base.long.fina
-	f.from.base.long.fina
-	g.from.base.long.fina
-	h.from.base.long.fina
-	i.from.base.long.fina
-	j.from.base.long.fina
-	k.from.base.long.fina
-	l.from.base.long.fina
-	m.from.base.long.fina
-	n.from.base.long.fina
-	o.from.base.long.fina
-	oe.from.base.long.fina
-	p.from.base.long.fina
-	q.from.base.long.fina
-	r.from.base.long.fina
-	s.from.base.long.fina
-	t.from.base.long.fina
-	u.from.base.long.fina
-	v.from.base.long.fina
-	w.from.base.long.fina
-	x.from.base.long.fina
-	y.from.base.long.fina
-	z.from.base.long.fina];
+# Letters that needs connection from the middle - o
 
-# Letters that needs connection from the top - debo armar un grupo middel para las letras from o o $[name beginswith \"o.\"] $[name beginswith \"oacute\"] $[name beginswith \"ocircumflex\"] $[name beginswith \"odieresis\"] $[name beginswith \"odotbelow\"] $[name beginswith \"ograve\"] $[name beginswith \"ohookabove\"] $[name beginswith \"ohorn\"] $[name beginswith \"otilde\"]
+@Middle=[o $[name beginswith \"o.\"]];
+@FromMiddle=[$[name endswith \".from.middle\"]];
+@MiddleFinal=[$[name endswith \".from.middle.fina\"]];
+
+# Top - vincula b v w con todas las que le sigan
 
 @Top=[b $[name beginswith \"b.\"] v $[name beginswith \"v.\"] w $[name beginswith \"w.\"]];
 @FromTop=[$[name endswith \".from.top\"]];
-
-#@TopMedial=[$[name endswith \".medi.cv02\"]];
-
 @TopFinal=[$[name endswith \".from.top.fina\"]];
 
-# Letters that needs connection from the bottom
+# Letters that needs connection from the bottom f g j y z
+
 @Bottom=[f $[name beginswith \"f.\"] g $[name beginswith \"g.\"] j $[name beginswith \"j.\"] y $[name beginswith \"y.\"] z $[name beginswith \"z.\"]];
-
-#@BottomMedial=[$[name endswith \".medi.cv03\"]];
-
+@FromBotom=[$[name endswith \".from.bottom\"]];
 @BottomFinal=[$[name endswith \".from.bottom.fina\"]];
+
+# Letters that needs long connection from the base c x e ae oe s
+
+@BaseLong=[c $[name beginswith \"c.\"] x $[name beginswith \"x.\"] e $[name beginswith \"e.\"] ae $[name beginswith \"ae.\"] oe $[name beginswith \"oe.\"] s $[name beginswith \"s.\"]];
+@FromBaseLong=[$[name endswith \".base.long\"]];
+@BaseLongFinal=[$[name endswith \".base.long.fina\"]];
+
+#aqui van los reemplazos dentro de la palabra, 
+
+sub @Top @Medial' by @FromTop;
+sub @Bottom @Medial' by @FromBotom;
+sub @Middle @Medial' by @FromMiddle;
+sub @BaseLong @Medial' by @FromBaseLong;
+
+#una vez hechos los reemplazos contextuales dentro de la palabra, se hacen los reemplazos por inicial, final e isolada.
 
 lookup ISOLATED {
 	lookupflag IgnoreMarks;
@@ -368,60 +183,7 @@ lookup FINAL {
 #	lookupflag IgnoreMarks;
 #	pos @Uppercase [quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle]' <0 -136 0 0>;
 #} quotes;
-sub @Top @Medial' by @FromTop;
 
-";
-notes = "# https://docs.google.com/spreadsheets/d/1EkZOVEq2mW7irsxCQbfG921_dTimuX6Kt_FzSJJKsU8/edit#gid=0
-# POSICION EN LA PALABRA @init @media @fina (iso no la uso)
-
-# All base lowercases letters (has unicode + idotaccent), would like to use a token but that one is not supported by GliphsLib
-# Estas son las letras por default
-
-@Medial=[a b c d e f g h i j k l m n o p q r s t u v w x y z a.from.bottom b.from.bottom c.from.bottom d.from.bottom e.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom o.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom a.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top]; 
-
-	# @Isolated=[$[name endswith \".isol\"]];
-
-@Initial=[a.init b c.init d.init e f g.init h i j k l m n o.init p q.init r s t u v w x y z a.from.bottom b.from.bottom c.from.bottom d.from.bottom e.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom o.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom a.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top];
-	# solo tienen forma inicial: a ae c d g o oe q 
-
-@Final=[$[name endswith \".fina\"]];
-	# revisar si es imprescindible que esté esta forma final
-
-
-
-# GRUPOS SEGUN EL LUGAR DE CONECTION
-
-# Letters that need a long connection on the base line
-
-@BaseLongConnection=[ c $[name beginswith \"c.\"] germandbls $[name beginswith \"germandbls\"] s $[name beginswith \"s.\"] x $[name beginswith \"x.\"]];
-	# c s ß x necesitan conectarse con un brazo largo a la derecha. from.base.long
-
-@Medial.BaseLongConnection=[a.from.base.long b c d e f g h i j k l m n o p q r s t u v w x y z a.from.bottom b.from.bottom c.from.bottom d.from.bottom e.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom j.from.bottom k.from.bottom l.from.bottom m.from.bottom n.from.bottom o.from.bottom p.from.bottom q.from.bottom r.from.bottom s.from.bottom t.from.bottom u.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom z.from.bottom a.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top];
-
-@Medial.FromTop=[a.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top a.from.top.fina b.from.top.fina c.from.top.fina d.from.top.fina e.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina j.from.top.fina k.from.top.fina l.from.top.fina m.from.top.fina n.from.top.fina o.from.top.fina p.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina t.from.top.fina u.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina z.from.top.fina a.from.middle b.from.middle c.from.middle d.from.middle e.from.middle f.from.middle g.from.middle h.from.middle i.from.middle j.from.middle k.from.middle l.from.middle m.from.middle n.from.middle o.from.middle p.from.middle q.from.middle r.from.middle s.from.middle t.from.middle u.from.middle v.from.middle w.from.middle x.from.middle y.from.middle z.from.middle a.from.top b.from.top c.from.top d.from.top e.from.top f.from.top g.from.top h.from.top i.from.top j.from.top k.from.top l.from.top m.from.top n.from.top o.from.top p.from.top q.from.top r.from.top s.from.top t.from.top u.from.top v.from.top w.from.top x.from.top y.from.top z.from.top];
-
-# Letters that needs connection from the top
-@Top=[b $[name beginswith \"b.\"] v $[name beginswith \"v.\"] w $[name beginswith \"w.\"]];
-	#después de b v w van las letras que terminarn .from.top
-
-# Letters that needs connection from the middle
-@Middle=[o $[name beginswith \"o.\"]];
-	#después de la o van las letras que terminan .from.middle
-
-
-# Letters that needs connection from the bottom
-@Bottom=[f $[name beginswith \"f.\"] g $[name beginswith \"g.\"] j $[name beginswith \"j.\"] $[name beginswith \"jdotless\"] y $[name beginswith \"y.\"] z $[name beginswith \"z.\"]];
-	#después de las descendentes f g j y z van las letras que terminan .from.bottom
-
-
-lookup INITIAL {
-	lookupflag IgnoreMarks;
-	ignore sub @Lowercase @Medial';
-	sub @Medial' by @Initial;
-} INITIAL;
-
-sub @BaseLongConnection @Medial' by @Medial.BaseLongConnection;
-sub @Top @Medial' by @Medial.FromTop;
 ";
 tag = calt;
 },
@@ -503,21 +265,35 @@ tag = dnom;
 {
 automatic = 1;
 code = "sub a by a.isol;
+sub aacute by aacute.isol;
+sub adieresis by adieresis.isol;
+sub agrave by agrave.isol;
 sub ae by ae.isol;
 sub b by b.isol;
 sub c by c.isol;
+sub ccedilla by ccedilla.isol;
 sub d by d.isol;
 sub e by e.isol;
+sub eacute by eacute.isol;
+sub edieresis by edieresis.isol;
+sub egrave by egrave.isol;
 sub f by f.isol;
 sub g by g.isol;
 sub h by h.isol;
 sub i by i.isol;
+sub iacute by iacute.isol;
+sub idieresis by idieresis.isol;
+sub igrave by igrave.isol;
 sub j by j.isol;
 sub k by k.isol;
 sub l by l.isol;
 sub m by m.isol;
 sub n by n.isol;
+sub ntilde by ntilde.isol;
 sub o by o.isol;
+sub oacute by oacute.isol;
+sub odieresis by odieresis.isol;
+sub ograve by ograve.isol;
 sub oe by oe.isol;
 sub p by p.isol;
 sub q by q.isol;
@@ -525,6 +301,9 @@ sub r by r.isol;
 sub s by s.isol;
 sub t by t.isol;
 sub u by u.isol;
+sub uacute by uacute.isol;
+sub udieresis by udieresis.isol;
+sub ugrave by ugrave.isol;
 sub v by v.isol;
 sub w by w.isol;
 sub x by x.isol;
@@ -536,11 +315,18 @@ tag = isol;
 {
 automatic = 1;
 code = "sub a by a.init;
+sub aacute by aacute.init;
+sub adieresis by adieresis.init;
+sub agrave by agrave.init;
 sub ae by ae.init;
 sub c by c.init;
+sub ccedilla by ccedilla.init;
 sub d by d.init;
 sub g by g.init;
 sub o by o.init;
+sub oacute by oacute.init;
+sub odieresis by odieresis.init;
+sub ograve by ograve.init;
 sub oe by oe.init;
 sub q by q.init;
 ";
@@ -549,21 +335,35 @@ tag = init;
 {
 automatic = 1;
 code = "sub a by a.fina;
+sub aacute by aacute.fina;
+sub adieresis by adieresis.fina;
+sub agrave by agrave.fina;
 sub ae by ae.fina;
 sub b by b.fina;
 sub c by c.fina;
+sub ccedilla by ccedilla.fina;
 sub d by d.fina;
 sub e by e.fina;
+sub eacute by eacute.fina;
+sub edieresis by edieresis.fina;
+sub egrave by egrave.fina;
 sub f by f.fina;
 sub g by g.fina;
 sub h by h.fina;
 sub i by i.fina;
+sub iacute by iacute.fina;
+sub idieresis by idieresis.fina;
+sub igrave by igrave.fina;
 sub j by j.fina;
 sub k by k.fina;
 sub l by l.fina;
 sub m by m.fina;
 sub n by n.fina;
+sub ntilde by ntilde.fina;
 sub o by o.fina;
+sub oacute by oacute.fina;
+sub odieresis by odieresis.fina;
+sub ograve by ograve.fina;
 sub oe by oe.fina;
 sub p by p.fina;
 sub q by q.fina;
@@ -571,27 +371,44 @@ sub r by r.fina;
 sub s by s.fina;
 sub t by t.fina;
 sub u by u.fina;
+sub uacute by uacute.fina;
+sub udieresis by udieresis.fina;
+sub ugrave by ugrave.fina;
 sub v by v.fina;
 sub w by w.fina;
 sub x by x.fina;
 sub y by y.fina;
 sub z by z.fina;
 sub a.from.bottom by a.from.bottom.fina;
+sub aacute.from.bottom by aacute.from.bottom.fina;
+sub adieresis.from.bottom by adieresis.from.bottom.fina;
+sub agrave.from.bottom by agrave.from.bottom.fina;
 sub ae.from.bottom by ae.from.bottom.fina;
 sub b.from.bottom by b.from.bottom.fina;
 sub c.from.bottom by c.from.bottom.fina;
+sub ccedilla.from.bottom by ccedilla.from.bottom.fina;
 sub d.from.bottom by d.from.bottom.fina;
 sub e.from.bottom by e.from.bottom.fina;
+sub eacute.from.bottom by eacute.from.bottom.fina;
+sub edieresis.from.bottom by edieresis.from.bottom.fina;
+sub egrave.from.bottom by egrave.from.bottom.fina;
 sub f.from.bottom by f.from.bottom.fina;
 sub g.from.bottom by g.from.bottom.fina;
 sub h.from.bottom by h.from.bottom.fina;
 sub i.from.bottom by i.from.bottom.fina;
+sub iacute.from.bottom by iacute.from.bottom.fina;
+sub idieresis.from.bottom by idieresis.from.bottom.fina;
+sub igrave.from.bottom by igrave.from.bottom.fina;
 sub j.from.bottom by j.from.bottom.fina;
 sub k.from.bottom by k.from.bottom.fina;
 sub l.from.bottom by l.from.bottom.fina;
 sub m.from.bottom by m.from.bottom.fina;
 sub n.from.bottom by n.from.bottom.fina;
+sub ntilde.from.bottom by ntilde.from.bottom.fina;
 sub o.from.bottom by o.from.bottom.fina;
+sub oacute.from.bottom by oacute.from.bottom.fina;
+sub odieresis.from.bottom by odieresis.from.bottom.fina;
+sub ograve.from.bottom by ograve.from.bottom.fina;
 sub oe.from.bottom by oe.from.bottom.fina;
 sub p.from.bottom by p.from.bottom.fina;
 sub q.from.bottom by q.from.bottom.fina;
@@ -599,27 +416,44 @@ sub r.from.bottom by r.from.bottom.fina;
 sub s.from.bottom by s.from.bottom.fina;
 sub t.from.bottom by t.from.bottom.fina;
 sub u.from.bottom by u.from.bottom.fina;
+sub uacute.from.bottom by uacute.from.bottom.fina;
+sub udieresis.from.bottom by udieresis.from.bottom.fina;
+sub ugrave.from.bottom by ugrave.from.bottom.fina;
 sub v.from.bottom by v.from.bottom.fina;
 sub w.from.bottom by w.from.bottom.fina;
 sub x.from.bottom by x.from.bottom.fina;
 sub y.from.bottom by y.from.bottom.fina;
 sub z.from.bottom by z.from.bottom.fina;
 sub a.from.middle by a.from.middle.fina;
+sub aacute.from.middle by aacute.from.middle.fina;
+sub adieresis.from.middle by adieresis.from.middle.fina;
+sub agrave.from.middle by agrave.from.middle.fina;
 sub ae.from.middle by ae.from.middle.fina;
 sub b.from.middle by b.from.middle.fina;
 sub c.from.middle by c.from.middle.fina;
+sub ccedilla.from.middle by ccedilla.from.middle.fina;
 sub d.from.middle by d.from.middle.fina;
 sub e.from.middle by e.from.middle.fina;
+sub eacute.from.middle by eacute.from.middle.fina;
+sub edieresis.from.middle by edieresis.from.middle.fina;
+sub egrave.from.middle by egrave.from.middle.fina;
 sub f.from.middle by f.from.middle.fina;
 sub g.from.middle by g.from.middle.fina;
 sub h.from.middle by h.from.middle.fina;
 sub i.from.middle by i.from.middle.fina;
+sub iacute.from.middle by iacute.from.middle.fina;
+sub idieresis.from.middle by idieresis.from.middle.fina;
+sub igrave.from.middle by igrave.from.middle.fina;
 sub j.from.middle by j.from.middle.fina;
 sub k.from.middle by k.from.middle.fina;
 sub l.from.middle by l.from.middle.fina;
 sub m.from.middle by m.from.middle.fina;
 sub n.from.middle by n.from.middle.fina;
+sub ntilde.from.middle by ntilde.from.middle.fina;
 sub o.from.middle by o.from.middle.fina;
+sub oacute.from.middle by oacute.from.middle.fina;
+sub odieresis.from.middle by odieresis.from.middle.fina;
+sub ograve.from.middle by ograve.from.middle.fina;
 sub oe.from.middle by oe.from.middle.fina;
 sub p.from.middle by p.from.middle.fina;
 sub q.from.middle by q.from.middle.fina;
@@ -627,27 +461,44 @@ sub r.from.middle by r.from.middle.fina;
 sub s.from.middle by s.from.middle.fina;
 sub t.from.middle by t.from.middle.fina;
 sub u.from.middle by u.from.middle.fina;
+sub uacute.from.middle by uacute.from.middle.fina;
+sub udieresis.from.middle by udieresis.from.middle.fina;
+sub ugrave.from.middle by ugrave.from.middle.fina;
 sub v.from.middle by v.from.middle.fina;
 sub w.from.middle by w.from.middle.fina;
 sub x.from.middle by x.from.middle.fina;
 sub y.from.middle by y.from.middle.fina;
 sub z.from.middle by z.from.middle.fina;
 sub a.from.top by a.from.top.fina;
+sub aacute.from.top by aacute.from.top.fina;
+sub adieresis.from.top by adieresis.from.top.fina;
+sub agrave.from.top by agrave.from.top.fina;
 sub ae.from.top by ae.from.top.fina;
 sub b.from.top by b.from.top.fina;
 sub c.from.top by c.from.top.fina;
+sub ccedilla.from.top by ccedilla.from.top.fina;
 sub d.from.top by d.from.top.fina;
 sub e.from.top by e.from.top.fina;
+sub eacute.from.top by eacute.from.top.fina;
+sub edieresis.from.top by edieresis.from.top.fina;
+sub egrave.from.top by egrave.from.top.fina;
 sub f.from.top by f.from.top.fina;
 sub g.from.top by g.from.top.fina;
 sub h.from.top by h.from.top.fina;
 sub i.from.top by i.from.top.fina;
+sub iacute.from.top by iacute.from.top.fina;
+sub idieresis.from.top by idieresis.from.top.fina;
+sub igrave.from.top by igrave.from.top.fina;
 sub j.from.top by j.from.top.fina;
 sub k.from.top by k.from.top.fina;
 sub l.from.top by l.from.top.fina;
 sub m.from.top by m.from.top.fina;
 sub n.from.top by n.from.top.fina;
+sub ntilde.from.top by ntilde.from.top.fina;
 sub o.from.top by o.from.top.fina;
+sub oacute.from.top by oacute.from.top.fina;
+sub odieresis.from.top by odieresis.from.top.fina;
+sub ograve.from.top by ograve.from.top.fina;
 sub oe.from.top by oe.from.top.fina;
 sub p.from.top by p.from.top.fina;
 sub q.from.top by q.from.top.fina;
@@ -655,27 +506,44 @@ sub r.from.top by r.from.top.fina;
 sub s.from.top by s.from.top.fina;
 sub t.from.top by t.from.top.fina;
 sub u.from.top by u.from.top.fina;
+sub uacute.from.top by uacute.from.top.fina;
+sub udieresis.from.top by udieresis.from.top.fina;
+sub ugrave.from.top by ugrave.from.top.fina;
 sub v.from.top by v.from.top.fina;
 sub w.from.top by w.from.top.fina;
 sub x.from.top by x.from.top.fina;
 sub y.from.top by y.from.top.fina;
 sub z.from.top by z.from.top.fina;
 sub a.from.base.long by a.from.base.long.fina;
+sub aacute.from.base.long by aacute.from.base.long.fina;
+sub adieresis.from.base.long by adieresis.from.base.long.fina;
+sub agrave.from.base.long by agrave.from.base.long.fina;
 sub ae.from.base.long by ae.from.base.long.fina;
 sub b.from.base.long by b.from.base.long.fina;
 sub c.from.base.long by c.from.base.long.fina;
+sub ccedilla.from.base.long by ccedilla.from.base.long.fina;
 sub d.from.base.long by d.from.base.long.fina;
 sub e.from.base.long by e.from.base.long.fina;
+sub eacute.from.base.long by eacute.from.base.long.fina;
+sub edieresis.from.base.long by edieresis.from.base.long.fina;
+sub egrave.from.base.long by egrave.from.base.long.fina;
 sub f.from.base.long by f.from.base.long.fina;
 sub g.from.base.long by g.from.base.long.fina;
 sub h.from.base.long by h.from.base.long.fina;
 sub i.from.base.long by i.from.base.long.fina;
+sub iacute.from.base.long by iacute.from.base.long.fina;
+sub idieresis.from.base.long by idieresis.from.base.long.fina;
+sub igrave.from.base.long by igrave.from.base.long.fina;
 sub j.from.base.long by j.from.base.long.fina;
 sub k.from.base.long by k.from.base.long.fina;
 sub l.from.base.long by l.from.base.long.fina;
 sub m.from.base.long by m.from.base.long.fina;
 sub n.from.base.long by n.from.base.long.fina;
+sub ntilde.from.base.long by ntilde.from.base.long.fina;
 sub o.from.base.long by o.from.base.long.fina;
+sub oacute.from.base.long by oacute.from.base.long.fina;
+sub odieresis.from.base.long by odieresis.from.base.long.fina;
+sub ograve.from.base.long by ograve.from.base.long.fina;
 sub oe.from.base.long by oe.from.base.long.fina;
 sub p.from.base.long by p.from.base.long.fina;
 sub q.from.base.long by q.from.base.long.fina;
@@ -683,6 +551,9 @@ sub r.from.base.long by r.from.base.long.fina;
 sub s.from.base.long by s.from.base.long.fina;
 sub t.from.base.long by t.from.base.long.fina;
 sub u.from.base.long by u.from.base.long.fina;
+sub uacute.from.base.long by uacute.from.base.long.fina;
+sub udieresis.from.base.long by udieresis.from.base.long.fina;
+sub ugrave.from.base.long by ugrave.from.base.long.fina;
 sub v.from.base.long by v.from.base.long.fina;
 sub w.from.base.long by w.from.base.long.fina;
 sub x.from.base.long by x.from.base.long.fina;
@@ -1003,7 +874,7 @@ unicode = 196;
 glyphname = Agrave;
 kernLeft = A;
 kernRight = A;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:09:53 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -1316,7 +1187,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (176,0);
+pos = (143,0);
 ref = cedillacomb;
 }
 );
@@ -1558,7 +1429,7 @@ unicode = 203;
 glyphname = Egrave;
 kernLeft = H;
 kernRight = E;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:09:53 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -2000,7 +1871,7 @@ unicode = 207;
 glyphname = Igrave;
 kernLeft = I;
 kernRight = I;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:09:53 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -2547,7 +2418,7 @@ unicode = 214;
 glyphname = Ograve;
 kernLeft = O;
 kernRight = O;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:09:53 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -3547,7 +3418,7 @@ unicode = 220;
 glyphname = Ugrave;
 kernLeft = U;
 kernRight = U;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:09:53 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -3740,7 +3611,7 @@ unicode = 7812;
 },
 {
 glyphname = Wgrave;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:09:53 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -3937,7 +3808,7 @@ unicode = 376;
 },
 {
 glyphname = Ygrave;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:09:53 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -9301,6 +9172,71 @@ width = 561;
 unicode = 97;
 },
 {
+glyphname = aacute;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (329,0);
+ref = acutecomb;
+}
+);
+width = 561;
+}
+);
+unicode = 225;
+},
+{
+glyphname = adieresis;
+lastChange = "2024-06-17 10:47:05 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (198,0);
+ref = dieresiscomb;
+},
+{
+closed = 0;
+nodes = (
+(2432,-1183,l)
+);
+}
+);
+width = 561;
+}
+);
+unicode = 228;
+},
+{
+glyphname = agrave;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (209,0);
+ref = gravecomb;
+}
+);
+width = 561;
+}
+);
+unicode = 224;
+},
+{
 glyphname = ae;
 lastChange = "2024-06-14 12:50:12 +0000";
 layers = (
@@ -9371,19 +9307,9 @@ unicode = 98;
 glyphname = c;
 kernLeft = a;
 kernRight = c;
-lastChange = "2024-05-27 09:35:33 +0000";
+lastChange = "2024-06-17 10:12:15 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (252,0);
-},
-{
-name = top;
-pos = (327,360);
-}
-);
 background = {
 anchors = (
 {
@@ -9420,6 +9346,26 @@ width = 348;
 );
 metricLeft = a;
 unicode = 99;
+},
+{
+glyphname = ccedilla;
+lastChange = "2024-06-17 10:28:03 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (141,0);
+ref = cedillacomb;
+}
+);
+width = 348;
+}
+);
+unicode = 231;
 },
 {
 glyphname = d;
@@ -9535,6 +9481,65 @@ width = 361;
 }
 );
 unicode = 101;
+},
+{
+glyphname = eacute;
+lastChange = "2024-06-17 10:06:48 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (238,4);
+ref = acutecomb;
+}
+);
+width = 361;
+}
+);
+unicode = 233;
+},
+{
+glyphname = edieresis;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (107,4);
+ref = dieresiscomb;
+}
+);
+width = 361;
+}
+);
+unicode = 235;
+},
+{
+glyphname = egrave;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (118,4);
+ref = gravecomb;
+}
+);
+width = 361;
+}
+);
+unicode = 232;
 },
 {
 glyphname = f;
@@ -9677,7 +9682,7 @@ unicode = 104;
 glyphname = i;
 kernLeft = a;
 kernRight = a;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:37:24 +0000";
 layers = (
 {
 anchors = (
@@ -9709,13 +9714,13 @@ unicode = 105;
 {
 glyphname = idotless;
 kernLeft = a;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 11:40:38 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (51,0);
+pos = (4,0);
 },
 {
 name = ogonek;
@@ -9779,6 +9784,78 @@ width = 120;
 }
 );
 unicode = 305;
+},
+{
+glyphname = iacute;
+lastChange = "2024-06-17 11:24:47 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long;
+},
+{
+pos = (186,0);
+ref = idotless;
+},
+{
+pos = (177,0);
+ref = acutecomb;
+}
+);
+width = 306;
+}
+);
+unicode = 237;
+},
+{
+glyphname = idieresis;
+lastChange = "2024-06-17 11:30:04 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long;
+},
+{
+pos = (186,0);
+ref = idotless;
+},
+{
+pos = (46,0);
+ref = dieresiscomb;
+}
+);
+width = 306;
+}
+);
+unicode = 239;
+},
+{
+glyphname = igrave;
+lastChange = "2024-06-17 11:40:56 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long;
+},
+{
+pos = (186,0);
+ref = idotless;
+},
+{
+pos = (57,0);
+ref = gravecomb;
+}
+);
+width = 306;
+}
+);
+unicode = 236;
 },
 {
 glyphname = j;
@@ -9976,7 +10053,7 @@ unicode = 108;
 glyphname = ldot;
 kernLeft = l;
 kernRight = l;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:53:26 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -10047,19 +10124,9 @@ unicode = 109;
 glyphname = n;
 kernLeft = a;
 kernRight = a;
-lastChange = "2024-06-14 07:49:28 +0000";
+lastChange = "2024-06-17 09:46:40 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (362,0);
-},
-{
-name = top;
-pos = (402,360);
-}
-);
 background = {
 shapes = (
 {
@@ -10099,6 +10166,26 @@ width = 773;
 );
 metricRight = a;
 unicode = 110;
+},
+{
+glyphname = ntilde;
+lastChange = "2024-06-17 09:46:41 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (271,0);
+ref = tildecomb;
+}
+);
+width = 773;
+}
+);
+unicode = 241;
 },
 {
 glyphname = o;
@@ -10161,6 +10248,64 @@ width = 520;
 );
 metricRight = a;
 unicode = 111;
+},
+{
+glyphname = oacute;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (304,0);
+ref = acutecomb;
+}
+);
+width = 520;
+}
+);
+unicode = 243;
+},
+{
+glyphname = odieresis;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (173,0);
+ref = dieresiscomb;
+}
+);
+width = 520;
+}
+);
+unicode = 246;
+},
+{
+glyphname = ograve;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (184,0);
+ref = gravecomb;
+}
+);
+width = 520;
+}
+);
+unicode = 242;
 },
 {
 glyphname = oslash;
@@ -10590,23 +10735,9 @@ unicode = 116;
 glyphname = u;
 kernLeft = a;
 kernRight = a;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:09:08 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (233,0);
-},
-{
-name = ogonek;
-pos = (456,10);
-},
-{
-name = topright;
-pos = (492,360);
-}
-);
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -10627,6 +10758,64 @@ width = 587;
 metricLeft = a;
 metricRight = a;
 unicode = 117;
+},
+{
+glyphname = uacute;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (304,0);
+ref = acutecomb;
+}
+);
+width = 587;
+}
+);
+unicode = 250;
+},
+{
+glyphname = udieresis;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (173,0);
+ref = dieresiscomb;
+}
+);
+width = 587;
+}
+);
+unicode = 252;
+},
+{
+glyphname = ugrave;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (184,0);
+ref = gravecomb;
+}
+);
+width = 587;
+}
+);
+unicode = 249;
 },
 {
 glyphname = v;
@@ -10709,7 +10898,7 @@ unicode = 119;
 glyphname = x;
 kernLeft = a;
 kernRight = c;
-lastChange = "2024-05-27 13:03:43 +0000";
+lastChange = "2024-06-17 10:37:23 +0000";
 layers = (
 {
 background = {
@@ -10892,6 +11081,61 @@ width = 627;
 );
 },
 {
+glyphname = aacute.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.fina;
+},
+{
+pos = (329,0);
+ref = acutecomb;
+}
+);
+width = 627;
+}
+);
+},
+{
+glyphname = adieresis.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.fina;
+},
+{
+pos = (198,0);
+ref = dieresiscomb;
+}
+);
+width = 627;
+}
+);
+},
+{
+glyphname = agrave.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.fina;
+},
+{
+pos = (209,0);
+ref = gravecomb;
+}
+);
+width = 627;
+}
+);
+},
+{
 glyphname = ae.fina;
 lastChange = "2024-06-14 12:50:12 +0000";
 layers = (
@@ -10931,7 +11175,7 @@ width = 616;
 },
 {
 glyphname = c.fina;
-lastChange = "2024-06-14 09:04:20 +0000";
+lastChange = "2024-06-17 11:44:48 +0000";
 layers = (
 {
 anchors = (
@@ -10954,7 +11198,26 @@ pos = (160,0);
 ref = _c.fina.master;
 }
 );
-width = 471;
+width = 348;
+}
+);
+},
+{
+glyphname = ccedilla.fina;
+lastChange = "2024-06-17 10:14:19 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.fina;
+},
+{
+pos = (128,0);
+ref = cedillacomb;
+}
+);
+width = 348;
 }
 );
 },
@@ -10979,16 +11242,30 @@ width = 627;
 },
 {
 glyphname = e.fina;
-lastChange = "2024-06-14 11:29:02 +0000";
+lastChange = "2024-06-17 10:06:34 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (214,0);
+},
+{
+name = ogonek;
+pos = (384,10);
+}
+);
 background = {
 shapes = (
 {
-ref = e.from.top;
+ref = _conect.right.e;
 },
 {
-pos = (217,0);
+pos = (206,0);
+ref = _e.master;
+},
+{
+pos = (361,0);
 ref = _final;
 }
 );
@@ -11005,6 +11282,62 @@ ref = _e.master;
 {
 pos = (361,0);
 ref = _final;
+}
+);
+width = 427;
+}
+);
+},
+{
+glyphname = eacute.fina;
+lastChange = "2024-06-17 10:06:48 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.fina;
+},
+{
+pos = (238,4);
+ref = acutecomb;
+}
+);
+width = 427;
+}
+);
+},
+{
+glyphname = edieresis.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.fina;
+},
+{
+pos = (107,4);
+ref = dieresiscomb;
+}
+);
+width = 427;
+}
+);
+},
+{
+glyphname = egrave.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.fina;
+},
+{
+pos = (118,4);
+ref = gravecomb;
 }
 );
 width = 427;
@@ -11081,6 +11414,87 @@ ref = i;
 {
 pos = (306,0);
 ref = _final;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = iacute.fina;
+lastChange = "2024-06-17 11:25:19 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long;
+},
+{
+pos = (186,0);
+ref = idotless;
+},
+{
+pos = (306,0);
+ref = _final;
+},
+{
+pos = (177,0);
+ref = acutecomb;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = idieresis.fina;
+lastChange = "2024-06-17 11:30:56 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long;
+},
+{
+pos = (186,0);
+ref = idotless;
+},
+{
+pos = (46,0);
+ref = dieresiscomb;
+},
+{
+pos = (306,0);
+ref = _final;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = igrave.fina;
+lastChange = "2024-06-17 11:40:31 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long;
+},
+{
+pos = (186,0);
+ref = idotless;
+},
+{
+pos = (306,0);
+ref = _final;
+},
+{
+pos = (57,0);
+ref = gravecomb;
 }
 );
 width = 372;
@@ -11165,7 +11579,7 @@ width = 1073;
 },
 {
 glyphname = n.fina;
-lastChange = "2024-06-14 09:09:27 +0000";
+lastChange = "2024-06-17 09:46:45 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -11183,6 +11597,29 @@ width = 839;
 );
 },
 {
+glyphname = ntilde.fina;
+lastChange = "2024-06-17 09:46:41 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (773,0);
+ref = _final;
+},
+{
+pos = (271,0);
+ref = tildecomb;
+}
+);
+width = 839;
+}
+);
+},
+{
 glyphname = o.fina;
 lastChange = "2024-06-14 10:00:31 +0000";
 layers = (
@@ -11191,6 +11628,61 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 ref = o;
+}
+);
+width = 520;
+}
+);
+},
+{
+glyphname = oacute.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.fina;
+},
+{
+pos = (304,0);
+ref = acutecomb;
+}
+);
+width = 520;
+}
+);
+},
+{
+glyphname = odieresis.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.fina;
+},
+{
+pos = (173,0);
+ref = dieresiscomb;
+}
+);
+width = 520;
+}
+);
+},
+{
+glyphname = ograve.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.fina;
+},
+{
+pos = (184,0);
+ref = gravecomb;
 }
 );
 width = 520;
@@ -11357,6 +11849,61 @@ width = 653;
 );
 },
 {
+glyphname = uacute.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.fina;
+},
+{
+pos = (304,0);
+ref = acutecomb;
+}
+);
+width = 653;
+}
+);
+},
+{
+glyphname = udieresis.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.fina;
+},
+{
+pos = (173,0);
+ref = dieresiscomb;
+}
+);
+width = 653;
+}
+);
+},
+{
+glyphname = ugrave.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.fina;
+},
+{
+pos = (184,0);
+ref = gravecomb;
+}
+);
+width = 653;
+}
+);
+},
+{
 glyphname = v.fina;
 lastChange = "2024-05-27 08:27:03 +0000";
 layers = (
@@ -11481,6 +12028,61 @@ width = 401;
 );
 },
 {
+glyphname = aacute.init;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.init;
+},
+{
+pos = (169,0);
+ref = acutecomb;
+}
+);
+width = 401;
+}
+);
+},
+{
+glyphname = adieresis.init;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.init;
+},
+{
+pos = (38,0);
+ref = dieresiscomb;
+}
+);
+width = 401;
+}
+);
+},
+{
+glyphname = agrave.init;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.init;
+},
+{
+pos = (49,0);
+ref = gravecomb;
+}
+);
+width = 401;
+}
+);
+},
+{
 glyphname = ae.init;
 lastChange = "2024-06-14 12:51:28 +0000";
 layers = (
@@ -11512,19 +12114,9 @@ metricLeft = a.init;
 },
 {
 glyphname = c.init;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:37:23 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (250,0);
-},
-{
-name = top;
-pos = (325,360);
-}
-);
 background = {
 shapes = (
 {
@@ -11565,6 +12157,25 @@ width = 188;
 );
 metricLeft = a;
 metricRight = a;
+},
+{
+glyphname = ccedilla.init;
+lastChange = "2024-06-17 10:28:16 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.init;
+},
+{
+pos = (-19,0);
+ref = cedillacomb;
+}
+);
+width = 188;
+}
+);
 },
 {
 glyphname = d.init;
@@ -11633,6 +12244,61 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 ref = _o.master;
+}
+);
+width = 360;
+}
+);
+},
+{
+glyphname = oacute.init;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.init;
+},
+{
+pos = (304,0);
+ref = acutecomb;
+}
+);
+width = 360;
+}
+);
+},
+{
+glyphname = odieresis.init;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.init;
+},
+{
+pos = (173,0);
+ref = dieresiscomb;
+}
+);
+width = 360;
+}
+);
+},
+{
+glyphname = ograve.init;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.init;
+},
+{
+pos = (184,0);
+ref = gravecomb;
 }
 );
 width = 360;
@@ -11741,6 +12407,61 @@ width = 467;
 );
 },
 {
+glyphname = aacute.isol;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.isol;
+},
+{
+pos = (169,0);
+ref = acutecomb;
+}
+);
+width = 467;
+}
+);
+},
+{
+glyphname = adieresis.isol;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.isol;
+},
+{
+pos = (38,0);
+ref = dieresiscomb;
+}
+);
+width = 467;
+}
+);
+},
+{
+glyphname = agrave.isol;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.isol;
+},
+{
+pos = (49,0);
+ref = gravecomb;
+}
+);
+width = 467;
+}
+);
+},
+{
 glyphname = ae.isol;
 lastChange = "2024-06-14 13:27:41 +0000";
 layers = (
@@ -11794,26 +12515,35 @@ width = 616;
 },
 {
 glyphname = c.isol;
-lastChange = "2024-06-14 13:28:50 +0000";
+lastChange = "2024-06-17 10:27:48 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (252,0);
-},
-{
-name = top;
-pos = (327,360);
-}
-);
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 ref = _c.fina.master;
 }
 );
-width = 311;
+width = 188;
+}
+);
+},
+{
+glyphname = ccedilla.isol;
+lastChange = "2024-06-17 10:28:03 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.isol;
+},
+{
+pos = (-19,0);
+ref = cedillacomb;
+}
+);
+width = 188;
 }
 );
 },
@@ -11848,6 +12578,62 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 ref = e.fina;
+}
+);
+width = 427;
+}
+);
+},
+{
+glyphname = eacute.isol;
+lastChange = "2024-06-17 10:06:48 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.isol;
+},
+{
+pos = (238,4);
+ref = acutecomb;
+}
+);
+width = 427;
+}
+);
+},
+{
+glyphname = edieresis.isol;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.isol;
+},
+{
+pos = (107,4);
+ref = dieresiscomb;
+}
+);
+width = 427;
+}
+);
+},
+{
+glyphname = egrave.isol;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.isol;
+},
+{
+pos = (118,4);
+ref = gravecomb;
 }
 );
 width = 427;
@@ -11914,6 +12700,87 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 ref = i.fina;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = iacute.isol;
+lastChange = "2024-06-17 11:29:30 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long;
+},
+{
+pos = (186,0);
+ref = idotless;
+},
+{
+pos = (306,0);
+ref = _final;
+},
+{
+pos = (177,0);
+ref = acutecomb;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = idieresis.isol;
+lastChange = "2024-06-17 11:36:32 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long;
+},
+{
+pos = (186,0);
+ref = idotless;
+},
+{
+pos = (306,0);
+ref = _final;
+},
+{
+pos = (46,0);
+ref = dieresiscomb;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = igrave.isol;
+lastChange = "2024-06-17 11:37:28 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long;
+},
+{
+pos = (186,0);
+ref = idotless;
+},
+{
+pos = (306,0);
+ref = _final;
+},
+{
+pos = (57,0);
+ref = gravecomb;
 }
 );
 width = 372;
@@ -11993,7 +12860,7 @@ width = 1073;
 },
 {
 glyphname = n.isol;
-lastChange = "2024-06-14 13:30:08 +0000";
+lastChange = "2024-06-17 09:46:53 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -12007,6 +12874,25 @@ ref = _final;
 }
 );
 width = 839;
+}
+);
+},
+{
+glyphname = ntilde.isol;
+lastChange = "2024-06-17 09:46:41 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (271,0);
+ref = tildecomb;
+}
+);
+width = 773;
 }
 );
 },
@@ -12041,6 +12927,61 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 ref = _o.master;
+}
+);
+width = 360;
+}
+);
+},
+{
+glyphname = oacute.isol;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.isol;
+},
+{
+pos = (304,0);
+ref = acutecomb;
+}
+);
+width = 360;
+}
+);
+},
+{
+glyphname = odieresis.isol;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.isol;
+},
+{
+pos = (173,0);
+ref = dieresiscomb;
+}
+);
+width = 360;
+}
+);
+},
+{
+glyphname = ograve.isol;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.isol;
+},
+{
+pos = (184,0);
+ref = gravecomb;
 }
 );
 width = 360;
@@ -12182,6 +13123,61 @@ width = 653;
 );
 },
 {
+glyphname = uacute.isol;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.isol;
+},
+{
+pos = (304,0);
+ref = acutecomb;
+}
+);
+width = 653;
+}
+);
+},
+{
+glyphname = udieresis.isol;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.isol;
+},
+{
+pos = (173,0);
+ref = dieresiscomb;
+}
+);
+width = 653;
+}
+);
+},
+{
+glyphname = ugrave.isol;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.isol;
+},
+{
+pos = (184,0);
+ref = gravecomb;
+}
+);
+width = 653;
+}
+);
+},
+{
 glyphname = v.isol;
 layers = (
 {
@@ -12286,6 +13282,61 @@ width = 561;
 );
 },
 {
+glyphname = aacute.from.bottom;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.bottom;
+},
+{
+pos = (329,0);
+ref = acutecomb;
+}
+);
+width = 561;
+}
+);
+},
+{
+glyphname = adieresis.from.bottom;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.bottom;
+},
+{
+pos = (198,0);
+ref = dieresiscomb;
+}
+);
+width = 561;
+}
+);
+},
+{
+glyphname = agrave.from.bottom;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.bottom;
+},
+{
+pos = (209,0);
+ref = gravecomb;
+}
+);
+width = 561;
+}
+);
+},
+{
 glyphname = ae.from.bottom;
 lastChange = "2024-06-14 12:54:20 +0000";
 layers = (
@@ -12352,6 +13403,25 @@ ref = _conect.from.bottom;
 {
 pos = (160,0);
 ref = _c.master;
+}
+);
+width = 348;
+}
+);
+},
+{
+glyphname = ccedilla.from.bottom;
+lastChange = "2024-06-17 10:28:03 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.from.bottom;
+},
+{
+pos = (141,0);
+ref = cedillacomb;
 }
 );
 width = 348;
@@ -12484,6 +13554,61 @@ width = 353;
 );
 },
 {
+glyphname = eacute.from.bottom;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.bottom;
+},
+{
+pos = (219,0);
+ref = acutecomb;
+}
+);
+width = 353;
+}
+);
+},
+{
+glyphname = edieresis.from.bottom;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.bottom;
+},
+{
+pos = (88,0);
+ref = dieresiscomb;
+}
+);
+width = 353;
+}
+);
+},
+{
+glyphname = egrave.from.bottom;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.bottom;
+},
+{
+pos = (99,0);
+ref = gravecomb;
+}
+);
+width = 353;
+}
+);
+},
+{
 color = 11;
 glyphname = f.from.bottom;
 lastChange = "2024-06-14 08:30:08 +0000";
@@ -12587,6 +13712,75 @@ width = 326;
 );
 },
 {
+glyphname = iacute.from.bottom;
+lastChange = "2024-06-17 11:26:43 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.bottom.long;
+},
+{
+pos = (206,0);
+ref = idotless;
+},
+{
+pos = (197,0);
+ref = acutecomb;
+}
+);
+width = 326;
+}
+);
+},
+{
+glyphname = idieresis.from.bottom;
+lastChange = "2024-06-17 11:34:14 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.bottom.long;
+},
+{
+pos = (206,0);
+ref = idotless;
+},
+{
+pos = (66,0);
+ref = dieresiscomb;
+}
+);
+width = 326;
+}
+);
+},
+{
+glyphname = igrave.from.bottom;
+lastChange = "2024-06-17 11:39:25 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.bottom.long;
+},
+{
+pos = (206,0);
+ref = idotless;
+},
+{
+pos = (77,0);
+ref = gravecomb;
+}
+);
+width = 326;
+}
+);
+},
+{
 color = 11;
 glyphname = j.from.bottom;
 lastChange = "2024-06-14 08:30:08 +0000";
@@ -12677,7 +13871,7 @@ width = 941;
 {
 color = 11;
 glyphname = n.from.bottom;
-lastChange = "2024-06-14 08:30:08 +0000";
+lastChange = "2024-06-17 09:46:06 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -12699,33 +13893,30 @@ width = 707;
 );
 },
 {
-color = 11;
-glyphname = o.from.bottom;
-lastChange = "2024-06-14 10:13:22 +0000";
+glyphname = ntilde.from.bottom;
+lastChange = "2024-06-17 09:46:13 +0000";
 layers = (
 {
-anchors = (
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
 {
-name = bottom;
-pos = (277,0);
+ref = n.from.bottom;
 },
 {
-name = center;
-pos = (277,180);
-},
-{
-name = ogonek;
-pos = (498,10);
-},
-{
-name = top;
-pos = (313,360);
-},
-{
-name = topright;
-pos = (533,360);
+pos = (205,0);
+ref = tildecomb;
 }
 );
+width = 707;
+}
+);
+},
+{
+color = 11;
+glyphname = o.from.bottom;
+lastChange = "2024-06-17 10:08:29 +0000";
+layers = (
+{
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -12734,6 +13925,61 @@ ref = _conect.from.bottom;
 {
 pos = (160,0);
 ref = _o.master;
+}
+);
+width = 520;
+}
+);
+},
+{
+glyphname = oacute.from.bottom;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.bottom;
+},
+{
+pos = (304,0);
+ref = acutecomb;
+}
+);
+width = 520;
+}
+);
+},
+{
+glyphname = odieresis.from.bottom;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.bottom;
+},
+{
+pos = (173,0);
+ref = dieresiscomb;
+}
+);
+width = 520;
+}
+);
+},
+{
+glyphname = ograve.from.bottom;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.bottom;
+},
+{
+pos = (184,0);
+ref = gravecomb;
 }
 );
 width = 520;
@@ -12894,7 +14140,7 @@ width = 471;
 {
 color = 11;
 glyphname = t.from.bottom;
-lastChange = "2024-06-14 08:30:08 +0000";
+lastChange = "2024-06-17 10:37:23 +0000";
 layers = (
 {
 background = {
@@ -12968,6 +14214,61 @@ width = 607;
 );
 metricLeft = a;
 metricRight = a;
+},
+{
+glyphname = uacute.from.bottom;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.bottom;
+},
+{
+pos = (324,0);
+ref = acutecomb;
+}
+);
+width = 607;
+}
+);
+},
+{
+glyphname = udieresis.from.bottom;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.bottom;
+},
+{
+pos = (193,0);
+ref = dieresiscomb;
+}
+);
+width = 607;
+}
+);
+},
+{
+glyphname = ugrave.from.bottom;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.bottom;
+},
+{
+pos = (204,0);
+ref = gravecomb;
+}
+);
+width = 607;
+}
+);
 },
 {
 color = 11;
@@ -13045,7 +14346,7 @@ metricRight = v;
 {
 color = 11;
 glyphname = x.from.bottom;
-lastChange = "2024-06-14 08:30:08 +0000";
+lastChange = "2024-06-17 10:37:23 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -13258,6 +14559,61 @@ width = 582;
 );
 },
 {
+glyphname = aacute.from.middle;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.middle;
+},
+{
+pos = (350,0);
+ref = acutecomb;
+}
+);
+width = 582;
+}
+);
+},
+{
+glyphname = adieresis.from.middle;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.middle;
+},
+{
+pos = (219,0);
+ref = dieresiscomb;
+}
+);
+width = 582;
+}
+);
+},
+{
+glyphname = agrave.from.middle;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.middle;
+},
+{
+pos = (230,0);
+ref = gravecomb;
+}
+);
+width = 582;
+}
+);
+},
+{
 glyphname = ae.from.middle;
 lastChange = "2024-06-14 12:54:15 +0000";
 layers = (
@@ -13322,7 +14678,7 @@ width = 571;
 },
 {
 glyphname = c.from.middle;
-lastChange = "2024-06-14 09:58:07 +0000";
+lastChange = "2024-06-17 11:44:42 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -13335,7 +14691,26 @@ pos = (181,0);
 ref = _c.fina.master;
 }
 );
-width = 492;
+width = 369;
+}
+);
+},
+{
+glyphname = ccedilla.from.middle;
+lastChange = "2024-06-17 10:28:03 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.from.middle;
+},
+{
+pos = (162,0);
+ref = cedillacomb;
+}
+);
+width = 369;
 }
 );
 },
@@ -13426,6 +14801,61 @@ nodes = (
 (149,90,o),
 (0,90,c)
 );
+}
+);
+width = 329;
+}
+);
+},
+{
+glyphname = eacute.from.middle;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.middle;
+},
+{
+pos = (216,0);
+ref = acutecomb;
+}
+);
+width = 329;
+}
+);
+},
+{
+glyphname = edieresis.from.middle;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.middle;
+},
+{
+pos = (85,0);
+ref = dieresiscomb;
+}
+);
+width = 329;
+}
+);
+},
+{
+glyphname = egrave.from.middle;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.middle;
+},
+{
+pos = (96,0);
+ref = gravecomb;
 }
 );
 width = 329;
@@ -13525,6 +14955,75 @@ width = 328;
 );
 },
 {
+glyphname = iacute.from.middle;
+lastChange = "2024-06-17 11:27:30 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long.o;
+},
+{
+pos = (208,0);
+ref = idotless;
+},
+{
+pos = (199,0);
+ref = acutecomb;
+}
+);
+width = 328;
+}
+);
+},
+{
+glyphname = idieresis.from.middle;
+lastChange = "2024-06-17 11:34:52 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long.o;
+},
+{
+pos = (208,0);
+ref = idotless;
+},
+{
+pos = (68,0);
+ref = dieresiscomb;
+}
+);
+width = 328;
+}
+);
+},
+{
+glyphname = igrave.from.middle;
+lastChange = "2024-06-17 11:38:44 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long.o;
+},
+{
+pos = (208,0);
+ref = idotless;
+},
+{
+pos = (79,0);
+ref = gravecomb;
+}
+);
+width = 328;
+}
+);
+},
+{
 glyphname = j.from.middle;
 lastChange = "2024-06-14 09:48:57 +0000";
 layers = (
@@ -13610,7 +15109,7 @@ width = 929;
 },
 {
 glyphname = n.from.middle;
-lastChange = "2024-06-14 09:45:04 +0000";
+lastChange = "2024-06-17 09:45:54 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -13625,6 +15124,25 @@ ref = _n.master;
 {
 pos = (565,0);
 ref = _conect.right;
+}
+);
+width = 695;
+}
+);
+},
+{
+glyphname = ntilde.from.middle;
+lastChange = "2024-06-17 09:46:13 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = n.from.middle;
+},
+{
+pos = (193,0);
+ref = tildecomb;
 }
 );
 width = 695;
@@ -13666,6 +15184,61 @@ ref = _conect.from.middle;
 {
 pos = (181,0);
 ref = _o.master;
+}
+);
+width = 541;
+}
+);
+},
+{
+glyphname = oacute.from.middle;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.middle;
+},
+{
+pos = (276,0);
+ref = acutecomb;
+}
+);
+width = 541;
+}
+);
+},
+{
+glyphname = odieresis.from.middle;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.middle;
+},
+{
+pos = (145,0);
+ref = dieresiscomb;
+}
+);
+width = 541;
+}
+);
+},
+{
+glyphname = ograve.from.middle;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.middle;
+},
+{
+pos = (156,0);
+ref = gravecomb;
 }
 );
 width = 541;
@@ -13840,6 +15413,61 @@ width = 609;
 );
 },
 {
+glyphname = uacute.from.middle;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.middle;
+},
+{
+pos = (326,0);
+ref = acutecomb;
+}
+);
+width = 609;
+}
+);
+},
+{
+glyphname = udieresis.from.middle;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.middle;
+},
+{
+pos = (195,0);
+ref = dieresiscomb;
+}
+);
+width = 609;
+}
+);
+},
+{
+glyphname = ugrave.from.middle;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.middle;
+},
+{
+pos = (206,0);
+ref = gravecomb;
+}
+);
+width = 609;
+}
+);
+},
+{
 glyphname = v.from.middle;
 lastChange = "2024-06-14 09:45:04 +0000";
 layers = (
@@ -14003,6 +15631,61 @@ width = 445;
 );
 },
 {
+glyphname = aacute.from.top;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.top;
+},
+{
+pos = (213,0);
+ref = acutecomb;
+}
+);
+width = 445;
+}
+);
+},
+{
+glyphname = adieresis.from.top;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.top;
+},
+{
+pos = (82,0);
+ref = dieresiscomb;
+}
+);
+width = 445;
+}
+);
+},
+{
+glyphname = agrave.from.top;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.top;
+},
+{
+pos = (93,0);
+ref = gravecomb;
+}
+);
+width = 445;
+}
+);
+},
+{
 glyphname = ae.from.top;
 lastChange = "2024-06-14 12:54:07 +0000";
 layers = (
@@ -14064,22 +15747,39 @@ metricRight = b;
 },
 {
 glyphname = c.from.top;
-lastChange = "2024-06-14 09:58:44 +0000";
+lastChange = "2024-06-17 09:35:53 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
-alignment = -1;
 ref = _conect.from.top;
 },
 {
-alignment = -1;
 pos = (44,0);
 ref = _c.master;
 }
 );
-width = 295;
+width = 232;
+}
+);
+},
+{
+glyphname = ccedilla.from.top;
+lastChange = "2024-06-17 10:28:03 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.from.top;
+},
+{
+pos = (25,0);
+ref = cedillacomb;
+}
+);
+width = 232;
 }
 );
 },
@@ -14109,21 +15809,21 @@ width = 445;
 {
 glyphname = e.from.top;
 kernLeft = lc_round;
-lastChange = "2024-06-14 10:46:52 +0000";
+lastChange = "2024-06-17 10:39:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (109,0);
+pos = (129,0);
 },
 {
 name = ogonek;
-pos = (195,10);
+pos = (215,10);
 },
 {
 name = top;
-pos = (143,360);
+pos = (163,360);
 }
 );
 background = {
@@ -14131,23 +15831,23 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(157,-5,l),
-(73,-5,o),
-(1,58,o),
-(1,175,cs),
-(1,304,o),
-(82,364,o),
-(139,364,cs),
-(263,364,o),
-(221,158,o),
-(1,168,c)
+(20,218,l),
+(224,218,o),
+(258,266,o),
+(258,318,cs),
+(258,397,o),
+(51,400,o),
+(51,175,cs),
+(51,59,o),
+(142,-5,o),
+(247,-5,c)
 );
 }
 );
 };
 guides = (
 {
-pos = (156,364);
+pos = (176,364);
 }
 );
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -14156,19 +15856,83 @@ shapes = (
 closed = 0;
 nodes = (
 (0,218,l),
-(204,218,o),
-(238,266,o),
-(238,318,cs),
-(238,397,o),
-(31,400,o),
-(31,175,cs),
-(31,59,o),
-(122,-5,o),
-(227,-5,c)
+(15,218,o),
+(42,218,o),
+(55,219,c),
+(84,212,o),
+(110,209,o),
+(132,209,cs),
+(214,209,o),
+(259,265,o),
+(259,310,cs),
+(259,341,o),
+(238,367,o),
+(192,367,cs),
+(131,367,o),
+(51,315,o),
+(51,175,cs),
+(51,59,o),
+(142,-5,o),
+(247,-5,c)
 );
 }
 );
-width = 221;
+width = 241;
+}
+);
+},
+{
+glyphname = eacute.from.top;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.top;
+},
+{
+pos = (154,0);
+ref = acutecomb;
+}
+);
+width = 241;
+}
+);
+},
+{
+glyphname = edieresis.from.top;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.top;
+},
+{
+pos = (23,0);
+ref = dieresiscomb;
+}
+);
+width = 241;
+}
+);
+},
+{
+glyphname = egrave.from.top;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.top;
+},
+{
+pos = (34,0);
+ref = gravecomb;
+}
+);
+width = 241;
 }
 );
 },
@@ -14259,6 +16023,75 @@ ref = idotless;
 {
 pos = (38,0);
 ref = dotaccentcomb;
+}
+);
+width = 188;
+}
+);
+},
+{
+glyphname = iacute.from.top;
+lastChange = "2024-06-17 11:28:10 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.top.i;
+},
+{
+pos = (68,0);
+ref = idotless;
+},
+{
+pos = (59,0);
+ref = acutecomb;
+}
+);
+width = 188;
+}
+);
+},
+{
+glyphname = idieresis.from.top;
+lastChange = "2024-06-17 11:35:30 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.top.i;
+},
+{
+pos = (68,0);
+ref = idotless;
+},
+{
+pos = (-72,0);
+ref = dieresiscomb;
+}
+);
+width = 188;
+}
+);
+},
+{
+glyphname = igrave.from.top;
+lastChange = "2024-06-17 11:38:08 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.top.i;
+},
+{
+pos = (68,0);
+ref = idotless;
+},
+{
+pos = (-61,0);
+ref = gravecomb;
 }
 );
 width = 188;
@@ -14442,6 +16275,25 @@ width = 588;
 metricRight = a;
 },
 {
+glyphname = ntilde.from.top;
+lastChange = "2024-06-17 09:46:13 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = n.from.top;
+},
+{
+pos = (86,0);
+ref = tildecomb;
+}
+);
+width = 588;
+}
+);
+},
+{
 glyphname = o.from.top;
 lastChange = "2024-06-14 10:18:25 +0000";
 layers = (
@@ -14476,6 +16328,61 @@ ref = _conect.from.top;
 {
 pos = (44,0);
 ref = _o.master;
+}
+);
+width = 404;
+}
+);
+},
+{
+glyphname = oacute.from.top;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.top;
+},
+{
+pos = (189,0);
+ref = acutecomb;
+}
+);
+width = 404;
+}
+);
+},
+{
+glyphname = odieresis.from.top;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.top;
+},
+{
+pos = (58,0);
+ref = dieresiscomb;
+}
+);
+width = 404;
+}
+);
+},
+{
+glyphname = ograve.from.top;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.top;
+},
+{
+pos = (69,0);
+ref = gravecomb;
 }
 );
 width = 404;
@@ -14679,6 +16586,61 @@ width = 469;
 );
 },
 {
+glyphname = uacute.from.top;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.top;
+},
+{
+pos = (186,0);
+ref = acutecomb;
+}
+);
+width = 469;
+}
+);
+},
+{
+glyphname = udieresis.from.top;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.top;
+},
+{
+pos = (55,0);
+ref = dieresiscomb;
+}
+);
+width = 469;
+}
+);
+},
+{
+glyphname = ugrave.from.top;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.top;
+},
+{
+pos = (66,0);
+ref = gravecomb;
+}
+);
+width = 469;
+}
+);
+},
+{
 glyphname = v.from.top;
 kernLeft = lc_n;
 kernRight = lc_b;
@@ -14739,7 +16701,7 @@ metricRight = v;
 },
 {
 glyphname = x.from.top;
-lastChange = "2024-05-27 08:56:51 +0000";
+lastChange = "2024-06-17 10:37:23 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -14868,6 +16830,61 @@ width = 627;
 );
 },
 {
+glyphname = aacute.from.bottom.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.bottom.fina;
+},
+{
+pos = (329,0);
+ref = acutecomb;
+}
+);
+width = 627;
+}
+);
+},
+{
+glyphname = adieresis.from.bottom.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.bottom.fina;
+},
+{
+pos = (198,0);
+ref = dieresiscomb;
+}
+);
+width = 627;
+}
+);
+},
+{
+glyphname = agrave.from.bottom.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.bottom.fina;
+},
+{
+pos = (209,0);
+ref = gravecomb;
+}
+);
+width = 627;
+}
+);
+},
+{
 glyphname = ae.from.bottom.fina;
 lastChange = "2024-06-14 12:54:20 +0000";
 layers = (
@@ -14947,7 +16964,26 @@ pos = (160,0);
 ref = _c.fina.master;
 }
 );
-width = 471;
+width = 348;
+}
+);
+},
+{
+glyphname = ccedilla.from.bottom.fina;
+lastChange = "2024-06-17 10:28:03 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.from.bottom.fina;
+},
+{
+pos = (141,0);
+ref = cedillacomb;
+}
+);
+width = 348;
 }
 );
 },
@@ -14983,6 +17019,61 @@ ref = e.from.bottom;
 {
 pos = (353,0);
 ref = _final;
+}
+);
+width = 419;
+}
+);
+},
+{
+glyphname = eacute.from.bottom.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.bottom.fina;
+},
+{
+pos = (219,0);
+ref = acutecomb;
+}
+);
+width = 419;
+}
+);
+},
+{
+glyphname = edieresis.from.bottom.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.bottom.fina;
+},
+{
+pos = (88,0);
+ref = dieresiscomb;
+}
+);
+width = 419;
+}
+);
+},
+{
+glyphname = egrave.from.bottom.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.bottom.fina;
+},
+{
+pos = (99,0);
+ref = gravecomb;
 }
 );
 width = 419;
@@ -15059,6 +17150,87 @@ ref = i.from.bottom;
 {
 pos = (326,0);
 ref = _final;
+}
+);
+width = 392;
+}
+);
+},
+{
+glyphname = iacute.from.bottom.fina;
+lastChange = "2024-06-17 11:27:13 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.bottom.long;
+},
+{
+pos = (206,0);
+ref = idotless;
+},
+{
+pos = (326,0);
+ref = _final;
+},
+{
+pos = (197,0);
+ref = acutecomb;
+}
+);
+width = 392;
+}
+);
+},
+{
+glyphname = idieresis.from.bottom.fina;
+lastChange = "2024-06-17 11:34:37 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.bottom.long;
+},
+{
+pos = (206,0);
+ref = idotless;
+},
+{
+pos = (326,0);
+ref = _final;
+},
+{
+pos = (66,0);
+ref = dieresiscomb;
+}
+);
+width = 392;
+}
+);
+},
+{
+glyphname = igrave.from.bottom.fina;
+lastChange = "2024-06-17 11:39:09 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.bottom.long;
+},
+{
+pos = (206,0);
+ref = idotless;
+},
+{
+pos = (326,0);
+ref = _final;
+},
+{
+pos = (77,0);
+ref = gravecomb;
 }
 );
 width = 392;
@@ -15161,6 +17333,29 @@ width = 773;
 );
 },
 {
+glyphname = ntilde.from.bottom.fina;
+lastChange = "2024-06-17 09:47:31 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = n.from.bottom;
+},
+{
+pos = (707,0);
+ref = _final;
+},
+{
+pos = (205,0);
+ref = tildecomb;
+}
+);
+width = 773;
+}
+);
+},
+{
 glyphname = o.from.bottom.fina;
 lastChange = "2024-06-14 10:50:09 +0000";
 layers = (
@@ -15169,6 +17364,61 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 ref = o.from.bottom;
+}
+);
+width = 520;
+}
+);
+},
+{
+glyphname = oacute.from.bottom.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.bottom.fina;
+},
+{
+pos = (304,0);
+ref = acutecomb;
+}
+);
+width = 520;
+}
+);
+},
+{
+glyphname = odieresis.from.bottom.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.bottom.fina;
+},
+{
+pos = (173,0);
+ref = dieresiscomb;
+}
+);
+width = 520;
+}
+);
+},
+{
+glyphname = ograve.from.bottom.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.bottom.fina;
+},
+{
+pos = (184,0);
+ref = gravecomb;
 }
 );
 width = 520;
@@ -15309,6 +17559,61 @@ width = 673;
 );
 },
 {
+glyphname = uacute.from.bottom.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.bottom.fina;
+},
+{
+pos = (324,0);
+ref = acutecomb;
+}
+);
+width = 673;
+}
+);
+},
+{
+glyphname = udieresis.from.bottom.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.bottom.fina;
+},
+{
+pos = (193,0);
+ref = dieresiscomb;
+}
+);
+width = 673;
+}
+);
+},
+{
+glyphname = ugrave.from.bottom.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.bottom.fina;
+},
+{
+pos = (204,0);
+ref = gravecomb;
+}
+);
+width = 673;
+}
+);
+},
+{
 glyphname = v.from.bottom.fina;
 lastChange = "2024-05-27 08:59:09 +0000";
 layers = (
@@ -15423,6 +17728,61 @@ width = 648;
 );
 },
 {
+glyphname = aacute.from.middle.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.middle.fina;
+},
+{
+pos = (350,0);
+ref = acutecomb;
+}
+);
+width = 648;
+}
+);
+},
+{
+glyphname = adieresis.from.middle.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.middle.fina;
+},
+{
+pos = (219,0);
+ref = dieresiscomb;
+}
+);
+width = 648;
+}
+);
+},
+{
+glyphname = agrave.from.middle.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.middle.fina;
+},
+{
+pos = (230,0);
+ref = gravecomb;
+}
+);
+width = 648;
+}
+);
+},
+{
 glyphname = ae.from.middle.fina;
 lastChange = "2024-06-14 12:54:15 +0000";
 layers = (
@@ -15471,7 +17831,26 @@ shapes = (
 ref = c.from.middle;
 }
 );
-width = 492;
+width = 369;
+}
+);
+},
+{
+glyphname = ccedilla.from.middle.fina;
+lastChange = "2024-06-17 10:28:03 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.from.middle.fina;
+},
+{
+pos = (162,0);
+ref = cedillacomb;
+}
+);
+width = 369;
 }
 );
 },
@@ -15507,6 +17886,61 @@ ref = e.from.middle;
 {
 pos = (329,0);
 ref = _final;
+}
+);
+width = 395;
+}
+);
+},
+{
+glyphname = eacute.from.middle.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.middle.fina;
+},
+{
+pos = (216,0);
+ref = acutecomb;
+}
+);
+width = 395;
+}
+);
+},
+{
+glyphname = edieresis.from.middle.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.middle.fina;
+},
+{
+pos = (85,0);
+ref = dieresiscomb;
+}
+);
+width = 395;
+}
+);
+},
+{
+glyphname = egrave.from.middle.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.middle.fina;
+},
+{
+pos = (96,0);
+ref = gravecomb;
 }
 );
 width = 395;
@@ -15583,6 +18017,87 @@ ref = i.from.middle;
 {
 pos = (328,0);
 ref = _final;
+}
+);
+width = 394;
+}
+);
+},
+{
+glyphname = iacute.from.middle.fina;
+lastChange = "2024-06-17 11:27:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long.o;
+},
+{
+pos = (208,0);
+ref = idotless;
+},
+{
+pos = (328,0);
+ref = _final;
+},
+{
+pos = (199,0);
+ref = acutecomb;
+}
+);
+width = 394;
+}
+);
+},
+{
+glyphname = idieresis.from.middle.fina;
+lastChange = "2024-06-17 11:35:12 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long.o;
+},
+{
+pos = (208,0);
+ref = idotless;
+},
+{
+pos = (328,0);
+ref = _final;
+},
+{
+pos = (68,0);
+ref = dieresiscomb;
+}
+);
+width = 394;
+}
+);
+},
+{
+glyphname = igrave.from.middle.fina;
+lastChange = "2024-06-17 11:38:28 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left.long.o;
+},
+{
+pos = (208,0);
+ref = idotless;
+},
+{
+pos = (328,0);
+ref = _final;
+},
+{
+pos = (79,0);
+ref = gravecomb;
 }
 );
 width = 394;
@@ -15685,6 +18200,25 @@ width = 761;
 );
 },
 {
+glyphname = ntilde.from.middle.fina;
+lastChange = "2024-06-17 09:47:46 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = n.from.middle;
+},
+{
+pos = (193,0);
+ref = tildecomb;
+}
+);
+width = 695;
+}
+);
+},
+{
 glyphname = o.from.middle.fina;
 lastChange = "2024-06-14 10:01:06 +0000";
 layers = (
@@ -15693,6 +18227,61 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 ref = o.from.middle;
+}
+);
+width = 541;
+}
+);
+},
+{
+glyphname = oacute.from.middle.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.middle.fina;
+},
+{
+pos = (276,0);
+ref = acutecomb;
+}
+);
+width = 541;
+}
+);
+},
+{
+glyphname = odieresis.from.middle.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.middle.fina;
+},
+{
+pos = (145,0);
+ref = dieresiscomb;
+}
+);
+width = 541;
+}
+);
+},
+{
+glyphname = ograve.from.middle.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.middle.fina;
+},
+{
+pos = (156,0);
+ref = gravecomb;
 }
 );
 width = 541;
@@ -15833,6 +18422,61 @@ width = 675;
 );
 },
 {
+glyphname = uacute.from.middle.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.middle.fina;
+},
+{
+pos = (326,0);
+ref = acutecomb;
+}
+);
+width = 675;
+}
+);
+},
+{
+glyphname = udieresis.from.middle.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.middle.fina;
+},
+{
+pos = (195,0);
+ref = dieresiscomb;
+}
+);
+width = 675;
+}
+);
+},
+{
+glyphname = ugrave.from.middle.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.middle.fina;
+},
+{
+pos = (206,0);
+ref = gravecomb;
+}
+);
+width = 675;
+}
+);
+},
+{
 glyphname = v.from.middle.fina;
 lastChange = "2024-06-14 09:53:40 +0000";
 layers = (
@@ -15955,6 +18599,61 @@ width = 511;
 );
 },
 {
+glyphname = aacute.from.top.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.top.fina;
+},
+{
+pos = (213,0);
+ref = acutecomb;
+}
+);
+width = 511;
+}
+);
+},
+{
+glyphname = adieresis.from.top.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.top.fina;
+},
+{
+pos = (82,0);
+ref = dieresiscomb;
+}
+);
+width = 511;
+}
+);
+},
+{
+glyphname = agrave.from.top.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.top.fina;
+},
+{
+pos = (93,0);
+ref = gravecomb;
+}
+);
+width = 511;
+}
+);
+},
+{
 glyphname = ae.from.top.fina;
 lastChange = "2024-06-14 12:54:07 +0000";
 layers = (
@@ -16007,7 +18706,26 @@ pos = (44,0);
 ref = _c.fina.master;
 }
 );
-width = 355;
+width = 232;
+}
+);
+},
+{
+glyphname = ccedilla.from.top.fina;
+lastChange = "2024-06-17 10:28:03 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.from.top.fina;
+},
+{
+pos = (25,0);
+ref = cedillacomb;
+}
+);
+width = 232;
 }
 );
 },
@@ -16041,11 +18759,66 @@ shapes = (
 ref = e.from.top;
 },
 {
-pos = (221,0);
+pos = (241,0);
 ref = _final;
 }
 );
-width = 287;
+width = 307;
+}
+);
+},
+{
+glyphname = eacute.from.top.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.top.fina;
+},
+{
+pos = (154,0);
+ref = acutecomb;
+}
+);
+width = 307;
+}
+);
+},
+{
+glyphname = edieresis.from.top.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.top.fina;
+},
+{
+pos = (23,0);
+ref = dieresiscomb;
+}
+);
+width = 307;
+}
+);
+},
+{
+glyphname = egrave.from.top.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.top.fina;
+},
+{
+pos = (34,0);
+ref = gravecomb;
+}
+);
+width = 307;
 }
 );
 },
@@ -16119,6 +18892,87 @@ ref = i.from.top;
 {
 pos = (188,0);
 ref = _final;
+}
+);
+width = 254;
+}
+);
+},
+{
+glyphname = iacute.from.top.fina;
+lastChange = "2024-06-17 11:29:07 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.top.i;
+},
+{
+pos = (68,0);
+ref = idotless;
+},
+{
+pos = (188,0);
+ref = _final;
+},
+{
+pos = (59,0);
+ref = acutecomb;
+}
+);
+width = 254;
+}
+);
+},
+{
+glyphname = idieresis.from.top.fina;
+lastChange = "2024-06-17 11:35:50 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.top.i;
+},
+{
+pos = (68,0);
+ref = idotless;
+},
+{
+pos = (188,0);
+ref = _final;
+},
+{
+pos = (-72,0);
+ref = dieresiscomb;
+}
+);
+width = 254;
+}
+);
+},
+{
+glyphname = igrave.from.top.fina;
+lastChange = "2024-06-17 11:37:51 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.top.i;
+},
+{
+pos = (68,0);
+ref = idotless;
+},
+{
+pos = (188,0);
+ref = _final;
+},
+{
+pos = (-61,0);
+ref = gravecomb;
 }
 );
 width = 254;
@@ -16221,6 +19075,25 @@ width = 654;
 );
 },
 {
+glyphname = ntilde.from.top.fina;
+lastChange = "2024-06-17 09:47:59 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = n.from.top;
+},
+{
+pos = (86,0);
+ref = tildecomb;
+}
+);
+width = 588;
+}
+);
+},
+{
 glyphname = o.from.top.fina;
 lastChange = "2024-06-14 10:47:48 +0000";
 layers = (
@@ -16229,6 +19102,61 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 ref = o.from.top;
+}
+);
+width = 404;
+}
+);
+},
+{
+glyphname = oacute.from.top.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.top.fina;
+},
+{
+pos = (189,0);
+ref = acutecomb;
+}
+);
+width = 404;
+}
+);
+},
+{
+glyphname = odieresis.from.top.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.top.fina;
+},
+{
+pos = (58,0);
+ref = dieresiscomb;
+}
+);
+width = 404;
+}
+);
+},
+{
+glyphname = ograve.from.top.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.top.fina;
+},
+{
+pos = (69,0);
+ref = gravecomb;
 }
 );
 width = 404;
@@ -16362,6 +19290,61 @@ ref = u.from.top;
 {
 pos = (469,0);
 ref = _final;
+}
+);
+width = 535;
+}
+);
+},
+{
+glyphname = uacute.from.top.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.top.fina;
+},
+{
+pos = (186,0);
+ref = acutecomb;
+}
+);
+width = 535;
+}
+);
+},
+{
+glyphname = udieresis.from.top.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.top.fina;
+},
+{
+pos = (55,0);
+ref = dieresiscomb;
+}
+);
+width = 535;
+}
+);
+},
+{
+glyphname = ugrave.from.top.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.top.fina;
+},
+{
+pos = (66,0);
+ref = gravecomb;
 }
 );
 width = 535;
@@ -16526,6 +19509,61 @@ width = 623;
 );
 },
 {
+glyphname = aacute.from.base.long;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.base.long;
+},
+{
+pos = (391,0);
+ref = acutecomb;
+}
+);
+width = 623;
+}
+);
+},
+{
+glyphname = adieresis.from.base.long;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.base.long;
+},
+{
+pos = (260,0);
+ref = dieresiscomb;
+}
+);
+width = 623;
+}
+);
+},
+{
+glyphname = agrave.from.base.long;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.base.long;
+},
+{
+pos = (271,0);
+ref = gravecomb;
+}
+);
+width = 623;
+}
+);
+},
+{
 glyphname = ae.from.base.long;
 lastChange = "2024-06-14 12:55:23 +0000";
 layers = (
@@ -16607,6 +19645,25 @@ width = 410;
 );
 },
 {
+glyphname = ccedilla.from.base.long;
+lastChange = "2024-06-17 10:14:19 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.from.base.long;
+},
+{
+pos = (128,0);
+ref = cedillacomb;
+}
+);
+width = 410;
+}
+);
+},
+{
 glyphname = d.from.base.long;
 lastChange = "2024-06-14 10:55:37 +0000";
 layers = (
@@ -16631,9 +19688,19 @@ width = 623;
 },
 {
 glyphname = e.from.base.long;
-lastChange = "2024-06-14 11:16:43 +0000";
+lastChange = "2024-06-17 08:36:09 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (381,0);
+},
+{
+name = ogonek;
+pos = (505,10);
+}
+);
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -16641,10 +19708,66 @@ ref = _conect.from.base.long.to.e;
 },
 {
 pos = (226,0);
-ref = e;
+ref = _e.master;
 }
 );
-width = 587;
+width = 381;
+}
+);
+},
+{
+glyphname = eacute.from.base.long;
+lastChange = "2024-06-17 10:06:48 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.base.long;
+},
+{
+pos = (258,4);
+ref = acutecomb;
+}
+);
+width = 381;
+}
+);
+},
+{
+glyphname = edieresis.from.base.long;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.base.long;
+},
+{
+pos = (127,4);
+ref = dieresiscomb;
+}
+);
+width = 381;
+}
+);
+},
+{
+glyphname = egrave.from.base.long;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.base.long;
+},
+{
+pos = (138,4);
+ref = gravecomb;
+}
+);
+width = 381;
 }
 );
 },
@@ -16732,6 +19855,75 @@ ref = idotless;
 {
 pos = (222,0);
 ref = dotaccentcomb;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = iacute.from.base.long;
+lastChange = "2024-06-17 11:25:51 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.base.long.to.i;
+},
+{
+pos = (252,0);
+ref = idotless;
+},
+{
+pos = (243,0);
+ref = acutecomb;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = idieresis.from.base.long;
+lastChange = "2024-06-17 11:30:30 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.base.long.to.i;
+},
+{
+pos = (252,0);
+ref = idotless;
+},
+{
+pos = (112,0);
+ref = dieresiscomb;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = igrave.from.base.long;
+lastChange = "2024-06-17 11:40:12 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.base.long.to.i;
+},
+{
+pos = (252,0);
+ref = idotless;
+},
+{
+pos = (123,0);
+ref = gravecomb;
 }
 );
 width = 372;
@@ -16846,19 +20038,9 @@ width = 1057;
 },
 {
 glyphname = n.from.base.long;
-lastChange = "2024-06-14 11:17:20 +0000";
+lastChange = "2024-06-17 09:48:12 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (362,0);
-},
-{
-name = top;
-pos = (402,360);
-}
-);
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -16878,8 +20060,27 @@ width = 823;
 );
 },
 {
+glyphname = ntilde.from.base.long;
+lastChange = "2024-06-17 09:48:15 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = n.from.base.long;
+},
+{
+pos = (321,0);
+ref = tildecomb;
+}
+);
+width = 823;
+}
+);
+},
+{
 glyphname = o.from.base.long;
-lastChange = "2024-06-14 10:58:56 +0000";
+lastChange = "2024-06-17 10:10:06 +0000";
 layers = (
 {
 anchors = (
@@ -16897,7 +20098,7 @@ pos = (450,10);
 },
 {
 name = top;
-pos = (313,360);
+pos = (333,360);
 },
 {
 name = topright;
@@ -16912,6 +20113,61 @@ ref = _conect.from.base.long;
 {
 pos = (222,0);
 ref = _o.master;
+}
+);
+width = 582;
+}
+);
+},
+{
+glyphname = oacute.from.base.long;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.base.long;
+},
+{
+pos = (324,0);
+ref = acutecomb;
+}
+);
+width = 582;
+}
+);
+},
+{
+glyphname = odieresis.from.base.long;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.base.long;
+},
+{
+pos = (193,0);
+ref = dieresiscomb;
+}
+);
+width = 582;
+}
+);
+},
+{
+glyphname = ograve.from.base.long;
+lastChange = "2024-06-17 10:10:06 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.base.long;
+},
+{
+pos = (204,0);
+ref = gravecomb;
 }
 );
 width = 582;
@@ -17089,6 +20345,61 @@ ref = _u.master;
 {
 pos = (523,0);
 ref = _conect.right;
+}
+);
+width = 653;
+}
+);
+},
+{
+glyphname = uacute.from.base.long;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.base.long;
+},
+{
+pos = (370,0);
+ref = acutecomb;
+}
+);
+width = 653;
+}
+);
+},
+{
+glyphname = udieresis.from.base.long;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.base.long;
+},
+{
+pos = (239,0);
+ref = dieresiscomb;
+}
+);
+width = 653;
+}
+);
+},
+{
+glyphname = ugrave.from.base.long;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.base.long;
+},
+{
+pos = (250,0);
+ref = gravecomb;
 }
 );
 width = 653;
@@ -17356,6 +20667,61 @@ width = 689;
 );
 },
 {
+glyphname = aacute.from.base.long.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.base.long.fina;
+},
+{
+pos = (391,0);
+ref = acutecomb;
+}
+);
+width = 689;
+}
+);
+},
+{
+glyphname = adieresis.from.base.long.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.base.long.fina;
+},
+{
+pos = (260,0);
+ref = dieresiscomb;
+}
+);
+width = 689;
+}
+);
+},
+{
+glyphname = agrave.from.base.long.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = a.from.base.long.fina;
+},
+{
+pos = (271,0);
+ref = gravecomb;
+}
+);
+width = 689;
+}
+);
+},
+{
 glyphname = ae.from.base.long.fina;
 lastChange = "2024-06-14 12:55:40 +0000";
 layers = (
@@ -17395,7 +20761,7 @@ width = 656;
 },
 {
 glyphname = c.from.base.long.fina;
-lastChange = "2024-06-14 11:28:50 +0000";
+lastChange = "2024-06-17 11:44:54 +0000";
 layers = (
 {
 anchors = (
@@ -17418,7 +20784,26 @@ pos = (222,0);
 ref = _c.fina.master;
 }
 );
-width = 533;
+width = 410;
+}
+);
+},
+{
+glyphname = ccedilla.from.base.long.fina;
+lastChange = "2024-06-17 10:14:19 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = c.from.base.long.fina;
+},
+{
+pos = (128,0);
+ref = cedillacomb;
+}
+);
+width = 410;
 }
 );
 },
@@ -17468,6 +20853,62 @@ ref = _e.master;
 {
 pos = (381,0);
 ref = _final;
+}
+);
+width = 447;
+}
+);
+},
+{
+glyphname = eacute.from.base.long.fina;
+lastChange = "2024-06-17 10:06:48 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.base.long.fina;
+},
+{
+pos = (258,4);
+ref = acutecomb;
+}
+);
+width = 447;
+}
+);
+},
+{
+glyphname = edieresis.from.base.long.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.base.long.fina;
+},
+{
+pos = (127,4);
+ref = dieresiscomb;
+}
+);
+width = 447;
+}
+);
+},
+{
+glyphname = egrave.from.base.long.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = e.from.base.long.fina;
+},
+{
+pos = (138,4);
+ref = gravecomb;
 }
 );
 width = 447;
@@ -17544,6 +20985,79 @@ ref = i.from.base.long;
 {
 pos = (372,0);
 ref = _final;
+}
+);
+width = 438;
+}
+);
+},
+{
+glyphname = iacute.from.base.long.fina;
+lastChange = "2024-06-17 11:26:19 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.base.long.to.i;
+},
+{
+pos = (252,0);
+ref = idotless;
+},
+{
+pos = (243,0);
+ref = acutecomb;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = idieresis.from.base.long.fina;
+lastChange = "2024-06-17 11:31:13 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.base.long.to.i;
+},
+{
+pos = (252,0);
+ref = idotless;
+},
+{
+pos = (112,0);
+ref = dieresiscomb;
+}
+);
+width = 372;
+}
+);
+},
+{
+glyphname = igrave.from.base.long.fina;
+lastChange = "2024-06-17 11:39:52 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.from.base.long.to.i;
+},
+{
+pos = (252,0);
+ref = idotless;
+},
+{
+pos = (372,0);
+ref = _final;
+},
+{
+pos = (123,0);
+ref = gravecomb;
 }
 );
 width = 438;
@@ -17646,6 +21160,25 @@ width = 889;
 );
 },
 {
+glyphname = ntilde.from.base.long.fina;
+lastChange = "2024-06-17 09:48:31 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = n.from.base.long;
+},
+{
+pos = (321,0);
+ref = tildecomb;
+}
+);
+width = 823;
+}
+);
+},
+{
 glyphname = o.from.base.long.fina;
 layers = (
 {
@@ -17653,6 +21186,61 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 ref = o.from.base.long;
+}
+);
+width = 582;
+}
+);
+},
+{
+glyphname = oacute.from.base.long.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.base.long.fina;
+},
+{
+pos = (324,0);
+ref = acutecomb;
+}
+);
+width = 582;
+}
+);
+},
+{
+glyphname = odieresis.from.base.long.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.base.long.fina;
+},
+{
+pos = (193,0);
+ref = dieresiscomb;
+}
+);
+width = 582;
+}
+);
+},
+{
+glyphname = ograve.from.base.long.fina;
+lastChange = "2024-06-17 10:10:06 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = o.from.base.long.fina;
+},
+{
+pos = (204,0);
+ref = gravecomb;
 }
 );
 width = 582;
@@ -17793,6 +21381,61 @@ width = 719;
 );
 },
 {
+glyphname = uacute.from.base.long.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.base.long.fina;
+},
+{
+pos = (370,0);
+ref = acutecomb;
+}
+);
+width = 719;
+}
+);
+},
+{
+glyphname = udieresis.from.base.long.fina;
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.base.long.fina;
+},
+{
+pos = (239,0);
+ref = dieresiscomb;
+}
+);
+width = 719;
+}
+);
+},
+{
+glyphname = ugrave.from.base.long.fina;
+lastChange = "2024-06-17 10:09:53 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = u.from.base.long.fina;
+},
+{
+pos = (250,0);
+ref = gravecomb;
+}
+);
+width = 719;
+}
+);
+},
+{
 glyphname = v.from.base.long.fina;
 lastChange = "2024-06-14 11:28:06 +0000";
 layers = (
@@ -17901,7 +21544,7 @@ width = 556;
 },
 {
 glyphname = b_e;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:39:13 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -17914,7 +21557,7 @@ pos = (567,0);
 ref = e.from.top;
 }
 );
-width = 788;
+width = 808;
 }
 );
 metricLeft = b;
@@ -25513,7 +29156,7 @@ unicode = 775;
 },
 {
 glyphname = gravecomb;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:09:53 +0000";
 layers = (
 {
 anchors = (
@@ -25721,13 +29364,13 @@ unicode = 772;
 },
 {
 glyphname = cedillacomb;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:14:19 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-pos = (91,0);
+pos = (124,0);
 },
 {
 name = bottom;
@@ -26062,7 +29705,7 @@ unicode = 175;
 },
 {
 glyphname = cedilla;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:28:35 +0000";
 layers = (
 {
 background = {
@@ -26082,10 +29725,10 @@ lineCapStart = 1;
 };
 closed = 0;
 nodes = (
-(162,89,l),
-(134,14,o),
-(95,-62,o),
-(20,-140,c)
+(172,109,l),
+(144,34,o),
+(105,-42,o),
+(30,-120,c)
 );
 }
 );
@@ -27042,9 +30685,19 @@ width = 103;
 {
 export = 0;
 glyphname = _c.master;
-lastChange = "2024-05-27 09:35:33 +0000";
+lastChange = "2024-06-17 10:28:03 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (105,0);
+},
+{
+name = top;
+pos = (177,360);
+}
+);
 background = {
 shapes = (
 {
@@ -27195,13 +30848,13 @@ width = 271;
 {
 export = 0;
 glyphname = _e.master;
-lastChange = "2024-06-14 11:12:52 +0000";
+lastChange = "2024-06-17 10:06:48 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-pos = (11,364);
+pos = (41,364);
 }
 );
 background = {
@@ -27577,9 +31230,19 @@ width = 547;
 {
 export = 0;
 glyphname = _n.master;
-lastChange = "2024-05-27 08:31:20 +0000";
+lastChange = "2024-06-17 09:46:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (74,0);
+},
+{
+name = top;
+pos = (104,360);
+}
+);
 background = {
 shapes = (
 {
@@ -27605,9 +31268,31 @@ width = 313;
 {
 export = 0;
 glyphname = _o.master;
-lastChange = "2024-06-14 09:44:37 +0000";
+lastChange = "2024-06-17 10:08:34 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (117,0);
+},
+{
+name = center;
+pos = (117,180);
+},
+{
+name = ogonek;
+pos = (338,10);
+},
+{
+name = top;
+pos = (153,360);
+},
+{
+name = topright;
+pos = (373,360);
+}
+);
 background = {
 shapes = (
 {
@@ -27771,7 +31456,7 @@ width = 234;
 {
 export = 0;
 glyphname = _panza.b;
-lastChange = "2024-05-27 08:27:03 +0000";
+lastChange = "2024-06-17 10:39:38 +0000";
 layers = (
 {
 background = {
@@ -27802,8 +31487,11 @@ shapes = (
 closed = 0;
 nodes = (
 (0,-5,l),
-(139,-5,o),
-(223,200,o),
+(85,-5,o),
+(150,72,o),
+(150,160,cs),
+(150,216,o),
+(124,276,o),
 (61,324,c)
 );
 }
@@ -27998,13 +31686,25 @@ width = 146;
 {
 export = 0;
 glyphname = _u.master;
-lastChange = "2024-05-27 08:31:20 +0000";
+lastChange = "2024-06-17 10:09:36 +0000";
 layers = (
 {
 anchors = (
 {
+name = bottom;
+pos = (-17,0);
+},
+{
+name = ogonek;
+pos = (174,10);
+},
+{
 name = top;
 pos = (127,360);
+},
+{
+name = topright;
+pos = (242,360);
 }
 );
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -28557,14 +32257,11 @@ width = 129;
 {
 export = 0;
 glyphname = _c.fina.master;
-lastChange = "2024-06-14 09:03:27 +0000";
+lastChange = "2024-06-17 11:44:37 +0000";
 layers = (
 {
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+background = {
 shapes = (
-{
-ref = _c.master;
-},
 {
 attr = {
 identifier = ID0x7fba9c16c3a0;
@@ -28580,7 +32277,14 @@ nodes = (
 );
 }
 );
-width = 311;
+};
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _c.master;
+}
+);
+width = 188;
 }
 );
 },
@@ -30709,6 +34413,6 @@ type = "italic angle";
 }
 );
 unitsPerEm = 1000;
-versionMajor = 6;
+versionMajor = 9;
 versionMinor = 0;
 }
