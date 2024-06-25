@@ -2,8 +2,8 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-"¿¡Y!Vt,V..?ambién llegó ayer?  ",
-"Farbe Fest Firn Fjord Font Frau  Fuss Fàhre Fórde Füsse Rest Rohr Róhre Rymer Test Tod Tauf Tim Tja Turm Traum Tsara Twist Tyrol Tüte Tóten Tàter TéT Tè Veste Vogel VéVèVèVater Vijf Vlut Vulkan Vytautas Vroni Vàter Vógel Vs Ws Vz Wz Weste Wolf Wüste Wórpe Wàrter Waage Wiege Wlasta Wurst Wyhl Wrasen Yeats Yoni auf Yqem Yak Ybbs Yggdrasil Yps Ysop Ytong Yuma "
+"occióno coco 
+bebe "
 );
 axes = (
 {
@@ -11664,21 +11664,90 @@ width = 839;
 },
 {
 glyphname = o.fina;
-lastChange = "2024-06-14 10:00:31 +0000";
+lastChange = "2024-06-25 12:32:42 +0000";
 layers = (
 {
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+anchors = (
+{
+name = bottom;
+pos = (250,0);
+},
+{
+name = center;
+pos = (250,180);
+},
+{
+name = ogonek;
+pos = (450,10);
+},
+{
+name = top;
+pos = (313,360);
+},
+{
+name = topright;
+pos = (480,360);
+}
+);
+background = {
 shapes = (
 {
 ref = o;
+},
+{
+closed = 0;
+nodes = (
+(579,97,l),
+(559,93,o),
+(539,90,o),
+(520,90,cs)
+);
 }
 );
-width = 520;
+};
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+ref = _conect.left;
+},
+{
+closed = 0;
+nodes = (
+(593,163,l),
+(567,116,o),
+(520,95,o),
+(471,95,cs),
+(385,95,o),
+(292,162,o),
+(292,276,cs),
+(292,322,o),
+(315,359,o),
+(346,359,cs),
+(394,359,o),
+(464,289,o),
+(464,180,cs),
+(464,61,o),
+(389,-6,o),
+(314,-6,cs),
+(214,-6,o),
+(160,86,o),
+(160,178,cs),
+(160,286,o),
+(218,364,o),
+(314,364,cs),
+(326,364,o),
+(338,362,o),
+(348,359,c)
+);
+}
+);
+width = 593;
 }
 );
 },
 {
 glyphname = oacute.fina;
+lastChange = "2024-06-25 12:32:42 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -11691,12 +11760,13 @@ pos = (304,0);
 ref = acutecomb;
 }
 );
-width = 520;
+width = 593;
 }
 );
 },
 {
 glyphname = odieresis.fina;
+lastChange = "2024-06-25 12:32:42 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -11709,13 +11779,13 @@ pos = (173,0);
 ref = dieresiscomb;
 }
 );
-width = 520;
+width = 593;
 }
 );
 },
 {
 glyphname = ograve.fina;
-lastChange = "2024-06-17 10:09:53 +0000";
+lastChange = "2024-06-25 12:32:42 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -11728,7 +11798,7 @@ pos = (184,0);
 ref = gravecomb;
 }
 );
-width = 520;
+width = 593;
 }
 );
 },
@@ -12249,7 +12319,7 @@ width = 374;
 {
 glyphname = o.init;
 kernLeft = init.redonda;
-lastChange = "2024-06-17 11:53:01 +0000";
+lastChange = "2024-06-25 12:31:13 +0000";
 layers = (
 {
 anchors = (
@@ -31467,7 +31537,7 @@ width = 313;
 {
 export = 0;
 glyphname = _o.master;
-lastChange = "2024-06-17 10:08:34 +0000";
+lastChange = "2024-06-25 12:29:19 +0000";
 layers = (
 {
 anchors = (
