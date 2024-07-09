@@ -2,7 +2,11 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-anmamama,
+"momo
+lobo
+coco
+gogo
+",
 "s
 /s.from.bottom 
 /s.from.middle 
@@ -110,52 +114,39 @@ tag = locl;
 code = "# All base lowercases letters (has unicode + idotaccent), would like to use a token but that one is not supported by GliphsLib
 @Medial=[a aacute agrave adieresis ae b c ccedilla d e eacute egrave edieresis f g h i iacute igrave idieresis j k l m n ntilde o oacute ograve odieresis oe p q r s t u uacute ugrave udieresis v w x y z ]; 
 
-@Isolated=[a.isol aacute.isol agrave.isol adieresis.isol ae.isol b.isol c.isol ccedilla.isol d.isol e.isol eacute.isol egrave.isol edieresis.isol f.isol g.isol h.isol i.isol iacute.isol igrave.isol idieresis.isol j.isol k.isol l.isol m.isol n.isol ntilde.isol o.isol oacute.isol ograve.isol odieresis.isol oe.isol p.isol q.isol r.isol s.isol t.isol u.isol uacute.isol ugrave.isol udieresis.isol v.isol w.isol x.isol y.isol z.isol];
+@Isolated=[$[name endswith \".isol\"]];
 
+#@Initial=[$[name endswith \".init\"]];
 @Initial=[a.init aacute.init agrave.init adieresis.init ae.init b c.init ccedilla.init d.init e eacute egrave edieresis f g.init h i iacute igrave idieresis j k l m n ntilde o.init oacute.init ograve.init odieresis.init oe.init p q.init r s t u uacute ugrave udieresis v w x y z];
 
-@Final=[a.fina aacute.fina agrave.fina adieresis.fina ae.fina b.fina c.fina ccedilla.fina d.fina e.fina eacute.fina egrave.fina edieresis.fina f.fina g.fina h.fina i.fina iacute.fina igrave.fina idieresis.fina j.fina k.fina l.fina m.fina n.fina ntilde.fina o.fina oacute.fina ograve.fina odieresis.fina oe.fina p.fina q.fina r.fina s.fina t.fina u.fina uacute.fina ugrave.fina udieresis.fina v.fina w.fina x.fina y.fina z.fina];
+#@Final=[$[name endswith \".fina\"]];
+@Final=[a.fina aacute.fina agrave.fina adieresis.fina ae.fina b.fina c.fina ccedilla.fina d.fina e.fina eacute.fina egrave.fina edieresis.fina f.fina g.fina h.fina i.fina iacute.fina igrave.fina idieresis.fina j.fina k.fina l.fina m.fina n.fina ntilde.fina o.fina oacute.fina ograve.fina odieresis.fina oe.fina p.fina q.fina r.fina s.fina t.fina u.fina uacute.fina ugrave.fina udieresis.fina v.fina w.fina x.fina y.fina z.fina ];
 
-# Letters that need a long connection on the base line from e oe ae c s x
-@Base=[a.from.base.long aacute.from.base.long agrave.from.base.long adieresis.from.base.long ae.from.base.long b.from.base.long c.from.base.long ccedilla.from.base.long d.from.base.long e.from.base.long eacute.from.base.long egrave.from.base.long edieresis.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long iacute.from.base.long igrave.from.base.long idieresis.from.base.long j.from.base.long k.from.base.long l.from.base.long m.from.base.long n.from.base.long ntilde.from.base.long o.from.base.long oacute.from.base.long ograve.from.base.long odieresis.from.base.long oe.from.base.long p.from.base.long q.from.base.long r.from.base.long s.from.base.long t.from.base.long u.from.base.long uacute.from.base.long ugrave.from.base.long udieresis.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long z.from.base.long];
+#////////////
 
-@BaseFinal=[a.from.base.long.fina aacute.from.base.long.fina agrave.from.base.long.fina adieresis.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina ccedilla.from.base.long.fina d.from.base.long.fina e.from.base.long.fina eacute.from.base.long.fina egrave.from.base.long.fina edieresis.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina iacute.from.base.long.fina igrave.from.base.long.fina idieresis.from.base.long.fina j.from.base.long.fina k.from.base.long.fina l.from.base.long.fina m.from.base.long.fina n.from.base.long.fina ntilde.from.base.long.fina o.from.base.long.fina oacute.from.base.long.fina ograve.from.base.long.fina odieresis.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina t.from.base.long.fina u.from.base.long.fina uacute.from.base.long.fina ugrave.from.base.long.fina udieresis.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina z.from.base.long.fina ];
+# Letters that need a long connection on the base line // from base long c x s
+@Base=[c $[name beginswith \"c.\"] $[name beginswith \"ccedilla\"] s $[name beginswith \"s.\"] $[name beginswith \"germandbls\"] x $[name beginswith \"x.\"]];
+#rosalie llama a este grupo cv01
+@BaseMedial=[$[name endswith \".from.base.long\"]];
+@BaseFinal=[$[name endswith \".from.base.long.fina\"]];
 
-# Letters that needs connection from the middle - o
-
-@Middle=[o $[name beginswith \"o.\"] oacute $[name beginswith \"oacute.\"] ograve $[name beginswith \"ograve.\"] odieresis $[name beginswith \"odieresis.\"]];
-@FromMiddle=[$[name endswith \".from.middle\"]];
-@MiddleFinal=[$[name endswith \".from.middle.fina\"]];
-
-# Top - vincula b v w con todas las que le sigan
-
+# Letters that needs connection from the top // rosalie junta top b v w / middle o
 @Top=[b $[name beginswith \"b.\"] v $[name beginswith \"v.\"] w $[name beginswith \"w.\"]];
-@FromTop=[$[name endswith \".from.top\"]];
+#rosalie llama a este grupo cv02
+@TopMedial=[$[name endswith \".from.top\"]];
 @TopFinal=[$[name endswith \".from.top.fina\"]];
 
-# Letters that needs connection from the bottom f g j y z
-
-@Bottom=[f $[name beginswith \"f.\"] g $[name beginswith \"g.\"] j $[name beginswith \"j.\"] y $[name beginswith \"y.\"] z $[name beginswith \"z.\"]];
-@FromBottom=[$[name endswith \".from.bottom\"]];
+# Letters that needs connection from the bottom f g j y z 
+@Bottom=[f $[name beginswith \"f.\"] j $[name beginswith \"j.\"] $[name beginswith \"jdotless\"] g $[name beginswith \"g.\"] y $[name beginswith \"y.\"] z $[name beginswith \"z.\"]];
+#rosalie llama a este grupo cv03
+@BottomMedial=[$[name endswith \".from.bottom\"]];
 @BottomFinal=[$[name endswith \".from.bottom.fina\"]];
 
-# Letters that needs long connection from the base c x e ae oe s
+#este grupo debo agregarlo - letras from middle / o
+@Middle=[ o $[name beginswith \"o.\"] $[name beginswith \"oacute\"] $[name beginswith \"odieresis\"] $[name beginswith \"ograve\"] ];
+@MiddleMedial=[$[name endswith \".from.middle\"]];
+@MiddleFinal=[$[name endswith \".from.middle.fina\"]];
 
-@BaseLong=[c $[name beginswith \"c.\"] ccedilla $[name beginswith \"ccedilla.\"] x $[name beginswith \"x.\"] e $[name beginswith \"e.\"] eacute $[name beginswith \"eacute.\"] egrave $[name beginswith \"egrave.\"] edieresis $[name beginswith \"edieresis.\"] ae $[name beginswith \"ae.\"] oe $[name beginswith \"oe.\"] s $[name beginswith \"s.\"]];
-@FromBaseLong=[$[name endswith \".base.long\"]];
-@BaseLongFinal=[$[name endswith \".base.long.fina\"]];
-
-
-
-
-#aqui van los reemplazos dentro de la palabra, 
-
-sub @Top @Medial' by @FromTop;
-sub @Bottom @Medial' by @FromBottom;
-sub @Middle @Medial' by @FromMiddle;
-sub @BaseLong @Medial' by @FromBaseLong;
-
-#una vez hechos los reemplazos contextuales dentro de la palabra, se hacen los reemplazos por inicial, final e isolada.
 
 lookup ISOLATED {
 	lookupflag IgnoreMarks;
@@ -172,29 +163,20 @@ lookup INITIAL {
 lookup FINAL {
 	lookupflag IgnoreMarks;
 	ignore sub @Medial' @Lowercase;
-	sub @Base @Medial' by @BaseFinal;
+	sub @Base @Medial' by @BaseFinal; 
 	sub @Top @Medial' by @TopFinal;
 	sub @Bottom @Medial' by @BottomFinal;
 	sub @Medial' by @Final;
+	sub @Middle @Medial' by @MiddleFinal;
 } FINAL;	
 
-#lookup MEDIAL {
-#	lookupflag IgnoreMarks;
-#	sub @Base @Medial' by @BaseMedial;
-#	sub @Top @Medial' by @TopMedial;
-#	sub @Bottom @Medial' by @BottomMedial;
-#} MEDIAL;
-
-#lookup other {
-#	lookupflag IgnoreMarks;
-#	sub J' T by J.calt; 
-#} other;
-
-#lookup quotes {
-#	lookupflag IgnoreMarks;
-#	pos @Uppercase [quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle]' <0 -136 0 0>;
-#} quotes;
-
+lookup MEDIAL {
+	lookupflag IgnoreMarks;
+	sub @Base @Medial' by @BaseMedial;
+	sub @Top @Medial' by @TopMedial;
+	sub @Bottom @Medial' by @BottomMedial;
+	sub @Middle @Medial' by @MiddleMedial;
+} MEDIAL;
 ";
 tag = calt;
 },
@@ -10217,7 +10199,7 @@ unicode = 241;
 glyphname = o;
 kernLeft = a;
 kernRight = o;
-lastChange = "2024-07-08 14:56:30 +0000";
+lastChange = "2024-07-09 12:48:01 +0000";
 layers = (
 {
 anchors = (
@@ -10255,8 +10237,10 @@ ref = _o.master;
 };
 guides = (
 {
-angle = 90;
-pos = (474,72);
+pos = (463,89);
+},
+{
+pos = (332,167);
 }
 );
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
