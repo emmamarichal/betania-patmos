@@ -2,10 +2,19 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-"momo
+"momo. 
 lobo
-coco
+coco loco 
 gogo
+mama
+baba
+caca
+gaga
+bbb
+ccc
+ggg
+fogatas
+
 ",
 "s
 /s.from.bottom 
@@ -15,12 +24,6 @@ gogo
 /s.from.base.long 
 ",
 ""
-);
-axes = (
-{
-name = Weight;
-tag = wght;
-}
 );
 classes = (
 {
@@ -44,8 +47,8 @@ code = "a aacute adieresis agrave ae b c ccedilla d eth e eacute edieresis egrav
 name = Lowercase;
 }
 );
-date = "2024-06-17 08:39:45 +0000";
-familyName = "betania-9";
+date = "2024-07-09 13:29:58 +0000";
+familyName = BetaniaPatmos;
 featurePrefixes = (
 {
 automatic = 1;
@@ -68,8 +71,6 @@ feature sinf;
 feature sups;
 feature numr;
 feature dnom;
-feature isol;
-feature init;
 feature frac;
 ";
 tag = aalt;
@@ -303,6 +304,7 @@ sub x by x.isol;
 sub y by y.isol;
 sub z by z.isol;
 ";
+disabled = 1;
 tag = isol;
 },
 {
@@ -323,6 +325,7 @@ sub ograve by ograve.init;
 sub oe by oe.init;
 sub q by q.init;
 ";
+disabled = 1;
 tag = init;
 },
 {
@@ -656,9 +659,6 @@ tag = frac;
 );
 fontMaster = (
 {
-axesValues = (
-100
-);
 customParameters = (
 {
 name = paramArea;
@@ -9699,7 +9699,7 @@ unicode = 104;
 glyphname = i;
 kernLeft = a;
 kernRight = a;
-lastChange = "2024-07-05 09:15:15 +0000";
+lastChange = "2024-07-09 13:24:16 +0000";
 layers = (
 {
 anchors = (
@@ -10695,7 +10695,7 @@ unicode = 223;
 glyphname = t;
 kernLeft = t;
 kernRight = t;
-lastChange = "2024-07-05 09:21:33 +0000";
+lastChange = "2024-07-09 13:24:16 +0000";
 layers = (
 {
 anchors = (
@@ -10912,7 +10912,7 @@ unicode = 119;
 glyphname = x;
 kernLeft = a;
 kernRight = c;
-lastChange = "2024-07-09 10:01:14 +0000";
+lastChange = "2024-07-09 13:24:16 +0000";
 layers = (
 {
 background = {
@@ -11432,7 +11432,7 @@ width = 635;
 },
 {
 glyphname = i.fina;
-lastChange = "2024-07-05 09:20:21 +0000";
+lastChange = "2024-07-09 13:26:27 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -14272,7 +14272,7 @@ width = 471;
 {
 color = 11;
 glyphname = t.from.bottom;
-lastChange = "2024-07-05 09:08:48 +0000";
+lastChange = "2024-07-09 13:24:16 +0000";
 layers = (
 {
 background = {
@@ -14478,7 +14478,7 @@ metricRight = v;
 {
 color = 11;
 glyphname = x.from.bottom;
-lastChange = "2024-07-09 10:37:18 +0000";
+lastChange = "2024-07-09 13:24:16 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -16859,7 +16859,7 @@ metricRight = v;
 },
 {
 glyphname = x.from.top;
-lastChange = "2024-07-09 10:50:58 +0000";
+lastChange = "2024-07-09 13:24:16 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -21872,7 +21872,7 @@ width = 556;
 },
 {
 glyphname = b_e;
-lastChange = "2024-07-05 09:08:33 +0000";
+lastChange = "2024-07-09 13:24:16 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -34874,9 +34874,6 @@ width = 252;
 );
 instances = (
 {
-axesValues = (
-100
-);
 customParameters = (
 {
 name = "Decompose Glyphs";
@@ -34890,6 +34887,10 @@ value = 1;
 {
 name = Filter;
 value = "OffsetCurve;21;22;1;0.5;keep;cap:1;";
+},
+{
+name = Filter;
+value = AddExtremes;
 }
 );
 instanceInterpolations = {
@@ -34991,6 +34992,60 @@ type = descender;
 type = "italic angle";
 }
 );
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2024 The Betania Patmos Project Authors (https://github.com/CaroGiovagnoli/betania-patmos)";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Carolina Giovagnoli";
+}
+);
+},
+{
+key = designerURL;
+value = www.huertatipografica.com;
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Carolina Giovagnoli";
+}
+);
+},
+{
+key = manufacturerURL;
+value = www.huertatipografica.com;
+},
+{
+key = vendorID;
+value = HT;
+}
+);
 unitsPerEm = 1000;
 userData = {
 com.eweracs.HTLSManager.fontRules = {
@@ -35013,6 +35068,6 @@ Symbol = {
 };
 };
 };
-versionMajor = 9;
+versionMajor = 10;
 versionMinor = 0;
 }
