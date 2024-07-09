@@ -2,28 +2,16 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-"momo. 
-lobo
+"Por con los mob
+ornamentos 
+distracción 
+niños.
+contó conto 
 coco loco 
+bobo
 gogo
-mama
-baba
-caca
-gaga
-bbb
-ccc
-ggg
-fogatas
-
-",
-"s
-/s.from.bottom 
-/s.from.middle 
-/s.from.top 
-/_s.master.fina/s.fina  /s.isol  /s.from.bottom.fina  /s.from.middle.fina  /s.from.top.fina  /s.from.base.long.fina 
-/s.from.base.long 
-",
-""
+nono
+"
 );
 classes = (
 {
