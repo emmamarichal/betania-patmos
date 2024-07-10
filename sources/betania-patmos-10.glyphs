@@ -1,5 +1,5 @@
 {
-.appVersion = "3306";
+.appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
 "Por con los mob
@@ -155,8 +155,8 @@ lookup FINAL {
 	sub @Base @Medial' by @BaseFinal; 
 	sub @Top @Medial' by @TopFinal;
 	sub @Bottom @Medial' by @BottomFinal;
-	sub @Medial' by @Final;
 	sub @Middle @Medial' by @MiddleFinal;
+	sub @Medial' by @Final;
 } FINAL;	
 
 lookup MEDIAL {
