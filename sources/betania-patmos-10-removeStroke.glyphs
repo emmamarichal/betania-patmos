@@ -1,6 +1,9 @@
 {
 .appVersion = "3306";
 .formatVersion = 3;
+DisplayStrings = (
+g
+);
 classes = (
 {
 automatic = 1;
@@ -29786,18 +29789,24 @@ width = 330;
 export = 0;
 glyphname = _conect.left;
 kernLeft = a;
-lastChange = "2024-07-10 09:12:07 +0000";
+lastChange = "2024-07-10 17:10:45 +0000";
 layers = (
 {
 background = {
 shapes = (
 {
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 60;
+strokeWidth = 65;
+};
 closed = 0;
 nodes = (
-(0,-5,l),
-(79,-5,o),
-(145,48,o),
-(160,180,c)
+(0,25,ls),
+(89,25,o),
+(170,94,o),
+(180,210,c)
 );
 }
 );
@@ -29815,7 +29824,7 @@ closed = 0;
 nodes = (
 (0,25,ls),
 (89,25,o),
-(170,94,o),
+(160,94,o),
 (180,210,c)
 );
 }
