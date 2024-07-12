@@ -2,9 +2,13 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-"/_conect.right.e e/_x.master  /_conect.arco xntrico",
 "
-/backslash"
+/backslash",
+"Fa centenars d’anys, el déu Quetzalcóatl va decidir baixar a la Terra i viatjar per tot el món. Tot i això, tenia l’aparença d’una serp adornada amb plomes de color verd. Hi daura. Vaixí que. Yperquè no el 
+Al cap d’una estona es va adonar que, al seu costat, hi havia un conill que el mirava mastegant alguna cosa.
+–Què menges, conillet?, li va preguntar.
+–Una mica d’herba fresca. Si vols pots tastar-la, li va dir el conill.
+–T’ho agraeixo molt, però els humans no mengem herba, li va respondre el "
 );
 classes = (
 {
@@ -3524,7 +3528,7 @@ color = 9;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
-lastChange = "2024-07-11 11:22:05 +0000";
+lastChange = "2024-07-12 14:34:35 +0000";
 layers = (
 {
 background = {
@@ -3750,7 +3754,7 @@ color = 9;
 glyphname = V;
 kernLeft = V;
 kernRight = V;
-lastChange = "2024-07-11 11:22:05 +0000";
+lastChange = "2024-07-12 14:35:06 +0000";
 layers = (
 {
 background = {
@@ -4024,7 +4028,7 @@ color = 9;
 glyphname = Y;
 kernLeft = Y;
 kernRight = Y;
-lastChange = "2024-07-11 11:22:05 +0000";
+lastChange = "2024-07-12 14:38:10 +0000";
 layers = (
 {
 anchors = (
@@ -25953,50 +25957,9 @@ unicode = 8216;
 glyphname = quoteright;
 kernLeft = asterisk;
 kernRight = asterisk;
-lastChange = "2024-07-11 10:46:22 +0000";
+lastChange = "2024-07-12 14:33:35 +0000";
 layers = (
 {
-background = {
-shapes = (
-{
-attr = {
-identifier = ID0x7fbbd3347f50;
-strokeHeight = 60;
-strokeWidth = 65;
-};
-closed = 0;
-nodes = (
-(108,482,l),
-(159,606,o),
-(186,700,o),
-(102,731,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(170,482,o),
-(201,550,o),
-(201,620,cs),
-(201,679,o),
-(179,739,o),
-(138,777,c),
-(106,769,o),
-(69,742,o),
-(55,717,c),
-(79,693,o),
-(112,653,o),
-(112,605,cs),
-(112,563,o),
-(90,526,o),
-(48,478,c),
-(58,455,o),
-(81,436,o),
-(102,426,c)
-);
-}
-);
-};
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -26009,14 +25972,14 @@ strokeWidth = 65;
 };
 closed = 0;
 nodes = (
-(108,480,l),
-(159,604,o),
-(186,698,o),
-(102,729,c)
+(62,480,l),
+(113,604,o),
+(120,687,o),
+(66,729,cs)
 );
 }
 );
-width = 267;
+width = 166;
 }
 );
 unicode = 8217;
@@ -35368,6 +35331,11 @@ quotedblleft = {
 };
 quotedblright = {
 "@MMK_R_period" = -50;
+};
+space = {
+"@MMK_R_T" = -150;
+"@MMK_R_V" = -100;
+"@MMK_R_Y" = -100;
 };
 };
 };
