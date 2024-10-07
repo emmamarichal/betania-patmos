@@ -1,6 +1,9 @@
 {
 .appVersion = "3306";
 .formatVersion = 3;
+DisplayStrings = (
+"©®"
+);
 classes = (
 {
 automatic = 1;
@@ -26996,10 +26999,16 @@ unicode = 167;
 },
 {
 glyphname = copyright;
-lastChange = "2024-10-07 09:03:22 +0000";
+lastChange = "2024-10-07 10:34:24 +0000";
 layers = (
 {
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+annotations = (
+{
+pos = (399.042,403.071);
+type = Text;
+}
+);
+background = {
 shapes = (
 {
 attr = {
@@ -27022,8 +27031,59 @@ nodes = (
 (265,378,o),
 (324,378,cs),
 (351,378,o),
-(371,388,o),
+(372,384,o),
 (407,408,cs)
+);
+},
+{
+attr = {
+strokeHeight = 50;
+strokeWidth = 55;
+};
+closed = 0;
+nodes = (
+(323,279,l),
+(447,279,o),
+(550,380,o),
+(552,504,cs),
+(554,629,o),
+(455,730,o),
+(330,730,cs),
+(206,730,o),
+(103,629,o),
+(101,504,cs),
+(99,380,o),
+(198,279,o),
+(323,279,c)
+);
+}
+);
+};
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+attr = {
+identifier = ID0x7fa780fa43a0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 55;
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(394,627,l),
+(369,633,o),
+(360,637,o),
+(340,637,cs),
+(261,637,o),
+(228,594,o),
+(228,498,cs),
+(228,429,o),
+(260,378,o),
+(319,378,cs),
+(370,378,o),
+(402,408,o),
+(402,408,cs)
 );
 },
 {
