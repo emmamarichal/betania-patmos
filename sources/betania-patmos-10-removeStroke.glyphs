@@ -8574,7 +8574,7 @@ color = 9;
 glyphname = t;
 kernLeft = t;
 kernRight = t;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 anchors = (
@@ -8802,7 +8802,7 @@ color = 9;
 glyphname = x;
 kernLeft = a;
 kernRight = c;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 background = {
@@ -8835,7 +8835,7 @@ color = 9;
 glyphname = y;
 kernLeft = a;
 kernRight = g;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -8860,7 +8860,7 @@ color = 9;
 glyphname = z;
 kernLeft = a;
 kernRight = z;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 background = {
@@ -10414,13 +10414,13 @@ width = 572;
 color = 0;
 glyphname = c.init;
 kernLeft = init.redonda;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 background = {
 shapes = (
 {
-pos = (120,0);
+pos = (148,0);
 ref = _c.master;
 }
 );
@@ -10462,7 +10462,7 @@ width = 191;
 color = 0;
 glyphname = d.init;
 kernLeft = init.redonda;
-lastChange = "2024-10-11 08:26:38 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -10498,7 +10498,7 @@ pos = (33,0);
 ref = barcomp.short;
 }
 );
-width = 473;
+width = 404;
 }
 );
 },
@@ -10978,14 +10978,14 @@ width = 540;
 color = 0;
 glyphname = q.init;
 kernLeft = init.redonda;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 background = {
 shapes = (
 {
 alignment = -1;
-pos = (67,0);
+pos = (66,0);
 ref = _part.bucle;
 }
 );
@@ -13278,7 +13278,7 @@ width = 561;
 {
 color = 9;
 glyphname = r.from.bottom;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -13369,7 +13369,7 @@ width = 556;
 {
 color = 9;
 glyphname = t.from.bottom;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 background = {
@@ -13421,7 +13421,7 @@ metricRight = a;
 color = 9;
 glyphname = u.from.bottom;
 kernLeft = lc_stem;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -13509,7 +13509,7 @@ color = 9;
 glyphname = v.from.bottom;
 kernLeft = lc_o;
 kernRight = lc_o;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -13536,17 +13536,17 @@ color = 9;
 glyphname = w.from.bottom;
 kernLeft = lc_o;
 kernRight = lc_o;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 background = {
 shapes = (
 {
-pos = (8,0);
+pos = (9,0);
 ref = _conect.arco;
 },
 {
-pos = (288,0);
+pos = (289,0);
 ref = _w.master;
 }
 );
@@ -13555,7 +13555,7 @@ guides = (
 {
 angle = 85;
 lockAngle = 1;
-pos = (-22,227);
+pos = (-21,227);
 }
 );
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -13583,7 +13583,7 @@ color = 9;
 glyphname = x.from.bottom;
 kernLeft = a;
 kernRight = c;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -13605,21 +13605,21 @@ metricRight = a;
 {
 color = 9;
 glyphname = y.from.bottom;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 background = {
 shapes = (
 {
-pos = (-34,0);
+pos = (-32,0);
 ref = _conect.left.long;
 },
 {
-pos = (152,0);
+pos = (154,0);
 ref = _y.master;
 },
 {
-pos = (423,0);
+pos = (425,0);
 ref = _conect.bucle.desc.right;
 }
 );
@@ -13643,7 +13643,7 @@ metricRight = a;
 {
 color = 9;
 glyphname = z.from.bottom;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 background = {
@@ -16028,7 +16028,7 @@ width = 367;
 {
 color = 9;
 glyphname = s.from.top;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 background = {
@@ -16258,7 +16258,7 @@ metricRight = v;
 {
 color = 9;
 glyphname = x.from.top;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -16299,7 +16299,7 @@ width = 442;
 {
 color = 9;
 glyphname = z.from.top;
-lastChange = "2024-10-11 08:26:02 +0000";
+lastChange = "2024-10-16 09:49:38 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -35533,6 +35533,7 @@ value = 1;
 instanceInterpolations = {
 "6F9C6BB4-2DCF-443B-A55D-9CE049090094" = 1;
 };
+isItalic = 1;
 name = Regular;
 }
 );

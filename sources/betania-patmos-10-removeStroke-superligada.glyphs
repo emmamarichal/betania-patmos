@@ -23,7 +23,7 @@ code = "a aacute adieresis agrave ae b c ccedilla d eth e eacute edieresis egrav
 name = Lowercase;
 }
 );
-date = "2024-07-15 12:35:22 +0000";
+date = "2024-10-16 09:52:12 +0000";
 familyName = BetaniaPatmos;
 featurePrefixes = (
 {
@@ -35548,6 +35548,8 @@ value = 1;
 instanceInterpolations = {
 "6F9C6BB4-2DCF-443B-A55D-9CE049090094" = 1;
 };
+isItalic = 1;
+linkStyle = Regular;
 name = Superligada;
 }
 );
@@ -35840,5 +35842,5 @@ Symbol = {
 };
 };
 versionMajor = 10;
-versionMinor = 2;
+versionMinor = 3;
 }
