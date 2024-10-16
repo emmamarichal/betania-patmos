@@ -32845,7 +32845,7 @@ width = 130;
 {
 export = 0;
 glyphname = _q.master;
-lastChange = "2024-07-10 09:52:54 +0000";
+lastChange = "2024-10-11 08:28:32 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -32859,7 +32859,7 @@ strokeWidth = 65;
 };
 closed = 0;
 nodes = (
-(271,150,l),
+(271,170,l),
 (271,-340,l)
 );
 },
