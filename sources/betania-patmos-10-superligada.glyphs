@@ -1,6 +1,9 @@
 {
 .appVersion = "3306";
 .formatVersion = 3;
+DisplayStrings = (
+"/_a.master a/a.from.bottom/a.from.middle/a.from.top/a.from.top.fina/a.from.base.long @/_ae.master/_d.master/_q.master/_a.master.init/_d.master d/d.from.bottom/d.from.middle/d.from.top/d.from.base.long d"
+);
 classes = (
 {
 automatic = 1;
@@ -23,8 +26,8 @@ code = "a aacute adieresis agrave ae b c ccedilla d eth e eacute edieresis egrav
 name = Lowercase;
 }
 );
-date = "2024-10-16 09:52:12 +0000";
-familyName = BetaniaPatmos;
+date = "2024-10-17 12:14:39 +0000";
+familyName = BetaniaPatmos_SL;
 featurePrefixes = (
 {
 automatic = 1;
@@ -35534,21 +35537,11 @@ value = "OffsetCurve;21;22;1;0.5;keep;cap:1;";
 {
 name = Filter;
 value = AddExtremes;
-},
-{
-disabled = 1;
-name = "Decompose Components";
-value = 1;
-},
-{
-name = "Keep Overlapping Components";
-value = 1;
 }
 );
 instanceInterpolations = {
 "6F9C6BB4-2DCF-443B-A55D-9CE049090094" = 1;
 };
-isItalic = 1;
 linkStyle = Regular;
 name = Superligada;
 }
@@ -35841,6 +35834,6 @@ Symbol = {
 };
 };
 };
-versionMajor = 10;
-versionMinor = 3;
+versionMajor = 11;
+versionMinor = 0;
 }

@@ -2,7 +2,8 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ,
+"/_a.master a/a.from.bottom/a.from.middle/a.from.top/a.from.top.fina/a.from.base.long @/_d.master/_q.master/_a.master.init/_d.master d"
 );
 classes = (
 {
@@ -26,7 +27,7 @@ code = "a aacute adieresis agrave ae b c ccedilla d eth e eacute edieresis egrav
 name = Lowercase;
 }
 );
-date = "2024-07-15 12:35:22 +0000";
+date = "2024-10-17 12:15:08 +0000";
 familyName = BetaniaPatmos;
 featurePrefixes = (
 {
@@ -35519,15 +35520,6 @@ value = "OffsetCurve;21;22;1;0.5;keep;cap:1;";
 {
 name = Filter;
 value = AddExtremes;
-},
-{
-disabled = 1;
-name = "Decompose Components";
-value = 1;
-},
-{
-name = "Keep Overlapping Components";
-value = 1;
 }
 );
 instanceInterpolations = {
@@ -35825,6 +35817,6 @@ Symbol = {
 };
 };
 };
-versionMajor = 10;
-versionMinor = 2;
+versionMajor = 11;
+versionMinor = 0;
 }
