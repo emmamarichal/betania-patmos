@@ -35525,7 +35525,6 @@ value = AddExtremes;
 instanceInterpolations = {
 "6F9C6BB4-2DCF-443B-A55D-9CE049090094" = 1;
 };
-isItalic = 1;
 name = Regular;
 }
 );

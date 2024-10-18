@@ -27,7 +27,7 @@ name = Lowercase;
 }
 );
 date = "2024-10-17 12:14:39 +0000";
-familyName = BetaniaPatmos_SL;
+familyName = BetaniaPatmosSL;
 featurePrefixes = (
 {
 automatic = 1;
@@ -35542,7 +35542,6 @@ value = AddExtremes;
 instanceInterpolations = {
 "6F9C6BB4-2DCF-443B-A55D-9CE049090094" = 1;
 };
-linkStyle = Regular;
 name = Superligada;
 }
 );
