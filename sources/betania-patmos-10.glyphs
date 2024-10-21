@@ -4,7 +4,8 @@
 DisplayStrings = (
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "/_a.master a/a.from.bottom/a.from.middle/a.from.top/a.from.top.fina/a.from.base.long @/_d.master/_q.master/_a.master.init/_d.master d",
-" p"
+" p",
+"¿c¡cómo—?"
 );
 classes = (
 {
@@ -10454,7 +10455,7 @@ width = 572;
 color = 0;
 glyphname = c.init;
 kernLeft = init.redonda;
-lastChange = "2024-10-16 09:49:38 +0000";
+lastChange = "2024-10-21 09:42:25 +0000";
 layers = (
 {
 background = {
@@ -35693,6 +35694,12 @@ quoteleft = -50;
 "@MMK_L_right.g" = {
 "@MMK_R_asterisk" = -20;
 };
+emdash = {
+"@MMK_R_init.redonda" = 120;
+};
+exclamdown = {
+"@MMK_R_init.redonda" = 80;
+};
 guillemetleft = {
 "@MMK_R_T" = -100;
 "@MMK_R_V" = -50;
@@ -35710,6 +35717,7 @@ periodcentered = {
 questiondown = {
 "@MMK_R_T" = -80;
 "@MMK_R_V" = -40;
+"@MMK_R_init.redonda" = 60;
 };
 quotedblleft = {
 "@MMK_R_period" = -80;
