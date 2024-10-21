@@ -32,7 +32,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2024-10-17 12:14:39 +0000";
+date = "2024-10-21 07:46:42 +0000";
 familyName = BetaniaPatmosSL;
 featurePrefixes = (
 {
@@ -35872,5 +35872,5 @@ Symbol = {
 };
 };
 versionMajor = 11;
-versionMinor = 0;
+versionMinor = 1;
 }
