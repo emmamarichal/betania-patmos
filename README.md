@@ -1,3 +1,5 @@
+![IMG BetaniaPatmos](https://github.com/CaroGiovagnoli/betania-patmos/blob/main/pdf/img.jpg?raw=true)
+
 # Betània Patmos
 Typography Project BP for Early Writing
 (Spanish below)
@@ -36,6 +38,7 @@ References:
 - Primarium
 - Monica Dengo
 
+![IMG BetaniaPatmos character set](https://github.com/CaroGiovagnoli/betania-patmos/blob/main/pdf/img2.jpg?raw=true)
 
 ////
 
@@ -75,3 +78,5 @@ Referencias:
 - Rosalie Wagner – principal referente
 - Primarium
 - Monica Dengo
+
+![IMG BetaniaPatmos character set numbers](https://github.com/CaroGiovagnoli/betania-patmos/blob/main/pdf/img4.jpg?raw=true)
