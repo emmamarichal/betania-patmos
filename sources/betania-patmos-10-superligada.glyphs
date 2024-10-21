@@ -26,6 +26,12 @@ code = "a aacute adieresis agrave ae b c ccedilla d eth e eacute edieresis egrav
 name = Lowercase;
 }
 );
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
 date = "2024-10-17 12:14:39 +0000";
 familyName = BetaniaPatmosSL;
 featurePrefixes = (
@@ -749,6 +755,38 @@ value = "5";
 {
 name = paramDepth;
 value = 10;
+},
+{
+name = typoAscender;
+value = 1040;
+},
+{
+name = typoDescender;
+value = -380;
+},
+{
+name = typoLineGap;
+value = 60;
+},
+{
+name = winAscent;
+value = 1040;
+},
+{
+name = winDescent;
+value = 380;
+},
+{
+name = hheaAscender;
+value = 1040;
+},
+{
+name = hheaDescender;
+value = -380;
+},
+{
+name = hheaLineGap;
+value = 60;
 }
 );
 guides = (
