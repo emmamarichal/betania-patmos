@@ -1,48 +1,77 @@
-# betania-patmos
+# Betània Patmos
+Typography Project BP for Early Writing
+(Spanish below)
+
+In mid-2023, we launched this interdisciplinary project to create a typeface specifically for early reading and writing in schools, designed to meet the pedagogical, morphological, and aesthetic requirements of schools in Catalonia and Spain.
+
+The project focuses on two critical aspects:
+
+- A minimalist design that avoids confusing the essential structure of the letters.
+- Simple functionality, as this typeface is intended for teachers to create educational materials in virtual classrooms using tools like Google Drive, LibreOffice, or other readily available resources.
+
+Key Features of the Typeface:
+- Functionality:
+The users of this typeface are not designers but teachers who self-edit worksheets and materials for use in virtual classrooms. They primarily use applications like Google Drive, LibreOffice, TextEdit, or even Notepad, rather than design software.
+The OpenType development has been structured with contextual alternates to ensure compatibility with these tools, following the research of Rosalie Wagner.
+
+- Design:
+Although it adheres to the teaching model used in Spain, the typeface has been updated to meet modern requirements, removing any decorative elements that could interfere with letter recognition. The result is a clean, minimalist font.
+The proportions follow Montessori guidelines, where ascenders and descenders are in a 1:1:1 ratio. The horizontal proportions are slightly condensed to improve text efficiency per line.
+
+These design decisions were made by an interdisciplinary team, including both a pedagogical department and a group of teachers who are end-users.
+
+## Summary of the Brief:
+- Users: Teachers
+- Readers: Preschool and early primary students
+- Purpose: Creating worksheets and educational materials
+- Guidelines: Avoid decorative elements and loops, especially in letters like b, v, and w.
+- Compatibility: The typeface must function in office software and be integrated into Google Drive.
+- OpenType Features: Follows Rosalie Wagner’s documentation for contextual alternates (CALT).
+- Purpose: This is not a display typeface or one intended for designers; it’s designed specifically for classroom use.
+
+References:
+- https://smed2015.it/formarsi-a-milano/
+- Escolar 1 – currently in use
+- Rosalie Wagner – main reference
+- Primarium
+- Monica Dengo
+
+
+////
+
+# Betània Patmos
 Proyecto Tipografía BP para primeras escrituras
 
-A mediados de 2023 comenzamos este proyecto interdisciplinario, una fuente tipográfica para el inicio de la lecto escritura en las escuelas siguiendo los requerimientos pedagógicos y estéticos de las escuelas de Cataluña y España.
+A mediados de 2023, lanzamos este proyecto interdisciplinario para crear una fuente tipográfica específicamente para el inicio de la lectoescritura en las escuelas, siguiendo los requerimientos pedagógicos, morfológicos y estéticos de las escuelas de Cataluña y España.
 
-La atención está puesta en dos aspectos críticos:
-1- Un diseño austero para no confundir el ductus esencial de los signos.
-2- Un funcionamiento simple, pues esta tipografía está pensada para que docentes puedan editar material didáctico en las aulas virtuales utilizando herramientas como google drive, libreoffice o recursos disponibles en el classroom.
+El proyecto se centra en dos aspectos críticos:
 
+- Un diseño austero para no confundir el ductus esencial de las letras.
+- Un funcionamiento simple, ya que esta tipografía está pensada para que los docentes puedan crear material didáctico en aulas virtuales utilizando herramientas como Google Drive, LibreOffice o recursos fácilmente disponibles.
 
-Los puntos fundamentales de esta fuente son:
+Puntos fundamentales de esta fuente:
+- Funcionalidad:
+Los usuarios de esta tipografía no son diseñadores, sino docentes que autoeditan fichas de trabajo y materiales para utilizar en aulas virtuales. Usan principalmente aplicaciones como Google Drive, LibreOffice, TextEdit o incluso el bloc de notas, en lugar de programas de diseño.
+El desarrollo OpenType está estructurado con alternancias contextuales para asegurar que funcione en estos entornos, siguiendo la línea de investigación de Rosalie Wagner.
 
-En cuanto a su funcionamiento: 
+- Diseño:
+Aunque sigue el modelo de enseñanza adoptado en España, la tipografía se ha actualizado para cumplir con los requisitos contemporáneos, despojando al trazo de cualquier elemento decorativo que pueda interferir en el reconocimiento de las letras. El resultado es una fuente limpia y minimalista.
+Las proporciones siguen las pautas Montessori, donde ascendentes y descendentes tienen una proporción de 1:1:1. Las proporciones horizontales están ligeramente condensadas para mejorar la eficiencia del texto por línea.
 
-Los usuarios de esta fuente no son diseñadores, son docentes que autoeditan fichas de trabajo y material para utilizar en aulas virtuales como classroom, las aplicaciones que utilizan son google drive, libreoffice, textedit o incluso block de notas (no usan programas de diseño)
+Estas decisiones se tomaron dentro de un equipo interdisciplinario, que incluye tanto un departamento pedagógico como un grupo de docentes que son usuarios finales.
 
-Todo el desarrollo open type esta organizado con contextual alternate para que funcione en estos entornos (sigue la línea de investigación de Rosalie Wagner) 
-
-En cuanto a su aspecto:
-
-Si bien sigue el modelo de enseñanza adoptado por españa, se han ajustado cuestiones esenciales que tienen que ver con despojar al trazo de ornamentos y elementos decorativos que interfieren en el reconocimiento del ductus esencial del signo. El resultado es una fuente austera.
-
-Las proporciones responde a la pauta montessori, donde ascendentes y descendentes son 1/1/1
-Las proporciones horizontales están levemente condensadas para lograr un mejor rendimiento de texto por línea.
-
-Con el asesoramiento del departamento pedagógico, en diálogo con los docentes, logramos un diseño minimalista y preciso que puede ser utilizado en plataformas no pensadas para el diseño.
-
-Uno de los desafíos fue que la fuente pudiera ser utilizada en programas de autoedición (no de diseño) y que los reemplazos y ligaduras funcionaran. También fue importante eliminar los elementos decorativos, es una tipografía para uso escolar, si bien puede ser utilizada como display, su usuario es gente no diseñadora.
-
-
-Brief en 2 palabras
-Usuarios: Docentes
-Lectores: Pre-escolar y primaria inicial
-Fin: Confección de finchas de actividades y material didáctico
-La referencia son escolar1 _ 
-Evitar rulos y decoración, principalmente en b/v/w 
-Debe funcionar en programas de oficina
-Incorporar a google drive
-Según la documentación de Rosalie Wagner, aplicar los reemplazos vía contextual altérnate
-Simplificar al maximo.
-No es una tipografía display ni para diseñadores, es una tipografía para el aula.
-
-- Referencias:
-https://smed2015.it/formarsi-a-milano/
-Escolar 1 - es la utilizada actualmente
-Rosalie Wagner - es mi referente
-Primarium
-Monica Dengo
+## Síntesis del Brief:
+- Usuarios: Docentes
+- Lectores: Preescolar y primaria inicial
+- Finalidad: Confección de fichas de actividades y material didáctico
+- Pautas: Evitar elementos decorativos y bucles, especialmente en letras como b, v y w.
+- Compatibilidad: La tipografía debe funcionar en programas de oficina e integrarse en Google Drive.
+- Características OpenType: Sigue la documentación de Rosalie Wagner sobre alternancias contextuales (CALT).
+- Propósito: No es una tipografía de exhibición ni para diseñadores; está diseñada específicamente para su uso en el aula.
+ 
+Referencias:
+- https://smed2015.it/formarsi-a-milano/
+- Escolar 1 – actualmente en uso
+- Rosalie Wagner – principal referente
+- Primarium
+- Monica Dengo
