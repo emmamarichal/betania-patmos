@@ -67,7 +67,7 @@ Estas decisiones se tomaron dentro de un equipo interdisciplinario, que incluye 
 - Pautas: Evitar elementos decorativos y bucles, especialmente en letras como b, v y w.
 - Compatibilidad: La tipografía debe funcionar en programas de oficina e integrarse en Google Drive.
 - Características OpenType: Sigue la documentación de Rosalie Wagner sobre alternancias contextuales (CALT).
-- Propósito: No es una tipografía de exhibición ni para diseñadores; está diseñada específicamente para su uso en el aula.
+- Propósito: No es una tipografía display para diseñadores; está diseñada específicamente para su uso en el aula.
  
 Referencias:
 - https://smed2015.it/formarsi-a-milano/
