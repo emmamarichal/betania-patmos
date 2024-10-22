@@ -35,7 +35,7 @@ References:
 - Escolar 1 – currently in use
 - https://github.com/RosaWagner/Borel / Rosalie Wagner – main reference
 - https://primarium.info/about/  /  Primarium
-- Monica Dengo
+- Ana Ronchi
 - https://smed2015.it/formarsi-a-milano/
 
 ![IMG BetaniaPatmos character set](https://github.com/CaroGiovagnoli/betania-patmos/blob/main/pdf/img2.jpg?raw=true)
@@ -76,7 +76,7 @@ Referencias:
 - Escolar 1 – actualmente en uso
 - https://github.com/RosaWagner/Borel / Rosalie Wagner – main reference
 - https://primarium.info/about/  /  Primarium
-- Monica Dengo
+- Ana Ronchi
 - https://smed2015.it/formarsi-a-milano/
 
 ![IMG BetaniaPatmos character set numbers](https://github.com/CaroGiovagnoli/betania-patmos/blob/main/pdf/img4.jpg?raw=true)
