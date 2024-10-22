@@ -32,11 +32,11 @@ These design decisions were made by an interdisciplinary team, including both a 
 - Purpose: This is not a display typeface or one intended for designers; it’s designed specifically for classroom use.
 
 References:
-- https://smed2015.it/formarsi-a-milano/
 - Escolar 1 – currently in use
-- Rosalie Wagner – main reference
-- Primarium
+- https://github.com/RosaWagner/Borel / Rosalie Wagner – main reference
+- https://primarium.info/about/  /  Primarium
 - Monica Dengo
+- https://smed2015.it/formarsi-a-milano/
 
 ![IMG BetaniaPatmos character set](https://github.com/CaroGiovagnoli/betania-patmos/blob/main/pdf/img2.jpg?raw=true)
 
@@ -73,10 +73,10 @@ Estas decisiones se tomaron dentro de un equipo interdisciplinario, que incluye 
 - Propósito: No es una tipografía display para diseñadores; está diseñada específicamente para su uso en el aula.
  
 Referencias:
-- https://smed2015.it/formarsi-a-milano/
 - Escolar 1 – actualmente en uso
-- Rosalie Wagner – principal referente
-- Primarium
+- https://github.com/RosaWagner/Borel / Rosalie Wagner – main reference
+- https://primarium.info/about/  /  Primarium
 - Monica Dengo
+- https://smed2015.it/formarsi-a-milano/
 
 ![IMG BetaniaPatmos character set numbers](https://github.com/CaroGiovagnoli/betania-patmos/blob/main/pdf/img4.jpg?raw=true)
