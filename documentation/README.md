@@ -1,6 +1,4 @@
-Documentación para la instación de la fuente y activación de los recursos estilísticos
-
-Cómo instalar la tipografía BetàniaPatmos en tu pc.
+**¿Cómo instalar la tipografía BetàniaPatmos en una PC?**
 
 La familia tipográfica BetàniaPatmos tiene dos fuentes disponibles:
 - BetaniaPatmos (esta varialbe contiene las letras minúsuclas iniciales sin trazo de entrada)
@@ -26,9 +24,9 @@ Busca la tipografía BetàniaPatmos en la lista de fuentes para verificar que se
 Nota
 Algunos programas requieren que se cierren y vuelvan a abrir para reconocer una nueva fuente instalada.
 
-////
+////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
 
-Cómo activar los contextual alternate en aplicaciones de Microsoft Office (como Word y PowerPoint):
+**¿Cómo activar los contextual alternate en aplicaciones de Microsoft Office (como Word y PowerPoint)?**
 
 Paso 1: Abrir un documento de Microsoft Word o PowerPoint
 Inicia Microsoft Word o PowerPoint y abre un documento nuevo o existente.
@@ -46,12 +44,12 @@ Marca la casilla "Alternancias contextuales" o "Contextual Alternates".
 Paso 4: Aplicar y Aceptar
 Haz clic en "Aceptar" para cerrar el cuadro de diálogo.
 
-////
+////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
 
-En aplicaciones del paquete LibreOfice esta opción está activada por defecto, por lo tanto no hay que hacer.
+**En aplicaciones del paquete LibreOfice esta opción está activada por defecto, por lo tanto no hay que hacer**
 
-////
+////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
 
-Espaciado y Kerning
+**Espaciado y Kerning**
 
 Al ser una tipografía ligada, es importante NO alterar lo referente al espaciado y el kerning.
