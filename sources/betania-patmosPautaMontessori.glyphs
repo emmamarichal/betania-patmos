@@ -132,13 +132,13 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 alignment = -1;
-ref = _guide2;
+ref = _guideMontessori2;
 },
 {
-ref = _guide3;
+ref = _guideMontessori3;
 },
 {
-ref = _guide4;
+ref = _guideMontessori4;
 }
 );
 width = 500;
@@ -158,11 +158,11 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 alignment = -1;
-ref = _guide4;
+ref = _guideMontessori4;
 },
 {
 alignment = -1;
-ref = _guide2;
+ref = _guideMontessori2;
 }
 );
 width = 500;
@@ -192,14 +192,14 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 alignment = -1;
-ref = _guide2;
+ref = _guideMontessori2;
 },
 {
 pos = (493,0);
-ref = _guide3;
+ref = _guideMontessori3;
 },
 {
-ref = _guide4;
+ref = _guideMontessori4;
 }
 );
 width = 500;
@@ -219,14 +219,14 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 alignment = -1;
-ref = _guide1;
+ref = _guideMontessori1;
 },
 {
 alignment = -1;
-ref = _guide2;
+ref = _guideMontessori2;
 },
 {
-ref = _guide3;
+ref = _guideMontessori3;
 }
 );
 width = 500;
@@ -246,11 +246,11 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 alignment = -1;
-ref = _guide1;
+ref = _guideMontessori1;
 },
 {
 alignment = -1;
-ref = _guide2;
+ref = _guideMontessori2;
 }
 );
 width = 500;
@@ -282,15 +282,15 @@ layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 alignment = -1;
-ref = _guide1;
+ref = _guideMontessori1;
 },
 {
 alignment = -1;
-ref = _guide2;
+ref = _guideMontessori2;
 },
 {
 pos = (493,0);
-ref = _guide3;
+ref = _guideMontessori3;
 }
 );
 width = 500;
@@ -301,8 +301,8 @@ unicode = 99;
 },
 {
 export = 0;
-glyphname = _guide1;
-lastChange = "2024-11-20 14:11:01 +0000";
+glyphname = _guideMontessori1;
+lastChange = "2024-11-20 16:15:57 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -332,8 +332,8 @@ width = 500;
 },
 {
 export = 0;
-glyphname = _guide2;
-lastChange = "2024-11-20 14:11:14 +0000";
+glyphname = _guideMontessori2;
+lastChange = "2024-11-20 16:15:53 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -363,8 +363,8 @@ width = 500;
 },
 {
 export = 0;
-glyphname = _guide3;
-lastChange = "2024-11-20 14:11:31 +0000";
+glyphname = _guideMontessori3;
+lastChange = "2024-11-20 16:16:07 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -385,8 +385,8 @@ width = 7;
 },
 {
 export = 0;
-glyphname = _guide4;
-lastChange = "2024-11-20 14:15:38 +0000";
+glyphname = _guideMontessori4;
+lastChange = "2024-11-20 16:16:04 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
