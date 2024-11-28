@@ -5,7 +5,8 @@ DisplayStrings = (
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 " p",
 "Betània",
-"a serp @HOLA"
+"a serp @HOLA",
+"/_s.master.fina"
 );
 classes = (
 {
@@ -9043,13 +9044,13 @@ unicode = 122;
 {
 color = 9;
 glyphname = saltillo;
-lastChange = "2024-07-10 10:03:51 +0000";
+lastChange = "2024-11-22 15:56:24 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-pos = (162,580);
+pos = (161,580);
 }
 );
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -9064,14 +9065,14 @@ strokeWidth = 65;
 };
 closed = 0;
 nodes = (
-(107,227,l),
-(222,335,o),
-(218,484,o),
-(177,553,c)
+(106,227,l),
+(221,335,o),
+(217,484,o),
+(176,553,c)
 );
 }
 );
-width = 312;
+width = 310;
 }
 );
 unicode = 42892;
@@ -10469,13 +10470,13 @@ width = 675;
 {
 color = 9;
 glyphname = saltillo.fina;
-lastChange = "2024-07-11 13:47:04 +0000";
+lastChange = "2024-11-22 15:56:31 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-pos = (162,580);
+pos = (161,580);
 }
 );
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -10490,14 +10491,14 @@ strokeWidth = 65;
 };
 closed = 0;
 nodes = (
-(107,227,l),
-(222,335,o),
-(218,484,o),
-(177,553,c)
+(106,227,l),
+(221,335,o),
+(217,484,o),
+(176,553,c)
 );
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -11421,6 +11422,7 @@ width = 545;
 },
 {
 glyphname = saltillo.init;
+lastChange = "2024-11-22 15:56:38 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -11429,7 +11431,7 @@ shapes = (
 ref = saltillo;
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -12512,7 +12514,7 @@ shapes = (
 ref = saltillo;
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -13909,7 +13911,7 @@ shapes = (
 ref = saltillo;
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -15197,7 +15199,7 @@ shapes = (
 ref = saltillo;
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -16558,7 +16560,7 @@ shapes = (
 ref = saltillo;
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -17696,7 +17698,7 @@ shapes = (
 ref = saltillo.from.bottom;
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -18794,7 +18796,7 @@ shapes = (
 ref = saltillo.from.middle;
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -19904,7 +19906,7 @@ shapes = (
 ref = saltillo.from.top;
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -21205,7 +21207,7 @@ shapes = (
 ref = saltillo;
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -22366,7 +22368,7 @@ shapes = (
 ref = saltillo.from.base.long;
 }
 );
-width = 312;
+width = 310;
 }
 );
 },
@@ -33331,7 +33333,7 @@ width = 0;
 {
 export = 0;
 glyphname = _s.master;
-lastChange = "2024-07-10 10:32:15 +0000";
+lastChange = "2024-11-22 16:03:26 +0000";
 layers = (
 {
 background = {
@@ -33345,28 +33347,28 @@ strokeWidth = 65;
 };
 closed = 0;
 nodes = (
-(0,369,l),
-(121,286,o),
-(248,234,o),
-(243,121,cs),
-(236,-31,o),
-(93,-11,o),
-(35,30,c)
+(0,399,l),
+(121,316,o),
+(248,264,o),
+(243,151,cs),
+(236,-8,o),
+(93,9,o),
+(35,60,c)
 );
 },
 {
 attr = {
-lineCapEnd = 2;
-lineCapStart = 2;
+lineCapEnd = "2";
+lineCapStart = "1";
 strokeHeight = 60;
 strokeWidth = 65;
 };
 closed = 0;
 nodes = (
-(265,-5,l),
-(231,-5,o),
-(177,0,o),
-(153,2,c)
+(280,25,l),
+(246,25,o),
+(169,25,o),
+(169,25,c)
 );
 }
 );
@@ -33393,8 +33395,8 @@ nodes = (
 },
 {
 attr = {
-lineCapEnd = 2;
-lineCapStart = 1;
+lineCapEnd = 4;
+lineCapStart = "1";
 strokeHeight = 60;
 strokeWidth = 65;
 };
@@ -33402,8 +33404,8 @@ closed = 0;
 nodes = (
 (280,25,l),
 (246,25,o),
-(112,25,o),
-(112,25,c)
+(145,25,o),
+(145,25,c)
 );
 }
 );
@@ -34805,7 +34807,7 @@ width = 133;
 {
 export = 0;
 glyphname = _s.master.fina;
-lastChange = "2024-07-11 07:25:56 +0000";
+lastChange = "2024-11-22 16:05:12 +0000";
 layers = (
 {
 background = {
@@ -34888,7 +34890,7 @@ nodes = (
 {
 attr = {
 identifier = ID0x7f80eea59370;
-lineCapEnd = "1";
+lineCapEnd = 4;
 lineCapStart = 1;
 strokeHeight = 60;
 strokeWidth = 65;
