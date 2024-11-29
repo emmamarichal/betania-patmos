@@ -64958,6 +64958,26 @@ instances = (
 axesValues = (
 1
 );
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+);
+},
+{
+name = "Update Features";
+value = 1;
+},
+{
+disabled = 1;
+name = Filter;
+value = "OffsetCurve;21;22;1;0.5;keep;cap:1;";
+},
+{
+name = Filter;
+value = AddExtremes;
+}
+);
 instanceInterpolations = {
 "6F9C6BB4-2DCF-443B-A55D-9CE049090094" = 1;
 };
@@ -64966,6 +64986,26 @@ name = Regular;
 {
 axesValues = (
 2
+);
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+);
+},
+{
+name = "Update Features";
+value = 1;
+},
+{
+disabled = 1;
+name = Filter;
+value = "OffsetCurve;21;22;1;0.5;keep;cap:1;";
+},
+{
+name = Filter;
+value = AddExtremes;
+}
 );
 instanceInterpolations = {
 m002 = 1;
@@ -65319,6 +65359,8 @@ type = descender;
 type = "italic angle";
 }
 );
+note = "En el layer 1 estan las letras
+en el layer 2 estan las letras  + pauta montessori";
 properties = (
 {
 key = copyrights;
