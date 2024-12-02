@@ -10,7 +10,7 @@ In mid-2023, we launched this interdisciplinary project to create a typeface spe
 The project focuses on two critical aspects:
 
 - A minimalist design that avoids confusing the essential structure of the letters.
-- Simple functionality, as this typeface is intended for teachers to create educational materials in virtual classrooms using tools like Google Drive, LibreOffice, or other readily available resources.
+- Simple functionality, as this typeface is intended for teachers to create educational materials in virtual classrooms using tools like LibreOffice, or other readily available resources.
 
 Key Features of the Typeface:
 
@@ -30,7 +30,7 @@ These design decisions were made by an interdisciplinary team, including both a 
 - Readers: Preschool and early primary students
 - Purpose: Creating worksheets and educational materials
 - Guidelines: Avoid decorative elements and loops, especially in letters like b, v, and w.
-- Compatibility: The typeface must function in office software and be integrated into Google Drive.
+- Compatibility: The typeface works with office software, and it would be ideal if it could also be integrated into Google Drive.
 - OpenType Features: Follows Rosalie Wagner’s documentation for contextual alternates (CALT).
 - Purpose: This is not a display typeface or one intended for designers; it’s designed specifically for classroom use.
 
@@ -38,9 +38,9 @@ References:
 
 - Escolar 1 – currently in use
 - https://github.com/RosaWagner/Borel / Rosalie Wagner – main reference
-- https://primarium.info/about/ / Primarium
 - Ana Ronchi
 - https://smed2015.it/formarsi-a-milano/
+- https://primarium.info/about/ / Primarium
 
 ![IMG BetaniaPatmos character set](documentation/img2.jpg?raw=true)
 
