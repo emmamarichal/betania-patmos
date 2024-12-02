@@ -1,8 +1,12 @@
-**¿Cómo instalar la tipografía BetàniaPatmos en una PC?**
+**The file is built as a color font. Each color-layer:**
 
-La familia tipográfica BetàniaPatmos tiene dos fuentes disponibles:
-- BetaniaPatmos (esta varialbe contiene las letras minúsuclas iniciales sin trazo de entrada)
-- BetaniaPatmosSL (esta varialbe contiene las letras minúsuclas iniciales con trazo de entrada)
+- Font 1 ► Layer 1 ► regular
+- Font 2 ► Layer 2 ► regular con pauta Montessori superpuesta
+- Font 3 ► Layer 3 ► superligada (the round letters a, c, d, g, q have an entry stroke at the init or when isolated)
+- Font 4 ► Layer 4 ► superligada con pauta Montessori superpuesta
+- Font 5 ► La pauta sin letras (solo renglones) se encuentra en el el archivo idependiente betania-patmosPautaMontessori
+
+**¿Cómo instalar la tipografía BetàniaPatmos en una PC?**
 
 Paso 1: Descargar las tipografía
 Encuentra las tipografías en xxxxxxx y descárgalas.
