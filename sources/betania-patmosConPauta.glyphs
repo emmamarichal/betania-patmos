@@ -1,6 +1,9 @@
 {
 .appVersion = "3306";
 .formatVersion = 3;
+DisplayStrings = (
+"ß/germandbls.fina/germandbls.init/germandbls.isol/germandbls.from.bottom/germandbls.from.middle/germandbls.from.top/germandbls.from.bottom.fina/germandbls.from.middle.fina/germandbls.from.top.fina/_germandbls.master/germandbls.from.base.long/germandbls.from.base.long.fina"
+);
 axes = (
 {
 name = Color;
@@ -17814,7 +17817,7 @@ width = 703;
 {
 color = 9;
 glyphname = germandbls.fina;
-lastChange = "2024-11-29 12:55:23 +0000";
+lastChange = "2024-12-02 08:55:40 +0000";
 layers = (
 {
 anchors = (
@@ -17823,32 +17826,6 @@ name = center;
 pos = (144,180);
 }
 );
-background = {
-shapes = (
-{
-pos = (60,0);
-ref = _entra_s;
-},
-{
-pos = (296,0);
-ref = _s.master;
-},
-{
-attr = {
-identifier = ID0x7f7bd5659180;
-lineCapEnd = "1";
-lineCapStart = "1";
-};
-closed = 0;
-nodes = (
-(434,6,l),
-(466,-1,o),
-(500,-5,o),
-(554,-5,c)
-);
-}
-);
-};
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -33637,15 +33614,9 @@ width = 535;
 },
 {
 glyphname = germandbls.from.top.fina;
-lastChange = "2024-11-29 12:55:23 +0000";
+lastChange = "2024-12-02 08:56:57 +0000";
 layers = (
 {
-anchors = (
-{
-name = center;
-pos = (144,180);
-}
-);
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -33663,12 +33634,6 @@ ref = _conect.germandbls.fina;
 width = 656;
 },
 {
-anchors = (
-{
-name = center;
-pos = (144,180);
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -35750,15 +35715,9 @@ width = 533;
 },
 {
 glyphname = germandbls.from.base.long;
-lastChange = "2024-11-29 12:55:23 +0000";
+lastChange = "2024-12-02 08:57:05 +0000";
 layers = (
 {
-anchors = (
-{
-name = center;
-pos = (144,180);
-}
-);
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -35776,12 +35735,6 @@ ref = _conect.germandbls;
 width = 648;
 },
 {
-anchors = (
-{
-name = center;
-pos = (144,180);
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -37705,15 +37658,9 @@ width = 735;
 },
 {
 glyphname = germandbls.from.base.long.fina;
-lastChange = "2024-11-29 12:55:23 +0000";
+lastChange = "2024-12-02 08:57:12 +0000";
 layers = (
 {
-anchors = (
-{
-name = center;
-pos = (144,180);
-}
-);
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -37731,12 +37678,6 @@ ref = _conect.germandbls.fina;
 width = 840;
 },
 {
-anchors = (
-{
-name = center;
-pos = (144,180);
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -39391,7 +39332,7 @@ unicode = 53;
 },
 {
 glyphname = six;
-lastChange = "2024-11-29 11:01:13 +0000";
+lastChange = "2024-12-02 09:21:16 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -39443,37 +39384,36 @@ strokeWidth = 65;
 };
 closed = 0;
 nodes = (
-(345,706,l),
-(321,721,o),
-(275,729,o),
-(245,729,cs),
-(110,729,o),
-(40,577,o),
-(33,383,cs),
-(26,183,o),
-(84,25,o),
-(220,25,cs),
-(350,25,o),
-(411,129,o),
-(412,234,cs),
-(414,340,o),
-(356,451,o),
-(247,451,cs),
-(178,451,o),
-(87,407,o),
-(25,308,c)
+(421,706,l),
+(397,721,o),
+(351,729,o),
+(321,729,cs),
+(186,729,o),
+(116,577,o),
+(109,383,cs),
+(102,183,o),
+(160,25,o),
+(296,25,cs),
+(426,25,o),
+(487,129,o),
+(488,234,cs),
+(490,340,o),
+(432,451,o),
+(323,451,cs),
+(254,451,o),
+(163,407,o),
+(101,308,c)
 );
 },
 {
 alignment = -1;
 ref = _guideMontessori1;
-scale = (1.03,1);
+scale = (1.182,1);
 }
 );
-width = 514;
+width = 590;
 }
 );
-metricLeft = zero;
 unicode = 54;
 },
 {
@@ -53284,12 +53224,12 @@ width = 590;
 layerId = m002;
 shapes = (
 {
-pos = (514,0);
+pos = (590,0);
 ref = six;
 scale = (-1,1);
 }
 );
-width = 514;
+width = 590;
 }
 );
 unicode = 8706;
@@ -55826,512 +55766,6 @@ width = 296;
 );
 },
 {
-glyphname = _ampersand.alt;
-lastChange = "2024-11-29 10:15:21 +0000";
-layers = (
-{
-anchors = (
-{
-name = bottom;
-pos = (532,31);
-},
-{
-name = center;
-pos = (74,211);
-},
-{
-name = ogonek;
-pos = (-93,41);
-},
-{
-name = top;
-pos = (532,731);
-},
-{
-name = topright;
-pos = (197,741);
-}
-);
-background = {
-shapes = (
-{
-attr = {
-identifier = ID0x7fa77d1a5b30;
-lineCapEnd = 1;
-lineCapStart = 1;
-};
-closed = 0;
-nodes = (
-(126,679,l),
-(67,693,o),
-(16,700,o),
-(-29,700,cs),
-(-212,700,o),
-(-288,583,o),
-(-288,326,cs),
-(-288,138,o),
-(-214,0,o),
-(-76,0,cs),
-(-16,0,o),
-(54,25,o),
-(137,82,cs)
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-}
-);
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 60;
-strokeWidth = 65;
-};
-closed = 0;
-nodes = (
-(384,320,l),
-(378,138,o),
-(348,26,o),
-(198,26,cs),
-(93,26,o),
-(2,83,o),
-(2,223,cs),
-(2,338,o),
-(83,393,o),
-(140,393,cs),
-(182,393,o),
-(203,364,o),
-(203,328,cs),
-(203,264,o),
-(137,176,o),
-(2,182,c),
-(236,182,o),
-(424,261,o),
-(578,318,c)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 60;
-strokeWidth = 65;
-};
-closed = 0;
-nodes = (
-(384,512,l),
-(384,418,ls),
-(384,96,o),
-(410,26,o),
-(530,26,cs),
-(602,26,o),
-(645,72,o),
-(653,124,c)
-);
-}
-);
-width = 633;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (532,31);
-},
-{
-name = center;
-pos = (74,211);
-},
-{
-name = ogonek;
-pos = (-93,41);
-},
-{
-name = top;
-pos = (532,731);
-},
-{
-name = topright;
-pos = (197,741);
-}
-);
-background = {
-shapes = (
-{
-attr = {
-identifier = ID0x7fa77d1a5b30;
-lineCapEnd = 1;
-lineCapStart = 1;
-};
-closed = 0;
-nodes = (
-(126,679,l),
-(67,693,o),
-(16,700,o),
-(-29,700,cs),
-(-212,700,o),
-(-288,583,o),
-(-288,326,cs),
-(-288,138,o),
-(-214,0,o),
-(-76,0,cs),
-(-16,0,o),
-(54,25,o),
-(137,82,cs)
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-},
-{
-horizontal = 1;
-settings = {
-deltaV = {
-"{100, 100, 0, 0, 0, 0}" = {
-"62" = 0;
-};
-};
-};
-type = TTDelta;
-}
-);
-layerId = m002;
-shapes = (
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 60;
-strokeWidth = 65;
-};
-closed = 0;
-nodes = (
-(384,320,l),
-(378,138,o),
-(348,26,o),
-(198,26,cs),
-(93,26,o),
-(2,83,o),
-(2,223,cs),
-(2,338,o),
-(83,393,o),
-(140,393,cs),
-(182,393,o),
-(203,364,o),
-(203,328,cs),
-(203,264,o),
-(137,176,o),
-(2,182,c),
-(236,182,o),
-(424,261,o),
-(578,318,c)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 60;
-strokeWidth = 65;
-};
-closed = 0;
-nodes = (
-(384,512,l),
-(384,418,ls),
-(384,96,o),
-(410,26,o),
-(530,26,cs),
-(602,26,o),
-(645,72,o),
-(653,124,c)
-);
-}
-);
-width = 633;
-}
-);
-metricLeft = e;
-metricRight = t;
-},
-{
 glyphname = barcomp.short;
 lastChange = "2024-11-29 10:15:21 +0000";
 layers = (
@@ -57306,6 +56740,513 @@ metricRight = e;
 },
 {
 export = 0;
+glyphname = _ampersand.alt;
+lastChange = "2024-12-02 09:21:38 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (532,31);
+},
+{
+name = center;
+pos = (74,211);
+},
+{
+name = ogonek;
+pos = (-93,41);
+},
+{
+name = top;
+pos = (532,731);
+},
+{
+name = topright;
+pos = (197,741);
+}
+);
+background = {
+shapes = (
+{
+attr = {
+identifier = ID0x7fa77d1a5b30;
+lineCapEnd = 1;
+lineCapStart = 1;
+};
+closed = 0;
+nodes = (
+(126,679,l),
+(67,693,o),
+(16,700,o),
+(-29,700,cs),
+(-212,700,o),
+(-288,583,o),
+(-288,326,cs),
+(-288,138,o),
+(-214,0,o),
+(-76,0,cs),
+(-16,0,o),
+(54,25,o),
+(137,82,cs)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+}
+);
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 60;
+strokeWidth = 65;
+};
+closed = 0;
+nodes = (
+(384,320,l),
+(378,138,o),
+(348,26,o),
+(198,26,cs),
+(93,26,o),
+(2,83,o),
+(2,223,cs),
+(2,338,o),
+(83,393,o),
+(140,393,cs),
+(182,393,o),
+(203,364,o),
+(203,328,cs),
+(203,264,o),
+(137,176,o),
+(2,182,c),
+(236,182,o),
+(424,261,o),
+(578,318,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 60;
+strokeWidth = 65;
+};
+closed = 0;
+nodes = (
+(384,512,l),
+(384,418,ls),
+(384,96,o),
+(410,26,o),
+(530,26,cs),
+(602,26,o),
+(645,72,o),
+(653,124,c)
+);
+}
+);
+width = 633;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (532,31);
+},
+{
+name = center;
+pos = (74,211);
+},
+{
+name = ogonek;
+pos = (-93,41);
+},
+{
+name = top;
+pos = (532,731);
+},
+{
+name = topright;
+pos = (197,741);
+}
+);
+background = {
+shapes = (
+{
+attr = {
+identifier = ID0x7fa77d1a5b30;
+lineCapEnd = 1;
+lineCapStart = 1;
+};
+closed = 0;
+nodes = (
+(126,679,l),
+(67,693,o),
+(16,700,o),
+(-29,700,cs),
+(-212,700,o),
+(-288,583,o),
+(-288,326,cs),
+(-288,138,o),
+(-214,0,o),
+(-76,0,cs),
+(-16,0,o),
+(54,25,o),
+(137,82,cs)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+},
+{
+horizontal = 1;
+settings = {
+deltaV = {
+"{100, 100, 0, 0, 0, 0}" = {
+"62" = 0;
+};
+};
+};
+type = TTDelta;
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 60;
+strokeWidth = 65;
+};
+closed = 0;
+nodes = (
+(384,320,l),
+(378,138,o),
+(348,26,o),
+(198,26,cs),
+(93,26,o),
+(2,83,o),
+(2,223,cs),
+(2,338,o),
+(83,393,o),
+(140,393,cs),
+(182,393,o),
+(203,364,o),
+(203,328,cs),
+(203,264,o),
+(137,176,o),
+(2,182,c),
+(236,182,o),
+(424,261,o),
+(578,318,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 60;
+strokeWidth = 65;
+};
+closed = 0;
+nodes = (
+(384,512,l),
+(384,418,ls),
+(384,96,o),
+(410,26,o),
+(530,26,cs),
+(602,26,o),
+(645,72,o),
+(653,124,c)
+);
+}
+);
+width = 633;
+}
+);
+metricLeft = e;
+metricRight = t;
+},
+{
+export = 0;
 glyphname = _arco.h;
 lastChange = "2024-11-29 10:15:21 +0000";
 layers = (
@@ -58230,7 +58171,7 @@ width = 330;
 {
 export = 0;
 glyphname = _conect.germandbls;
-lastChange = "2024-11-29 12:51:03 +0000";
+lastChange = "2024-12-02 09:08:51 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -58246,9 +58187,7 @@ strokeWidth = 65;
 closed = 0;
 nodes = (
 (-234,25,l),
-(-200,25,o),
-(-57,25,o),
-(13,25,c)
+(13,25,l)
 );
 }
 );
@@ -58268,9 +58207,7 @@ strokeWidth = 65;
 closed = 0;
 nodes = (
 (-220,25,l),
-(-186,25,o),
-(-57,25,o),
-(13,25,c)
+(13,25,l)
 );
 },
 {
@@ -65360,7 +65297,8 @@ type = "italic angle";
 }
 );
 note = "En el layer 1 estan las letras
-en el layer 2 estan las letras  + pauta montessori";
+en el layer 2 estan las letras  + pauta montessori
+en el layer 3 está la super ligada";
 properties = (
 {
 key = copyrights;
