@@ -1077,7 +1077,7 @@ pos = -370;
 {
 }
 );
-name = SL;
+name = superligada;
 userData = {
 GSCornerRadius = 13;
 GSExtrudeAngle = 30;
@@ -91977,7 +91977,7 @@ value = AddExtremes;
 instanceInterpolations = {
 "F3447581-435E-44E2-ABAC-414C89955411" = 1;
 };
-name = SL;
+name = superligada;
 }
 );
 kerningLTR = {
