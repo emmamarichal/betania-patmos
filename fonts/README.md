@@ -6,6 +6,8 @@
 - Font 4 ► Layer 4 ► superligada con pauta Montessori superpuesta
 - Font 5 ► La pauta sin letras (solo renglones) se encuentra en el el archivo idependiente betania-patmosPautaMontessori
 
+![](/documentation/BetaniPatmosVisualDescripton.jpg?raw=true)
+
 **¿Cómo instalar la tipografía BetàniaPatmos en una PC?**
 
 Paso 1: Descargar las tipografía
