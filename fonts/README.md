@@ -1,4 +1,4 @@
-**The file is built as a color font. Each color-layer:**
+**Betània Patmos font family is built as a color font. Each color-layer:**
 
 - Font 1 ► Layer 1 ► regular
 - Font 2 ► Layer 2 ► regular con pauta Montessori superpuesta
