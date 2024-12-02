@@ -1,9 +1,5 @@
 **¿Cómo instalar la tipografía BetàniaPatmos en una PC?**
 
-La familia tipográfica BetàniaPatmos tiene dos fuentes disponibles:
-- BetaniaPatmos (esta varialbe contiene las letras minúsuclas iniciales sin trazo de entrada)
-- BetaniaPatmosSL (esta varialbe contiene las letras minúsuclas iniciales con trazo de entrada)
-
 Paso 1: Descargar las tipografía
 Encuentra las tipografías en xxxxxxx y descárgalas.
 El archivo descargado suele estar en formato .zip (comprimido) o en formato .otf (OpenType Font).
@@ -23,6 +19,8 @@ Busca la tipografía BetàniaPatmos en la lista de fuentes para verificar que se
 
 Nota
 Algunos programas requieren que se cierren y vuelvan a abrir para reconocer una nueva fuente instalada.
+
+**NO MODIFICAR ESPACIADO O KERNING**
 
 ////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
 
