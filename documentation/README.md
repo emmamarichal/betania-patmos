@@ -1,5 +1,8 @@
-**NO MODIFICAR ESPACIADO NI KERNING**
+**NO MODIFICAR ESPACIADO NI KERNING.**
+
 Al ser una tipografía ligada, es importante NO alterar el espaciado ni el kerning.
+
+////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
 
 **¿Cómo instalar la tipografía BetàniaPatmos en una PC?**
 
