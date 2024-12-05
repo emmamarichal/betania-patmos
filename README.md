@@ -42,7 +42,8 @@ References:
 - https://smed2015.it/formarsi-a-milano/
 - https://primarium.info/about/ / Primarium
 
-![IMG BetaniaPatmos character set](documentation/BetaniaPatmosInUse.jpg?raw=true)
+![IMG BetaniaPatmos character set numbers](documentation/BetaniPatmosVisualDescripton.jpg?raw=true)
+
 ////
 
 # Betània Patmos
@@ -86,4 +87,4 @@ Referencias:
 - Ana Ronchi
 - https://smed2015.it/formarsi-a-milano/
 
-![IMG BetaniaPatmos character set numbers](documentation/BetaniPatmosVisualDescripton.jpg?raw=true)
+![IMG BetaniaPatmos character set](documentation/BetaniaPatmosInUse.jpg?raw=true)
