@@ -1106,7 +1106,7 @@ HTLSManagerMasterRules = {
 },
 {
 axesValues = (
-2
+4
 );
 customParameters = (
 {
@@ -1229,7 +1229,7 @@ HTLSManagerMasterRules = {
 },
 {
 axesValues = (
-4
+5
 );
 customParameters = (
 {
@@ -43597,11 +43597,11 @@ shapes = (
 ref = _ae.master;
 },
 {
-pos = (507,0);
+pos = (506,0);
 ref = _final;
 }
 );
-width = 654;
+width = 653;
 },
 {
 layerId = m005;
@@ -47315,7 +47315,7 @@ pos = (160,0);
 ref = _ae.master;
 }
 );
-width = 667;
+width = 666;
 },
 {
 anchors = (
@@ -52621,7 +52621,7 @@ pos = (181,0);
 ref = _ae.master;
 }
 );
-width = 688;
+width = 687;
 },
 {
 anchors = (
@@ -62343,11 +62343,11 @@ shapes = (
 ref = ae.from.bottom;
 },
 {
-pos = (667,0);
+pos = (666,0);
 ref = _final;
 }
 );
-width = 814;
+width = 813;
 },
 {
 layerId = m005;
@@ -66348,11 +66348,11 @@ shapes = (
 ref = ae.from.middle;
 },
 {
-pos = (688,0);
+pos = (687,0);
 ref = _final;
 }
 );
-width = 835;
+width = 834;
 },
 {
 layerId = m005;
@@ -143737,6 +143737,15 @@ name = superligada;
 {
 axesValues = (
 4
+);
+instanceInterpolations = {
+m005 = 1;
+};
+name = SuperligadaPauta;
+},
+{
+axesValues = (
+5
 );
 instanceInterpolations = {
 m004 = 1;
