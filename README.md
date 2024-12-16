@@ -60,7 +60,7 @@ El proyecto se centra en dos aspectos críticos:
 Puntos fundamentales de esta fuente:
 
 - Funcionalidad:
-  Los usuarios de esta tipografía no son diseñadores, sino docentes que autoeditan fichas de trabajo y materiales para utilizar en aulas virtuales. Usan principalmente aplicaciones como Google Drive, LibreOffice, TextEdit o incluso el bloc de notas, en lugar de programas de diseño.
+  Los usuarios de esta tipografía no son diseñadores, sino docentes que autoeditan fichas de trabajo y materiales para utilizar en aulas virtuales. Usan principalmente aplicaciones como LibreOffice, TextEdit o incluso el bloc de notas, en lugar de programas de diseño.
   El desarrollo OpenType está estructurado con alternancias contextuales para asegurar que funcione en estos entornos, siguiendo la línea de investigación de Rosalie Wagner.
 
 - Diseño:
@@ -75,7 +75,7 @@ Estas decisiones se tomaron dentro de un equipo interdisciplinario, que incluye 
 - Lectores: Preescolar y primaria inicial
 - Finalidad: Confección de fichas de actividades y material didáctico
 - Pautas: Evitar elementos decorativos y bucles, especialmente en letras como b, v y w.
-- Compatibilidad: La tipografía debe funcionar en programas de oficina e integrarse en Google Drive.
+- Compatibilidad: La tipografía debe funcionar en programas de oficina y es nuetro deseo q en un futuro pueda integrarse en Google Drive.
 - Características OpenType: Sigue la documentación de Rosalie Wagner sobre alternancias contextuales (CALT).
 - Propósito: No es una tipografía display para diseñadores; está diseñada específicamente para su uso en el aula.
 
