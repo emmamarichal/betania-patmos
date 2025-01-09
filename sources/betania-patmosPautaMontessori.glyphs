@@ -3,11 +3,12 @@
 .formatVersion = 3;
 DisplayStrings = (
 ABC,
-"",
 Ba,
 aA,
 b,
-c
+c,
+"/_guideMontessori4 A",
+"AB/_guideMontessori4 Cabc"
 );
 classes = (
 {
@@ -77,6 +78,9 @@ pos = (332,970);
 },
 {
 pos = (328,419);
+},
+{
+pos = (-15,-7);
 }
 );
 id = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -212,9 +216,14 @@ color = 9;
 glyphname = a;
 kernLeft = a;
 kernRight = a;
-lastChange = "2024-11-20 14:12:35 +0000";
+lastChange = "2024-12-23 10:32:24 +0000";
 layers = (
 {
+guides = (
+{
+pos = (-14,424);
+}
+);
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -302,7 +311,7 @@ unicode = 99;
 {
 export = 0;
 glyphname = _guideMontessori1;
-lastChange = "2024-11-20 16:15:57 +0000";
+lastChange = "2024-12-23 10:30:02 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -310,17 +319,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(0,-5,l),
-(500,-5,l),
-(500,9,l),
-(0,9,l)
+(0,-7,l),
+(500,-7,l),
+(500,11,l),
+(0,11,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(0,410,l),
-(500,410,l),
+(0,417,l),
+(500,417,l),
 (500,424,l),
 (0,424,l)
 );
@@ -386,7 +395,7 @@ width = 7;
 {
 export = 0;
 glyphname = _guideMontessori4;
-lastChange = "2024-11-20 16:16:04 +0000";
+lastChange = "2024-12-23 10:32:32 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -394,8 +403,8 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(0,-5,l),
-(500,-5,l),
+(0,-7,l),
+(500,-7,l),
 (500,424,l),
 (0,424,l)
 );
