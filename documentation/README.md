@@ -1,6 +1,6 @@
 **NO MODIFICAR ESPACIADO NI KERNING.**
 
-Al ser una tipografía ligada, es importante NO alterar el espaciado ni el kerning.
+Al ser una tipografía ligada alterar el espaciado o el kerning rompe la ligadura entre los signos.
 
 ////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
 
