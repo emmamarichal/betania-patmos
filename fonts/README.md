@@ -14,54 +14,78 @@ Al ser una tipografía ligada, es importante NO alterar el espaciado ni el kerni
 
 
 ////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
+## Usos y configuraciones
 
-**¿Cómo instalar la tipografía BetàniaPatmos en una PC?**
+No modificar el espaciado ni el kerning, esto provoca errores
+en las ligaduras entre los signos
+Los reemplazos están organizados en Contextual Alternate de
+OpenType para mejorar la compatibilidad de programas como
+OpenOffice, NotePad, SimpleText ya que esta propiedad está activada
+por omisión.
 
-Paso 1: Descargar las tipografía.
-El archivo descargado suele estar en formato .zip (comprimido) o en formato .otf (OpenType Font).
-Si el archivo está comprimido (.zip), descomprímelo haciendo clic derecho sobre él y seleccionando "Extraer aquí" o "Extraer en...".
+En el caso del paquete Microsoft Office seguir estas instrucciones:
+¿Cómo activar los contextual alternate en
+aplicaciones de Microsoft Office (Word, PowerPoint)?
 
-Paso 2: Abrir el archivo de la tipografía.
-Dentro de la carpeta descomprimida, localiza el archivo de la tipografía en formato .otf.
-Haz doble clic en el archivo de la tipografía. Esto abrirá una ventana con una vista previa de la fuente.
+1. Abrir un documento en Microsoft Word o PowerPoing.
+Inicia Microsoft Word o PowerPoint y abre un documento nuevo o
+existente. Buscar el panel de control de tipografías.
 
-Paso 3: Instalar la tipografía.
-En la ventana de vista previa de la fuente, haz clic en el botón "Instalar" en la esquina superior izquierda.
-También puedes hacer clic derecho sobre el archivo de la fuente y seleccionar "Instalar" o "Instalar para todos los usuarios".
+2. Acceder a las opciones de fuente avanzada. Haz clic en
+la pestaña «Inicio» en la barra de herramientas. En el grupo «Fuente»,
+haz clic en el botón de expansión en la esquina inferior derecha (ícono
+de una flecha diagonal hacia abajo). Esto abrirá el cuadro de diálogo
+de configuración de fuente.
 
-Paso 4: Verificar la instalación.
-Abre un programa como LibreOffice o Microsoft Word o PowerPoint.
-Busca la tipografía BetàniaPatmos en la lista de fuentes para verificar que se haya instalado correctamente.
+3. Activar los contextuales alternates. En el cuadro de diálogo
+«Fuente», ve a la pestaña «Opciones avanzadas» o «Opciones de tipo-
+grafía» (el nombre puede variar según la versión de Office que uses).
+Busca la sección «Características de OpenType» (OpenType Features).
+Marca la casilla «Alternancias contextuales» o «Contextual Alternates».
 
-Nota.
-Algunos programas requieren que se cierren y vuelvan a abrir para reconocer una nueva fuente instalada.
+4. Applicar y aceptar. Haz clic en «Aceptar» para cerrar el cuadro de
+diálogo.
 
-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
+## ¿Cómo instalar la tipografía en Windows?
 
-**¿Cómo activar los contextual alternate en aplicaciones de Microsoft Office (como Word y PowerPoint)?**
+1. Descargar la tipografía. El archivo descargado suele estar
+en formato .zip (comprimido) o en formato .otf (OpenType Font). Si el
+archivo está comprimido (.zip), descomprímelo haciendo clic derecho
+sobre él y seleccionando «Extraer aquí» o «Extraer en...».
 
-Paso 1: Abrir un documento de Microsoft Word o PowerPoint.
-Inicia Microsoft Word o PowerPoint y abre un documento nuevo o existente.
-Buscar el panel de control de tipografías.
+2. Abrir el archivo de la tipografía. Dentro de la carpeta
+descomprimida, localiza el archivo de la tipografía en formato .otf. Haz
+doble clic en el archivo de la tipografía. Esto abrirá una ventana con
+una vista previa de la fuente.
 
-Paso 2: Acceder a las Opciones de Fuente Avanzada.
-Haz clic en la pestaña "Inicio" en la barra de herramientas.
-En el grupo "Fuente", haz clic en el botón de expansión en la esquina inferior derecha (ícono de una flecha diagonal hacia abajo). Esto abrirá el cuadro de diálogo de configuración de fuente.
+3. Instalar la tipografía. En la ventana de vista previa de la
+fuente, haz clic en el botón «Instalar» en la esquina superior izquierda.
+También puedes hacer clic derecho sobre el archivo de la fuente y
+seleccionar «Instalar» o «Instalar para todos los usuarios».
 
-Paso 3: Activar los Contextual Alternates.
-En el cuadro de diálogo "Fuente", ve a la pestaña "Opciones avanzadas" o "Opciones de tipografía" (el nombre puede variar según la versión de Office que uses).
-Busca la sección "Características de OpenType" (OpenType Features).
-Marca la casilla "Alternancias contextuales" o "Contextual Alternates".
+4. Verificar la instlación. Abre un programa como LibreOffice
+o Microsoft Word o PowerPoint. Busca la tipografía BetàniaPatmos en
+la lista de fuentes para verificar que se haya instalado correctamente.
 
-Paso 4: Aplicar y Aceptar.
-Haz clic en "Aceptar" para cerrar el cuadro de diálogo.
+NOTA. Algunos programas requieren que se cierren y vuelvan a abrir
+para reconocer una nueva fuente instalada.
 
-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
+## How to install fonts on WIndows
 
-**En aplicaciones del paquete LibreOfice esta opción está activada por defecto, por lo tanto no hay que hacer**
+https://www.howtogeek.com/787939/how-to-install-fonts-on-windows-10/
+
+** Contextual alternate in Microsoft Word
+To use OpenType capabilities in Word, pick the text and go to format> Font,
+then go to the Advanced tab and select a Stylistic set from the menu or enable
+Contextual Alternates.
+
+https://officesmart.wordpress.com/2019/02/18/which-are-the-opentype-fonts-
+features-in-microsoft-word/
 
 ////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\
 
 **Espaciado y Kerning**
 
 Al ser una tipografía ligada, es importante NO alterar lo referente al espaciado y el kerning.
+
+![IMG](https://huertatipografica.com/uploads/betania-patmos-027AVn.png)
