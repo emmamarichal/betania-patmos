@@ -1,52 +1,13 @@
-**NO MODIFICAR ESPACIADO NI KERNING.**
+## Collaborative. Open Source. Free. Work in progress
 
-Al ser una tipografía ligada alterar el espaciado o el kerning rompe la ligadura entre los signos.
+Betània Patmos has been released under the SIL Open Font Licence, and is available for free download. It was both a request and a vision of the Betània Patmos school that it be developed in this framework to share achievements and address the questions it raises with other educational spaces. In this way, the results obtained are made available to enrich the project through collaborative work.  
 
-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
+Currently, Betània Patmos Font supports Catalan, Spanish, English, Guaraní, and German. Our goal is to expand the character set so that more languages can use this tool. We also aim to adapt specific morphological letterforms that are most familiar to diferent regions, for example, the letterforms' r, t, and z have particular ductus in German.  
 
-**¿Cómo instalar la tipografía BetàniaPatmos en una PC?**
+We invite teachers, educators, pedagogues, and anyone interested in developing digital tools for teaching reading and writing to use this font and share their experiences with us.  
 
-Paso 1: Descargar las tipografía.
-El archivo descargado suele estar en formato .zip (comprimido) o en formato .otf (OpenType Font).
-Si el archivo está comprimido (.zip), descomprímelo haciendo clic derecho sobre él y seleccionando "Extraer aquí" o "Extraer en...".
+If you want to collaborate on the project, you can connect to our GitHub repository or email us.  
 
-Paso 2: Abrir el archivo de la tipografía.
-Dentro de la carpeta descomprimida, localiza el archivo de la tipografía en formato .otf.
-Haz doble clic en el archivo de la tipografía. Esto abrirá una ventana con una vista previa de la fuente.
-
-Paso 3: Instalar la tipografía.
-En la ventana de vista previa de la fuente, haz clic en el botón "Instalar" en la esquina superior izquierda.
-También puedes hacer clic derecho sobre el archivo de la fuente y seleccionar "Instalar" o "Instalar para todos los usuarios".
-
-Paso 4: Verificar la instalación.
-Abre un programa como LibreOffice o Microsoft Word o PowerPoint.
-Busca la tipografía BetàniaPatmos en la lista de fuentes para verificar que se haya instalado correctamente.
-
-Nota.
-Algunos programas requieren que se cierren y vuelvan a abrir para reconocer una nueva fuente instalada.
-
-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
-
-**¿Cómo activar los contextual alternate en aplicaciones de Microsoft Office (como Word y PowerPoint)?**
-
-Paso 1: Abrir un documento de Microsoft Word o PowerPoint.
-Inicia Microsoft Word o PowerPoint y abre un documento nuevo o existente.
-Buscar el panel de control de tipografías.
-
-Paso 2: Acceder a las Opciones de Fuente Avanzada.
-Haz clic en la pestaña "Inicio" en la barra de herramientas.
-En el grupo "Fuente", haz clic en el botón de expansión en la esquina inferior derecha (ícono de una flecha diagonal hacia abajo). Esto abrirá el cuadro de diálogo de configuración de fuente.
-
-Paso 3: Activar los Contextual Alternates.
-En el cuadro de diálogo "Fuente", ve a la pestaña "Opciones avanzadas" o "Opciones de tipografía" (el nombre puede variar según la versión de Office que uses).
-Busca la sección "Características de OpenType" (OpenType Features).
-Marca la casilla "Alternancias contextuales" o "Contextual Alternates".
-
-Paso 4: Aplicar y Aceptar.
-Haz clic en "Aceptar" para cerrar el cuadro de diálogo.
-
-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
-
-**En aplicaciones del paquete LibreOfice esta opción está activada por defecto, por lo tanto no hay que hacer**
+![IMG](https://huertatipografica.com/uploads/betania-patmos-y5H2vj.png)
 
 ////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\-////-\\\\
