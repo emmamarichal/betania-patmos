@@ -1,40 +1,34 @@
-![IMG BetaniaPatmos](documentation/BetaniaPatmosShorDescription.jpg?raw=true)
+![IMG BetaniaPatmos](https://betaniapatmos.huertatipografica.com/img/bp_socialmedia_descripcion.png)
 
 # Betània Patmos
 
-Typography Project BP for Early Writing
+A contemporary font model for handwriting training
 (Spanish below)
 
-In mid-2023, we launched this interdisciplinary project to create a typeface specifically for early reading and writing in schools, designed to meet the pedagogical, morphological, and aesthetic requirements of schools in Catalonia and Spain.
+BP has an austere morphology to facilitate the recognition of the ductus of the signs. It is not a display typeface; it is a tool for teaching literacy.
 
-The project focuses on two critical aspects:
+This project focuses on the aspects we consider critical in this typeface paradigm:
 
-- A minimalist design that avoids confusing the essential structure of the letters.
-- Simple functionality, as this typeface is intended for teachers to create educational materials in virtual classrooms using tools like LibreOffice, or other readily available resources.
+1 • Austere design to avoid ambiguities to recognizing the essential ductus of a sign’s structure.
 
-Key Features of the Typeface:
+2 • Simplified functionality. Designed so that teachers or people unfamiliar with design programs can self-edit educational worksheets or pedagogical material using tools like LibreOffice, Notepad, TextEdit, Microsoft Office, etc. The OpenType development is structured with contextual alternates, following the model proposed by Rosalie Wagner, which ensures compatibility with these tools.
 
-- Functionality:
-  The users of this typeface are not designers but teachers who self-edit worksheets and materials for use in virtual classrooms. They primarily use applications like Google Drive, LibreOffice, TextEdit, or even Notepad, rather than design software.
-  The OpenType development has been structured with contextual alternates to ensure compatibility with these tools, following the research of Rosalie Wagner.
+3 • Interdisciplinary team. We reviewed the models and typefaces in use and redefined design and functional decisions. The inclusion of teachers, pedagogues, and the TIACC team (Technologies for Information and Learning in Educational Centers) introduces the perspective of the end user and the readers of the typeface.
 
-- Design:
-  Although it adheres to the teaching model used in Spain, the typeface has been updated to meet modern requirements, removing any decorative elements that could interfere with letter recognition. The result is a clean, minimalist font.
-  The proportions follow Montessori guidelines, where ascenders and descenders are in a 1:1:1 ratio. The horizontal proportions are slightly condensed to improve text efficiency per line.
+4 • Performance. Its horizontal proportions are slightly condensed, improving word count per line/page.
 
-These design decisions were made by an interdisciplinary team, including both a pedagogical department and a group of teachers who are end-users.
+## Short brief:
 
-## Summary of the Brief:
+• License: Released under the SIL Open Font Licence, and is available for free download.
+• Users: Teachers, educators, pedagogues, and anyone involved in the process of teaching reading and writing.
+• Readers: Preschool and early elementary school students.
+• Purpose: Educational worksheets or self-editable pedagogical material.
+• Guidelines: Avoid decorative elements and loops to emphasize essential structure.
+• Compatibility: The typeface is compatible with office software and ideally should also be integrated into Google Drive.
+• OpenType Features: Adheres to Rosalie Wagner’s documentation for contextual alternates (CALT).
+This is not a display typeface; it is specifically designed for non-design professionals and classroom use.
 
-- Users: Teachers
-- Readers: Preschool and early primary students
-- Purpose: Creating worksheets and educational materials
-- Guidelines: Avoid decorative elements and loops, especially in letters like b, v, and w.
-- Compatibility: The typeface works with office software, and it would be ideal if it could also be integrated into Google Drive.
-- OpenType Features: Follows Rosalie Wagner’s documentation for contextual alternates (CALT).
-- Purpose: This is not a display typeface or one intended for designers; it’s designed specifically for classroom use.
-
-References:
+## References:
 
 - Escolar 1 – currently in use
 - https://github.com/RosaWagner/Borel / Rosalie Wagner – main reference
@@ -42,42 +36,40 @@ References:
 - https://smed2015.it/formarsi-a-milano/
 - https://primarium.info/about/ / Primarium
 
-![IMG BetaniaPatmos character set numbers](documentation/BetaniPatmosVisualDescripton.jpg?raw=true)
+![IMG Betània Patmos](https://betaniapatmos.huertatipografica.com/img/bp_font1.png)
+![IMG Betània Patmos](https://betaniapatmos.huertatipografica.com/img/bp_font2.png)
+![IMG Betània Patmos](https://betaniapatmos.huertatipografica.com/img/bp_font3.png)
+![IMG Betània Patmos](https://betaniapatmos.huertatipografica.com/img/bp_font4.png)
+![IMG Betània Patmos](https://betaniapatmos.huertatipografica.com/img/bp_font6.png)
 
 ////
 
 # Betània Patmos
 
-Proyecto Tipografía BP para primeras escrituras
+Un modelo tipográfico contemporáneo para la enseñanza de la lectoescritura.
 
-A mediados de 2023, lanzamos este proyecto interdisciplinario para crear una fuente tipográfica específicamente para el inicio de la lectoescritura en las escuelas, siguiendo los requerimientos pedagógicos, morfológicos y estéticos de las escuelas de Cataluña y España.
+Betània Patmos tiene una morfología austera para facilitar el reconocimiento del ductus de los signos. No es una tipografía display, es una herramienta para la enseñanza de la lecto-escritura.
 
-El proyecto se centra en dos aspectos críticos:
+Este proyecto pone el foco en algunos aspectos que consideramos críticos en este paradigma tipográfico:
 
-- Un diseño austero para no confundir el ductus esencial de las letras.
-- Un funcionamiento simple, ya que esta tipografía está pensada para que los docentes puedan crear material didáctico en aulas virtuales utilizando herramientas como Google Drive, LibreOffice o recursos fácilmente disponibles.
+1 • Diseño austero para evitar ambigüedades al momento de reconocer el ductus esencial de las letras, su estructura identitaria.
 
-Puntos fundamentales de esta fuente:
+2 • Funcionalidad simplificada. Proyectada para que docentes o personas no familiarizadas con los programas de diseño puedan componer y autoeditar fichas educativas o material pedagógico utilizando herramientas como LibreOffice, Notepad, TextEdit, Microsoft Office, etc. El desarrollo OpenType está estructurado con reemplazos contextuales (contextual alternate / calt), siguiendo el modelo propuesto por Rosalie Wagner, que contempla la compatibilidad con estas aplicaciones.
 
-- Funcionalidad:
-  Los usuarios de esta tipografía no son diseñadores, sino docentes que autoeditan fichas de trabajo y materiales para utilizar en aulas virtuales. Usan principalmente aplicaciones como LibreOffice, TextEdit o incluso el bloc de notas, en lugar de programas de diseño.
-  El desarrollo OpenType está estructurado con alternancias contextuales para asegurar que funcione en estos entornos, siguiendo la línea de investigación de Rosalie Wagner.
+3 • Equipo interdisciplinario. Analizamos los modelos y tipografías en uso y reformulamos decisiones de diseño y funcionamiento. La inclusión de docentes, pedagogos y el TIACC (equipo responsables de estudiar las Tecnologías para la Información y el Aprendizaje en los Centros Educativos) suma la mirada del usuario final y de las y los lectores de la tipografía.
 
-- Diseño:
-  Aunque sigue el modelo de enseñanza adoptado en España, la tipografía se ha actualizado para cumplir con los requisitos contemporáneos, despojando al trazo de cualquier elemento decorativo que pueda interferir en el reconocimiento de las letras. El resultado es una fuente limpia y minimalista.
-  Las proporciones siguen las pautas Montessori, donde ascendentes y descendentes tienen una proporción de 1:1:1. Las proporciones horizontales están ligeramente condensadas para mejorar la eficiencia del texto por línea.
-
-Estas decisiones se tomaron dentro de un equipo interdisciplinario, que incluye tanto un departamento pedagógico como un grupo de docentes que son usuarios finales.
+4 • Rendimiento. Sus proporciones horizontales son levemente condensadas, mejorando su eficacia y economía de palabras por línea de texto.
 
 ## Síntesis del Brief:
 
-- Usuarios: Docentes
-- Lectores: Preescolar y primaria inicial
-- Finalidad: Confección de fichas de actividades y material didáctico
-- Pautas: Evitar elementos decorativos y bucles, especialmente en letras como b, v y w.
-- Compatibilidad: La tipografía debe funcionar en programas de oficina y es nuetro deseo q en un futuro pueda integrarse en Google Drive.
-- Características OpenType: Sigue la documentación de Rosalie Wagner sobre alternancias contextuales (CALT).
-- Propósito: No es una tipografía display para diseñadores; está diseñada específicamente para su uso en el aula.
+• Licencia: Desarrollado bajo licencia SIL Open Font Licence y es de libre descarga.
+• Usuarixs: Docentes, educadores, pedagogxs y otras personas involucradas en el proceso de enseñanza de la lectoescritura.
+• Lectores: Estudiantes de nivel preescolar y primer ciclo.
+• Propósito: Componer fichas educativas y material pedagógico autoeditable.
+• Requisitos de diseño: Evitar elementos decorativos y bucles para enfatizar la estructura esencial de los signos.
+• Compatibilidad: Esta tipografía puede ser utilizada en aplicaciones de escritorio (no específicas de diseño) y, en el futuro, aspiramos a que pueda integrarse en las tecnologías de Google Drive.
+• OpenType Features: Sigue la línea de investigación de Rosalie Wagner, que propone utilizar contextual alternates (CALT).
+BP no es una tipografía display; es una tipografía diseñada específicamente para personas no expertas en diseño y para el uso en aulas virtuales.
 
 Referencias:
 
@@ -87,4 +79,4 @@ Referencias:
 - Ana Ronchi
 - https://smed2015.it/formarsi-a-milano/
 
-![IMG BetaniaPatmos character set](documentation/BetaniaPatmosInUse.jpg?raw=true)
+![IMG BetaniaPatmos character set](https://betaniapatmos.huertatipografica.com/img/bp_anatomia.png)
