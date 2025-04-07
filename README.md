@@ -35,6 +35,7 @@ This is not a display typeface; it is specifically designed for non-design profe
 - Ana Ronchi
 - https://smed2015.it/formarsi-a-milano/
 - https://primarium.info/about/ / Primarium
+! [Link to font specimen](https://github.com/huertatipografica/betania-patmos/blob/main/fonts/BetaniaPatmosSpecimen.pdf)
 
 ![IMG Betània Patmos](https://betaniapatmos.huertatipografica.com/img/bp_font1.png)
 ![IMG Betània Patmos](https://betaniapatmos.huertatipografica.com/img/bp_font2.png)
