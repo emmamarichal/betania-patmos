@@ -1,15 +1,6 @@
 {
-.appVersion = "3306";
+.appVersion = "3337";
 .formatVersion = 3;
-DisplayStrings = (
-ABC,
-Ba,
-aA,
-b,
-c,
-"/_guideMontessori4 A",
-"AB/_guideMontessori4 Cabc"
-);
 classes = (
 {
 automatic = 1;
@@ -24,7 +15,7 @@ value = 1;
 }
 );
 date = "2024-10-21 07:46:47 +0000";
-familyName = BetaniaPatmosPautaMontessori;
+familyName = BetaniaPatmosGDL;
 featurePrefixes = (
 {
 automatic = 1;
@@ -121,15 +112,55 @@ GSOffsetVertical = 30;
 HTLSManagerMasterRules = {
 };
 };
+visible = 1;
 }
 );
 glyphs = (
 {
-color = 9;
-glyphname = A;
-kernLeft = A;
-kernRight = A;
-lastChange = "2024-11-20 14:18:08 +0000";
+glyphname = hyphen;
+lastChange = "2025-04-04 14:13:48 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori4;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+}
+);
+width = 500;
+}
+);
+unicode = 45;
+},
+{
+glyphname = underscore;
+lastChange = "2025-04-04 13:59:06 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+}
+);
+width = 500;
+}
+);
+unicode = 95;
+},
+{
+glyphname = parenleft;
+lastChange = "2025-04-04 14:13:46 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -148,38 +179,11 @@ ref = _guideMontessori4;
 width = 500;
 }
 );
-unicode = 65;
+unicode = 40;
 },
 {
-color = 9;
-glyphname = B;
-kernLeft = H;
-kernRight = B;
-lastChange = "2024-11-20 14:17:56 +0000";
-layers = (
-{
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-alignment = -1;
-ref = _guideMontessori4;
-},
-{
-alignment = -1;
-ref = _guideMontessori2;
-}
-);
-width = 500;
-}
-);
-unicode = 66;
-},
-{
-color = 9;
-glyphname = C;
-kernLeft = O;
-kernRight = C;
-lastChange = "2024-11-20 14:18:14 +0000";
+glyphname = parenright;
+lastChange = "2025-04-04 14:13:50 +0000";
 layers = (
 {
 anchors = (
@@ -209,21 +213,13 @@ ref = _guideMontessori4;
 width = 500;
 }
 );
-unicode = 67;
+unicode = 41;
 },
 {
-color = 9;
-glyphname = a;
-kernLeft = a;
-kernRight = a;
-lastChange = "2024-12-23 10:32:24 +0000";
+glyphname = bracketleft;
+lastChange = "2025-04-04 13:59:44 +0000";
 layers = (
 {
-guides = (
-{
-pos = (-14,424);
-}
-);
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -241,52 +237,13 @@ ref = _guideMontessori3;
 width = 500;
 }
 );
-unicode = 97;
+unicode = 91;
 },
 {
-color = 9;
-glyphname = b;
-kernLeft = l;
-kernRight = b;
-lastChange = "2024-11-20 14:15:56 +0000";
+glyphname = bracketright;
+lastChange = "2025-04-04 14:00:31 +0000";
 layers = (
 {
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-alignment = -1;
-ref = _guideMontessori1;
-},
-{
-alignment = -1;
-ref = _guideMontessori2;
-}
-);
-width = 500;
-}
-);
-unicode = 98;
-},
-{
-color = 9;
-glyphname = c;
-kernLeft = a;
-kernRight = c;
-lastChange = "2024-11-20 14:13:24 +0000";
-layers = (
-{
-background = {
-anchors = (
-{
-name = bottom;
-pos = (251,0);
-},
-{
-name = top;
-pos = (326,360);
-}
-);
-};
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -305,8 +262,7 @@ ref = _guideMontessori3;
 width = 500;
 }
 );
-metricLeft = a;
-unicode = 99;
+unicode = 93;
 },
 {
 export = 0;
