@@ -2,7 +2,9 @@
 .appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
-Ahora
+"
+Hoy hizo algo.
+/_z.master z/z.from.bottom/z.from.middle/z.from.top/z.from.base.long"
 );
 axes = (
 {
@@ -13,7 +15,7 @@ tag = COLR;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo A_N_D a aacute adieresis agrave atilde ae b c ccedilla d eth e eacute edieresis egrave etilde f g h i idotless iacute idieresis igrave itilde j jdotless k l ldot m n ntilde o oacute odieresis ograve oslash otilde oe p thorn q r s germandbls t u uacute udieresis ugrave utilde v w x y ytilde z saltillo a.fina aacute.fina adieresis.fina agrave.fina atilde.fina ae.fina b.fina c.fina ccedilla.fina d.fina eth.fina e.fina eacute.fina edieresis.fina egrave.fina etilde.fina f.fina g.fina h.fina i.fina idotless.fina iacute.fina idieresis.fina igrave.fina itilde.fina j.fina jdotless.fina k.fina l.fina ldot.fina m.fina n.fina ntilde.fina o.fina oacute.fina odieresis.fina ograve.fina oslash.fina otilde.fina oe.fina p.fina thorn.fina q.fina r.fina s.fina germandbls.fina t.fina u.fina uacute.fina udieresis.fina ugrave.fina utilde.fina v.fina w.fina x.fina y.fina ytilde.fina z.fina saltillo.fina a.init aacute.init adieresis.init agrave.init atilde.init ae.init b.init c.init ccedilla.init d.init eth.init e.init eacute.init edieresis.init egrave.init etilde.init f.init g.init h.init i.init idotless.init iacute.init idieresis.init igrave.init itilde.init j.init jdotless.init k.init l.init ldot.init m.init n.init ntilde.init o.init oacute.init odieresis.init ograve.init oslash.init otilde.init oe.init p.init thorn.init q.init r.init s.init germandbls.init t.init u.init uacute.init udieresis.init ugrave.init utilde.init v.init w.init x.init y.init ytilde.init z.init saltillo.init a.isol aacute.isol adieresis.isol agrave.isol atilde.isol ae.isol b.isol c.isol ccedilla.isol d.isol eth.isol e.isol eacute.isol edieresis.isol egrave.isol etilde.isol f.isol g.isol h.isol i.isol idotless.isol iacute.isol idieresis.isol igrave.isol itilde.isol j.isol jdotless.isol k.isol l.isol ldot.isol m.isol n.isol ntilde.isol o.isol oacute.isol odieresis.isol ograve.isol oslash.isol otilde.isol oe.isol p.isol thorn.isol q.isol r.isol s.isol germandbls.isol t.isol u.isol uacute.isol udieresis.isol ugrave.isol utilde.isol v.isol w.isol x.isol y.isol ytilde.isol z.isol saltillo.isol a.from.bottom aacute.from.bottom adieresis.from.bottom agrave.from.bottom atilde.from.bottom ae.from.bottom b.from.bottom c.from.bottom ccedilla.from.bottom d.from.bottom eth.from.bottom e.from.bottom eacute.from.bottom edieresis.from.bottom egrave.from.bottom etilde.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom idotless.from.bottom iacute.from.bottom idieresis.from.bottom igrave.from.bottom itilde.from.bottom j.from.bottom jdotless.from.bottom k.from.bottom l.from.bottom ldot.from.bottom m.from.bottom n.from.bottom ntilde.from.bottom o.from.bottom oacute.from.bottom odieresis.from.bottom ograve.from.bottom oslash.from.bottom otilde.from.bottom oe.from.bottom p.from.bottom thorn.from.bottom q.from.bottom r.from.bottom s.from.bottom germandbls.from.bottom t.from.bottom u.from.bottom uacute.from.bottom udieresis.from.bottom ugrave.from.bottom utilde.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom ytilde.from.bottom z.from.bottom saltillo.from.bottom a.from.middle aacute.from.middle adieresis.from.middle agrave.from.middle atilde.from.middle ae.from.middle b.from.middle c.from.middle ccedilla.from.middle d.from.middle eth.from.middle e.from.middle eacute.from.middle edieresis.from.middle egrave.from.middle etilde.from.middle f.from.middle g.from.middle h.from.middle i.from.middle idotless.from.middle iacute.from.middle idieresis.from.middle igrave.from.middle itilde.from.middle j.from.middle jdotless.from.middle k.from.middle l.from.middle ldot.from.middle m.from.middle n.from.middle ntilde.from.middle o.from.middle oacute.from.middle odieresis.from.middle ograve.from.middle oslash.from.middle otilde.from.middle oe.from.middle p.from.middle thorn.from.middle q.from.middle r.from.middle s.from.middle germandbls.from.middle t.from.middle u.from.middle uacute.from.middle udieresis.from.middle ugrave.from.middle utilde.from.middle v.from.middle w.from.middle x.from.middle y.from.middle ytilde.from.middle z.from.middle saltillo.from.middle a.from.top aacute.from.top adieresis.from.top agrave.from.top atilde.from.top ae.from.top b.from.top c.from.top ccedilla.from.top d.from.top eth.from.top e.from.top eacute.from.top edieresis.from.top egrave.from.top etilde.from.top f.from.top g.from.top h.from.top i.from.top idotless.from.top iacute.from.top idieresis.from.top igrave.from.top itilde.from.top j.from.top jdotless.from.top k.from.top l.from.top ldot.from.top m.from.top n.from.top ntilde.from.top o.from.top oacute.from.top odieresis.from.top ograve.from.top oslash.from.top otilde.from.top oe.from.top p.from.top thorn.from.top q.from.top r.from.top s.from.top germandbls.from.top t.from.top u.from.top uacute.from.top udieresis.from.top ugrave.from.top utilde.from.top v.from.top w.from.top x.from.top y.from.top ytilde.from.top z.from.top saltillo.from.top a.from.bottom.fina aacute.from.bottom.fina adieresis.from.bottom.fina agrave.from.bottom.fina atilde.from.bottom.fina ae.from.bottom.fina b.from.bottom.fina c.from.bottom.fina ccedilla.from.bottom.fina d.from.bottom.fina eth.from.bottom.fina e.from.bottom.fina eacute.from.bottom.fina edieresis.from.bottom.fina egrave.from.bottom.fina etilde.from.bottom.fina f.from.bottom.fina g.from.bottom.fina h.from.bottom.fina i.from.bottom.fina idotless.from.bottom.fina iacute.from.bottom.fina idieresis.from.bottom.fina igrave.from.bottom.fina itilde.from.bottom.fina j.from.bottom.fina jdotless.from.bottom.fina k.from.bottom.fina l.from.bottom.fina ldot.from.bottom.fina m.from.bottom.fina n.from.bottom.fina ntilde.from.bottom.fina o.from.bottom.fina oacute.from.bottom.fina odieresis.from.bottom.fina ograve.from.bottom.fina oslash.from.bottom.fina otilde.from.bottom.fina oe.from.bottom.fina p.from.bottom.fina thorn.from.bottom.fina q.from.bottom.fina r.from.bottom.fina s.from.bottom.fina germandbls.from.bottom.fina t.from.bottom.fina u.from.bottom.fina uacute.from.bottom.fina udieresis.from.bottom.fina ugrave.from.bottom.fina utilde.from.bottom.fina v.from.bottom.fina w.from.bottom.fina x.from.bottom.fina y.from.bottom.fina ytilde.from.bottom.fina z.from.bottom.fina saltillo.from.bottom.fina a.from.middle.fina aacute.from.middle.fina adieresis.from.middle.fina agrave.from.middle.fina atilde.from.middle.fina ae.from.middle.fina b.from.middle.fina c.from.middle.fina ccedilla.from.middle.fina d.from.middle.fina eth.from.middle.fina e.from.middle.fina eacute.from.middle.fina edieresis.from.middle.fina egrave.from.middle.fina etilde.from.middle.fina f.from.middle.fina g.from.middle.fina h.from.middle.fina i.from.middle.fina idotless.from.middle.fina iacute.from.middle.fina idieresis.from.middle.fina igrave.from.middle.fina itilde.from.middle.fina j.from.middle.fina jdotless.from.middle.fina k.from.middle.fina l.from.middle.fina ldot.from.middle.fina m.from.middle.fina n.from.middle.fina ntilde.from.middle.fina o.from.middle.fina oacute.from.middle.fina odieresis.from.middle.fina ograve.from.middle.fina oslash.from.middle.fina otilde.from.middle.fina oe.from.middle.fina p.from.middle.fina thorn.from.middle.fina q.from.middle.fina r.from.middle.fina s.from.middle.fina germandbls.from.middle.fina t.from.middle.fina u.from.middle.fina uacute.from.middle.fina udieresis.from.middle.fina ugrave.from.middle.fina utilde.from.middle.fina v.from.middle.fina w.from.middle.fina x.from.middle.fina y.from.middle.fina ytilde.from.middle.fina z.from.middle.fina saltillo.from.middle.fina a.from.top.fina aacute.from.top.fina adieresis.from.top.fina agrave.from.top.fina atilde.from.top.fina ae.from.top.fina b.from.top.fina c.from.top.fina ccedilla.from.top.fina d.from.top.fina eth.from.top.fina e.from.top.fina eacute.from.top.fina edieresis.from.top.fina egrave.from.top.fina etilde.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina idotless.from.top.fina iacute.from.top.fina idieresis.from.top.fina igrave.from.top.fina itilde.from.top.fina j.from.top.fina jdotless.from.top.fina k.from.top.fina l.from.top.fina ldot.from.top.fina m.from.top.fina n.from.top.fina ntilde.from.top.fina o.from.top.fina oacute.from.top.fina odieresis.from.top.fina ograve.from.top.fina oslash.from.top.fina otilde.from.top.fina oe.from.top.fina p.from.top.fina thorn.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina germandbls.from.top.fina t.from.top.fina u.from.top.fina uacute.from.top.fina udieresis.from.top.fina ugrave.from.top.fina utilde.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina ytilde.from.top.fina z.from.top.fina saltillo.from.top.fina a.from.base.long aacute.from.base.long adieresis.from.base.long agrave.from.base.long atilde.from.base.long ae.from.base.long b.from.base.long c.from.base.long ccedilla.from.base.long d.from.base.long eth.from.base.long e.from.base.long eacute.from.base.long edieresis.from.base.long egrave.from.base.long etilde.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long idotless.from.base.long iacute.from.base.long idieresis.from.base.long igrave.from.base.long itilde.from.base.long j.from.base.long jdotless.from.base.long k.from.base.long l.from.base.long ldot.from.base.long m.from.base.long n.from.base.long ntilde.from.base.long o.from.base.long oacute.from.base.long odieresis.from.base.long ograve.from.base.long oslash.from.base.long otilde.from.base.long oe.from.base.long p.from.base.long thorn.from.base.long q.from.base.long r.from.base.long s.from.base.long germandbls.from.base.long t.from.base.long u.from.base.long uacute.from.base.long udieresis.from.base.long ugrave.from.base.long utilde.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long ytilde.from.base.long z.from.base.long saltillo.from.base.long a.from.base.long.fina aacute.from.base.long.fina adieresis.from.base.long.fina agrave.from.base.long.fina atilde.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina ccedilla.from.base.long.fina d.from.base.long.fina eth.from.base.long.fina e.from.base.long.fina eacute.from.base.long.fina edieresis.from.base.long.fina egrave.from.base.long.fina etilde.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina idotless.from.base.long.fina iacute.from.base.long.fina idieresis.from.base.long.fina igrave.from.base.long.fina itilde.from.base.long.fina j.from.base.long.fina jdotless.from.base.long.fina k.from.base.long.fina l.from.base.long.fina ldot.from.base.long.fina m.from.base.long.fina n.from.base.long.fina ntilde.from.base.long.fina o.from.base.long.fina oacute.from.base.long.fina odieresis.from.base.long.fina ograve.from.base.long.fina oslash.from.base.long.fina otilde.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina thorn.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina germandbls.from.base.long.fina t.from.base.long.fina u.from.base.long.fina uacute.from.base.long.fina udieresis.from.base.long.fina ugrave.from.base.long.fina utilde.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina ytilde.from.base.long.fina z.from.base.long.fina saltillo.from.base.long.fina zero one two three four five six seven eight nine nine.alt zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths fraction.alt zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space thinspace period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle guillemetleft.case guillemetright.case guilsinglleft.case guilsinglright.case baht at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl at.case cent currency dollar euro hryvnia ruble rupeeIndian sheqel sterling won yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow dottedCircle lozenge dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb cedillacomb ogonekcomb slashlongcomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek barcomp.short";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo A_N_D a aacute adieresis agrave atilde ae b c ccedilla d eth e eacute edieresis egrave etilde f g h i idotless iacute idieresis igrave itilde j jdotless k l ldot m n ntilde o oacute odieresis ograve oslash otilde oe p thorn q r s germandbls t u uacute udieresis ugrave utilde v w x y ytilde z saltillo a.fina aacute.fina adieresis.fina agrave.fina atilde.fina ae.fina b.fina c.fina ccedilla.fina d.fina eth.fina e.fina eacute.fina edieresis.fina egrave.fina etilde.fina f.fina g.fina h.fina i.fina idotless.fina iacute.fina idieresis.fina igrave.fina itilde.fina j.fina jdotless.fina k.fina l.fina ldot.fina m.fina n.fina ntilde.fina o.fina oacute.fina odieresis.fina ograve.fina oslash.fina otilde.fina oe.fina p.fina thorn.fina q.fina r.fina s.fina germandbls.fina t.fina u.fina uacute.fina udieresis.fina ugrave.fina utilde.fina v.fina w.fina x.fina y.fina ytilde.fina z.fina saltillo.fina a.init aacute.init adieresis.init agrave.init atilde.init ae.init b.init c.init ccedilla.init d.init eth.init e.init eacute.init edieresis.init egrave.init etilde.init f.init g.init h.init i.init idotless.init iacute.init idieresis.init igrave.init itilde.init j.init jdotless.init k.init l.init ldot.init m.init n.init ntilde.init o.init oacute.init odieresis.init ograve.init oslash.init otilde.init oe.init p.init thorn.init q.init r.init s.init germandbls.init t.init u.init uacute.init udieresis.init ugrave.init utilde.init v.init w.init x.init y.init ytilde.init z.init saltillo.init a.isol aacute.isol adieresis.isol agrave.isol atilde.isol ae.isol b.isol c.isol ccedilla.isol d.isol eth.isol e.isol eacute.isol edieresis.isol egrave.isol etilde.isol f.isol g.isol h.isol i.isol idotless.isol iacute.isol idieresis.isol igrave.isol itilde.isol j.isol jdotless.isol k.isol l.isol ldot.isol m.isol n.isol ntilde.isol o.isol oacute.isol odieresis.isol ograve.isol oslash.isol otilde.isol oe.isol p.isol thorn.isol q.isol r.isol s.isol germandbls.isol t.isol u.isol uacute.isol udieresis.isol ugrave.isol utilde.isol v.isol w.isol x.isol y.isol ytilde.isol z.isol saltillo.isol a.from.bottom aacute.from.bottom adieresis.from.bottom agrave.from.bottom atilde.from.bottom ae.from.bottom b.from.bottom c.from.bottom ccedilla.from.bottom d.from.bottom eth.from.bottom e.from.bottom eacute.from.bottom edieresis.from.bottom egrave.from.bottom etilde.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom idotless.from.bottom iacute.from.bottom idieresis.from.bottom igrave.from.bottom itilde.from.bottom j.from.bottom jdotless.from.bottom k.from.bottom l.from.bottom ldot.from.bottom m.from.bottom n.from.bottom ntilde.from.bottom o.from.bottom oacute.from.bottom odieresis.from.bottom ograve.from.bottom oslash.from.bottom otilde.from.bottom oe.from.bottom p.from.bottom thorn.from.bottom q.from.bottom r.from.bottom s.from.bottom germandbls.from.bottom t.from.bottom u.from.bottom uacute.from.bottom udieresis.from.bottom ugrave.from.bottom utilde.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom ytilde.from.bottom z.from.bottom saltillo.from.bottom a.from.middle aacute.from.middle adieresis.from.middle agrave.from.middle atilde.from.middle ae.from.middle b.from.middle c.from.middle ccedilla.from.middle d.from.middle eth.from.middle e.from.middle eacute.from.middle edieresis.from.middle egrave.from.middle etilde.from.middle f.from.middle g.from.middle h.from.middle i.from.middle idotless.from.middle iacute.from.middle idieresis.from.middle igrave.from.middle itilde.from.middle j.from.middle jdotless.from.middle k.from.middle l.from.middle ldot.from.middle m.from.middle n.from.middle ntilde.from.middle o.from.middle oacute.from.middle odieresis.from.middle ograve.from.middle oslash.from.middle otilde.from.middle oe.from.middle p.from.middle thorn.from.middle q.from.middle r.from.middle s.from.middle germandbls.from.middle t.from.middle u.from.middle uacute.from.middle udieresis.from.middle ugrave.from.middle utilde.from.middle v.from.middle w.from.middle x.from.middle y.from.middle ytilde.from.middle z.from.middle saltillo.from.middle a.from.top aacute.from.top adieresis.from.top agrave.from.top atilde.from.top ae.from.top b.from.top c.from.top ccedilla.from.top d.from.top eth.from.top e.from.top eacute.from.top edieresis.from.top egrave.from.top etilde.from.top f.from.top g.from.top h.from.top i.from.top idotless.from.top iacute.from.top idieresis.from.top igrave.from.top itilde.from.top j.from.top jdotless.from.top k.from.top l.from.top ldot.from.top m.from.top n.from.top ntilde.from.top o.from.top oacute.from.top odieresis.from.top ograve.from.top oslash.from.top otilde.from.top oe.from.top p.from.top thorn.from.top q.from.top r.from.top s.from.top germandbls.from.top t.from.top u.from.top uacute.from.top udieresis.from.top ugrave.from.top utilde.from.top v.from.top w.from.top x.from.top y.from.top ytilde.from.top z.from.top saltillo.from.top a.from.bottom.fina aacute.from.bottom.fina adieresis.from.bottom.fina agrave.from.bottom.fina atilde.from.bottom.fina ae.from.bottom.fina b.from.bottom.fina c.from.bottom.fina ccedilla.from.bottom.fina d.from.bottom.fina eth.from.bottom.fina e.from.bottom.fina eacute.from.bottom.fina edieresis.from.bottom.fina egrave.from.bottom.fina etilde.from.bottom.fina f.from.bottom.fina g.from.bottom.fina h.from.bottom.fina i.from.bottom.fina idotless.from.bottom.fina iacute.from.bottom.fina idieresis.from.bottom.fina igrave.from.bottom.fina itilde.from.bottom.fina j.from.bottom.fina jdotless.from.bottom.fina k.from.bottom.fina l.from.bottom.fina ldot.from.bottom.fina m.from.bottom.fina n.from.bottom.fina ntilde.from.bottom.fina o.from.bottom.fina oacute.from.bottom.fina odieresis.from.bottom.fina ograve.from.bottom.fina oslash.from.bottom.fina otilde.from.bottom.fina oe.from.bottom.fina p.from.bottom.fina thorn.from.bottom.fina q.from.bottom.fina r.from.bottom.fina s.from.bottom.fina germandbls.from.bottom.fina t.from.bottom.fina u.from.bottom.fina uacute.from.bottom.fina udieresis.from.bottom.fina ugrave.from.bottom.fina utilde.from.bottom.fina v.from.bottom.fina w.from.bottom.fina x.from.bottom.fina y.from.bottom.fina ytilde.from.bottom.fina z.from.bottom.fina saltillo.from.bottom.fina a.from.middle.fina aacute.from.middle.fina adieresis.from.middle.fina agrave.from.middle.fina atilde.from.middle.fina ae.from.middle.fina b.from.middle.fina c.from.middle.fina ccedilla.from.middle.fina d.from.middle.fina eth.from.middle.fina e.from.middle.fina eacute.from.middle.fina edieresis.from.middle.fina egrave.from.middle.fina etilde.from.middle.fina f.from.middle.fina g.from.middle.fina h.from.middle.fina i.from.middle.fina idotless.from.middle.fina iacute.from.middle.fina idieresis.from.middle.fina igrave.from.middle.fina itilde.from.middle.fina j.from.middle.fina jdotless.from.middle.fina k.from.middle.fina l.from.middle.fina ldot.from.middle.fina m.from.middle.fina n.from.middle.fina ntilde.from.middle.fina o.from.middle.fina oacute.from.middle.fina odieresis.from.middle.fina ograve.from.middle.fina oslash.from.middle.fina otilde.from.middle.fina oe.from.middle.fina p.from.middle.fina thorn.from.middle.fina q.from.middle.fina r.from.middle.fina s.from.middle.fina germandbls.from.middle.fina t.from.middle.fina u.from.middle.fina uacute.from.middle.fina udieresis.from.middle.fina ugrave.from.middle.fina utilde.from.middle.fina v.from.middle.fina w.from.middle.fina x.from.middle.fina y.from.middle.fina ytilde.from.middle.fina z.from.middle.fina saltillo.from.middle.fina a.from.top.fina aacute.from.top.fina adieresis.from.top.fina agrave.from.top.fina atilde.from.top.fina ae.from.top.fina b.from.top.fina c.from.top.fina ccedilla.from.top.fina d.from.top.fina eth.from.top.fina e.from.top.fina eacute.from.top.fina edieresis.from.top.fina egrave.from.top.fina etilde.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina idotless.from.top.fina iacute.from.top.fina idieresis.from.top.fina igrave.from.top.fina itilde.from.top.fina j.from.top.fina jdotless.from.top.fina k.from.top.fina l.from.top.fina ldot.from.top.fina m.from.top.fina n.from.top.fina ntilde.from.top.fina o.from.top.fina oacute.from.top.fina odieresis.from.top.fina ograve.from.top.fina oslash.from.top.fina otilde.from.top.fina oe.from.top.fina p.from.top.fina thorn.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina germandbls.from.top.fina t.from.top.fina u.from.top.fina uacute.from.top.fina udieresis.from.top.fina ugrave.from.top.fina utilde.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina ytilde.from.top.fina z.from.top.fina saltillo.from.top.fina a.from.base.long aacute.from.base.long adieresis.from.base.long agrave.from.base.long atilde.from.base.long ae.from.base.long b.from.base.long c.from.base.long ccedilla.from.base.long d.from.base.long eth.from.base.long e.from.base.long eacute.from.base.long edieresis.from.base.long egrave.from.base.long etilde.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long idotless.from.base.long iacute.from.base.long idieresis.from.base.long igrave.from.base.long itilde.from.base.long j.from.base.long jdotless.from.base.long k.from.base.long l.from.base.long ldot.from.base.long m.from.base.long n.from.base.long ntilde.from.base.long o.from.base.long oacute.from.base.long odieresis.from.base.long ograve.from.base.long oslash.from.base.long otilde.from.base.long oe.from.base.long p.from.base.long thorn.from.base.long q.from.base.long r.from.base.long s.from.base.long germandbls.from.base.long t.from.base.long u.from.base.long uacute.from.base.long udieresis.from.base.long ugrave.from.base.long utilde.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long ytilde.from.base.long z.from.base.long saltillo.from.base.long a.from.base.long.fina aacute.from.base.long.fina adieresis.from.base.long.fina agrave.from.base.long.fina atilde.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina ccedilla.from.base.long.fina d.from.base.long.fina eth.from.base.long.fina e.from.base.long.fina eacute.from.base.long.fina edieresis.from.base.long.fina egrave.from.base.long.fina etilde.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina idotless.from.base.long.fina iacute.from.base.long.fina idieresis.from.base.long.fina igrave.from.base.long.fina itilde.from.base.long.fina j.from.base.long.fina jdotless.from.base.long.fina k.from.base.long.fina l.from.base.long.fina ldot.from.base.long.fina m.from.base.long.fina n.from.base.long.fina ntilde.from.base.long.fina o.from.base.long.fina oacute.from.base.long.fina odieresis.from.base.long.fina ograve.from.base.long.fina oslash.from.base.long.fina otilde.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina thorn.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina germandbls.from.base.long.fina t.from.base.long.fina u.from.base.long.fina uacute.from.base.long.fina udieresis.from.base.long.fina ugrave.from.base.long.fina utilde.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina ytilde.from.base.long.fina z.from.base.long.fina saltillo.from.base.long.fina zero one two three four five six seven eight nine nine.alt zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths fraction.alt zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace enspace emspace enquad emquad thirdemspace fourthemspace sixthemspace figurespace punctuationspace thinspace hairspace zerowidthspace CR period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle guillemetleft.case guillemetright.case guilsinglleft.case guilsinglright.case baht at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl at.case cent currency dollar euro hryvnia ruble rupeeIndian sheqel sterling won yen because dotminus excess plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity integral product summation radical partialdiff percent perthousand proportion therefore upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow dottedCircle lozenge dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb cedillacomb ogonekcomb slashlongcomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek GDL GDL.end GDL.start barcomp.short";
 name = All;
 },
 {
@@ -73,12 +75,12 @@ tag = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_Other_1 {
+code = "lookup ccmp_DFLT_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
-} ccmp_Other_1;
+} ccmp_DFLT_1;
 
 lookup ccmp_latn_1 {
 	lookupflag 0;
@@ -190,6 +192,12 @@ lookup MEDIAL {
 
 # ele geminada 
 sub @lFina' @periodcentered @l by l;
+
+
+# GuideLines - GDL
+sub underscore underscore by GDL;
+sub bracketleft bracketleft by GDL.start;
+sub bracketright bracketright by GDL.end;
 ";
 tag = calt;
 },
@@ -870,6 +878,18 @@ guides = (
 {
 locked = 1;
 pos = (332,298);
+},
+{
+pos = (332,298);
+},
+{
+pos = (332,970);
+},
+{
+pos = (328,419);
+},
+{
+pos = (-15,-7);
 }
 );
 id = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -1023,7 +1043,7 @@ pos = -370;
 {
 }
 );
-name = RegularPauta;
+name = RegularGDL;
 stemValues = (
 60,
 65
@@ -1124,7 +1144,7 @@ pos = -370;
 {
 }
 );
-name = Superligada;
+name = In;
 stemValues = (
 60,
 65
@@ -1225,7 +1245,7 @@ pos = -370;
 {
 }
 );
-name = SuperligadaPauta;
+name = InGDL;
 stemValues = (
 60,
 65
@@ -1353,7 +1373,7 @@ pos = -370;
 {
 }
 );
-name = Pauta;
+name = GuideLine;
 stemValues = (
 60,
 65
@@ -28492,7 +28512,7 @@ pos = (180,0);
 ref = _ae.master;
 }
 );
-width = 654;
+width = 655;
 },
 {
 anchors = (
@@ -28519,7 +28539,7 @@ pos = (180,0);
 ref = _ae.master;
 }
 );
-width = 659;
+width = 660;
 },
 {
 anchors = (
@@ -28546,7 +28566,7 @@ pos = (180,0);
 ref = _ae.master;
 }
 );
-width = 687;
+width = 688;
 },
 {
 anchors = (
@@ -28600,7 +28620,7 @@ pos = (180,0);
 ref = _ae.master;
 }
 );
-width = 687;
+width = 688;
 }
 );
 unicode = 230;
@@ -35977,11 +35997,11 @@ shapes = (
 ref = ae;
 },
 {
-pos = (654,0);
+pos = (655,0);
 ref = _final;
 }
 );
-width = 801;
+width = 802;
 },
 {
 layerId = m002;
@@ -35990,11 +36010,11 @@ shapes = (
 ref = ae;
 },
 {
-pos = (659,0);
+pos = (660,0);
 ref = _final;
 }
 );
-width = 806;
+width = 807;
 },
 {
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
@@ -36003,11 +36023,11 @@ shapes = (
 ref = ae;
 },
 {
-pos = (687,0);
+pos = (688,0);
 ref = _final;
 }
 );
-width = 834;
+width = 835;
 },
 {
 layerId = m004;
@@ -36029,11 +36049,11 @@ shapes = (
 ref = ae;
 },
 {
-pos = (687,0);
+pos = (688,0);
 ref = _final;
 }
 );
-width = 834;
+width = 835;
 }
 );
 },
@@ -41202,7 +41222,7 @@ shapes = (
 ref = _ae.master;
 }
 );
-width = 474;
+width = 475;
 },
 {
 anchors = (
@@ -41225,7 +41245,7 @@ shapes = (
 ref = _ae.master;
 }
 );
-width = 479;
+width = 480;
 },
 {
 anchors = (
@@ -41252,7 +41272,7 @@ pos = (180,0);
 ref = _ae.master;
 }
 );
-width = 687;
+width = 688;
 },
 {
 anchors = (
@@ -41302,7 +41322,7 @@ pos = (180,0);
 ref = _ae.master;
 }
 );
-width = 687;
+width = 688;
 }
 );
 metricLeft = a.init;
@@ -44929,11 +44949,11 @@ shapes = (
 ref = _ae.master;
 },
 {
-pos = (474,0);
+pos = (475,0);
 ref = _final;
 }
 );
-width = 621;
+width = 622;
 },
 {
 layerId = m002;
@@ -44942,11 +44962,11 @@ shapes = (
 ref = _ae.master;
 },
 {
-pos = (479,0);
+pos = (480,0);
 ref = _final;
 }
 );
-width = 626;
+width = 627;
 },
 {
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
@@ -44959,11 +44979,11 @@ pos = (180,0);
 ref = _ae.master;
 },
 {
-pos = (687,0);
+pos = (688,0);
 ref = _final;
 }
 );
-width = 834;
+width = 835;
 },
 {
 layerId = m004;
@@ -44989,11 +45009,11 @@ pos = (180,0);
 ref = _ae.master;
 },
 {
-pos = (687,0);
+pos = (688,0);
 ref = _final;
 }
 );
-width = 834;
+width = 835;
 }
 );
 },
@@ -49037,7 +49057,7 @@ pos = (160,0);
 ref = _ae.master;
 }
 );
-width = 634;
+width = 635;
 },
 {
 anchors = (
@@ -49064,7 +49084,7 @@ pos = (160,0);
 ref = _ae.master;
 }
 );
-width = 639;
+width = 640;
 },
 {
 anchors = (
@@ -49091,7 +49111,7 @@ pos = (160,0);
 ref = _ae.master;
 }
 );
-width = 667;
+width = 668;
 },
 {
 anchors = (
@@ -49145,7 +49165,7 @@ pos = (160,0);
 ref = _ae.master;
 }
 );
-width = 667;
+width = 668;
 }
 );
 },
@@ -54772,7 +54792,7 @@ pos = (181,0);
 ref = _ae.master;
 }
 );
-width = 655;
+width = 656;
 },
 {
 anchors = (
@@ -54799,7 +54819,7 @@ pos = (181,0);
 ref = _ae.master;
 }
 );
-width = 660;
+width = 661;
 },
 {
 anchors = (
@@ -54826,7 +54846,7 @@ pos = (181,0);
 ref = _ae.master;
 }
 );
-width = 688;
+width = 689;
 },
 {
 anchors = (
@@ -54880,7 +54900,7 @@ pos = (181,0);
 ref = _ae.master;
 }
 );
-width = 688;
+width = 689;
 }
 );
 },
@@ -60019,7 +60039,7 @@ pos = (44,0);
 ref = _ae.master;
 }
 );
-width = 518;
+width = 519;
 },
 {
 anchors = (
@@ -60046,7 +60066,7 @@ pos = (44,0);
 ref = _ae.master;
 }
 );
-width = 523;
+width = 524;
 },
 {
 anchors = (
@@ -60073,7 +60093,7 @@ pos = (44,0);
 ref = _ae.master;
 }
 );
-width = 551;
+width = 552;
 },
 {
 anchors = (
@@ -60127,7 +60147,7 @@ pos = (44,0);
 ref = _ae.master;
 }
 );
-width = 551;
+width = 552;
 }
 );
 },
@@ -65395,11 +65415,11 @@ shapes = (
 ref = ae.from.bottom;
 },
 {
-pos = (634,0);
+pos = (635,0);
 ref = _final;
 }
 );
-width = 781;
+width = 782;
 },
 {
 layerId = m002;
@@ -65408,11 +65428,11 @@ shapes = (
 ref = ae.from.bottom;
 },
 {
-pos = (639,0);
+pos = (640,0);
 ref = _final;
 }
 );
-width = 786;
+width = 787;
 },
 {
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
@@ -65421,11 +65441,11 @@ shapes = (
 ref = ae.from.bottom;
 },
 {
-pos = (667,0);
+pos = (668,0);
 ref = _final;
 }
 );
-width = 814;
+width = 815;
 },
 {
 layerId = m004;
@@ -65447,11 +65467,11 @@ shapes = (
 ref = ae.from.bottom;
 },
 {
-pos = (667,0);
+pos = (668,0);
 ref = _final;
 }
 );
-width = 814;
+width = 815;
 }
 );
 },
@@ -69830,11 +69850,11 @@ shapes = (
 ref = ae.from.middle;
 },
 {
-pos = (655,0);
+pos = (656,0);
 ref = _final;
 }
 );
-width = 802;
+width = 803;
 },
 {
 layerId = m002;
@@ -69843,11 +69863,11 @@ shapes = (
 ref = ae.from.middle;
 },
 {
-pos = (660,0);
+pos = (661,0);
 ref = _final;
 }
 );
-width = 807;
+width = 808;
 },
 {
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
@@ -69856,11 +69876,11 @@ shapes = (
 ref = ae.from.middle;
 },
 {
-pos = (688,0);
+pos = (689,0);
 ref = _final;
 }
 );
-width = 835;
+width = 836;
 },
 {
 layerId = m004;
@@ -69882,11 +69902,11 @@ shapes = (
 ref = ae.from.middle;
 },
 {
-pos = (688,0);
+pos = (689,0);
 ref = _final;
 }
 );
-width = 835;
+width = 836;
 }
 );
 },
@@ -74114,11 +74134,11 @@ shapes = (
 ref = ae.from.top;
 },
 {
-pos = (518,0);
+pos = (519,0);
 ref = _final;
 }
 );
-width = 665;
+width = 666;
 },
 {
 layerId = m002;
@@ -74127,11 +74147,11 @@ shapes = (
 ref = ae.from.top;
 },
 {
-pos = (523,0);
+pos = (524,0);
 ref = _final;
 }
 );
-width = 670;
+width = 671;
 },
 {
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
@@ -74140,11 +74160,11 @@ shapes = (
 ref = ae.from.top;
 },
 {
-pos = (551,0);
+pos = (552,0);
 ref = _final;
 }
 );
-width = 698;
+width = 699;
 },
 {
 layerId = m004;
@@ -74166,11 +74186,11 @@ shapes = (
 ref = ae.from.top;
 },
 {
-pos = (551,0);
+pos = (552,0);
 ref = _final;
 }
 );
-width = 698;
+width = 699;
 }
 );
 },
@@ -78503,7 +78523,7 @@ pos = (252,0);
 ref = _ae.master;
 }
 );
-width = 726;
+width = 727;
 },
 {
 anchors = (
@@ -78530,7 +78550,7 @@ pos = (252,0);
 ref = _ae.master;
 }
 );
-width = 731;
+width = 732;
 },
 {
 anchors = (
@@ -78557,7 +78577,7 @@ pos = (252,0);
 ref = _ae.master;
 }
 );
-width = 759;
+width = 760;
 },
 {
 anchors = (
@@ -78611,7 +78631,7 @@ pos = (252,0);
 ref = _ae.master;
 }
 );
-width = 759;
+width = 760;
 }
 );
 },
@@ -83549,11 +83569,11 @@ shapes = (
 ref = ae.from.base.long;
 },
 {
-pos = (726,0);
+pos = (727,0);
 ref = _final;
 }
 );
-width = 873;
+width = 874;
 },
 {
 layerId = m002;
@@ -83562,11 +83582,11 @@ shapes = (
 ref = ae.from.base.long;
 },
 {
-pos = (731,0);
+pos = (732,0);
 ref = _final;
 }
 );
-width = 878;
+width = 879;
 },
 {
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
@@ -83575,11 +83595,11 @@ shapes = (
 ref = ae.from.base.long;
 },
 {
-pos = (759,0);
+pos = (760,0);
 ref = _final;
 }
 );
-width = 906;
+width = 907;
 },
 {
 layerId = m004;
@@ -83601,11 +83621,11 @@ shapes = (
 ref = ae.from.base.long;
 },
 {
-pos = (759,0);
+pos = (760,0);
 ref = _final;
 }
 );
-width = 906;
+width = 907;
 }
 );
 },
@@ -100879,6 +100899,87 @@ width = 1000;
 unicode = 8193;
 },
 {
+glyphname = thirdemspace;
+lastChange = "2025-04-07 08:05:46 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+width = 333;
+},
+{
+layerId = m002;
+width = 333;
+},
+{
+layerId = "F3447581-435E-44E2-ABAC-414C89955411";
+width = 333;
+},
+{
+layerId = m005;
+width = 333;
+},
+{
+layerId = m004;
+width = 333;
+}
+);
+unicode = 8196;
+},
+{
+glyphname = fourthemspace;
+lastChange = "2025-04-07 08:05:46 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+width = 250;
+},
+{
+layerId = m002;
+width = 250;
+},
+{
+layerId = "F3447581-435E-44E2-ABAC-414C89955411";
+width = 250;
+},
+{
+layerId = m005;
+width = 250;
+},
+{
+layerId = m004;
+width = 250;
+}
+);
+unicode = 8197;
+},
+{
+glyphname = sixthemspace;
+lastChange = "2025-04-07 08:05:46 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+width = 167;
+},
+{
+layerId = m002;
+width = 167;
+},
+{
+layerId = "F3447581-435E-44E2-ABAC-414C89955411";
+width = 167;
+},
+{
+layerId = m005;
+width = 167;
+},
+{
+layerId = m004;
+width = 167;
+}
+);
+unicode = 8198;
+},
+{
 glyphname = figurespace;
 lastChange = "2025-04-07 08:05:46 +0000";
 layers = (
@@ -106346,13 +106447,13 @@ unicode = 91;
 glyphname = bracketright;
 kernLeft = parentright;
 kernRight = parentright;
-lastChange = "2024-12-06 09:22:03 +0000";
+lastChange = "2025-04-07 08:17:18 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
-pos = (398,0);
+pos = (397,0);
 ref = bracketleft;
 scale = (-1,1);
 }
@@ -129559,85 +129660,322 @@ width = 296;
 );
 },
 {
-glyphname = fourthemspace;
-lastChange = "2025-04-07 08:05:46 +0000";
+glyphname = GDL;
+lastChange = "2025-04-07 08:09:31 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-width = 250;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+}
+);
+width = 500;
 },
 {
 layerId = m002;
-width = 250;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+}
+);
+width = 500;
 },
 {
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
-width = 250;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+}
+);
+width = 500;
 },
 {
 layerId = m005;
-width = 250;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+}
+);
+width = 500;
 },
 {
 layerId = m004;
-width = 250;
-}
-);
-unicode = 8197;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
 },
 {
-glyphname = sixthemspace;
-lastChange = "2025-04-07 08:05:46 +0000";
+alignment = -1;
+ref = _guideMontessori2;
+}
+);
+width = 500;
+}
+);
+},
+{
+glyphname = GDL.end;
+lastChange = "2025-04-07 08:19:52 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-width = 167;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+},
+{
+closed = 1;
+nodes = (
+(493,-370,l),
+(500,-370,l),
+(500,780,l),
+(493,780,l)
+);
+}
+);
+width = 500;
 },
 {
 layerId = m002;
-width = 167;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+},
+{
+closed = 1;
+nodes = (
+(493,-370,l),
+(500,-370,l),
+(500,780,l),
+(493,780,l)
+);
+}
+);
+width = 500;
 },
 {
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
-width = 167;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+},
+{
+closed = 1;
+nodes = (
+(493,-370,l),
+(500,-370,l),
+(500,780,l),
+(493,780,l)
+);
+}
+);
+width = 500;
 },
 {
 layerId = m005;
-width = 167;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+},
+{
+closed = 1;
+nodes = (
+(493,-370,l),
+(500,-370,l),
+(500,780,l),
+(493,780,l)
+);
+}
+);
+width = 500;
 },
 {
 layerId = m004;
-width = 167;
-}
-);
-unicode = 8198;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
 },
 {
-glyphname = thirdemspace;
-lastChange = "2025-04-07 08:05:46 +0000";
+alignment = -1;
+ref = _guideMontessori2;
+},
+{
+closed = 1;
+nodes = (
+(493,-370,l),
+(500,-370,l),
+(500,780,l),
+(493,780,l)
+);
+}
+);
+width = 500;
+}
+);
+},
+{
+glyphname = GDL.start;
+lastChange = "2025-04-07 08:20:02 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-width = 333;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
+}
+);
+width = 500;
 },
 {
 layerId = m002;
-width = 333;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
+}
+);
+width = 500;
 },
 {
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
-width = 333;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
+}
+);
+width = 500;
 },
 {
 layerId = m005;
-width = 333;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
+}
+);
+width = 500;
 },
 {
 layerId = m004;
-width = 333;
+shapes = (
+{
+alignment = -1;
+ref = _guideMontessori1;
+},
+{
+alignment = -1;
+ref = _guideMontessori2;
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
 }
 );
-unicode = 8196;
+width = 500;
+}
+);
 },
 {
 glyphname = barcomp.short;
@@ -131559,7 +131897,7 @@ width = 270;
 {
 export = 0;
 glyphname = _ae.master;
-lastChange = "2025-01-09 08:52:25 +0000";
+lastChange = "2025-04-07 08:22:33 +0000";
 layers = (
 {
 anchors = (
@@ -131608,7 +131946,7 @@ nodes = (
 );
 }
 );
-width = 474;
+width = 475;
 },
 {
 anchors = (
@@ -131663,7 +132001,7 @@ ref = _guideMontessori1;
 scale = (0.542,1);
 }
 );
-width = 479;
+width = 480;
 },
 {
 anchors = (
@@ -131712,7 +132050,7 @@ nodes = (
 );
 }
 );
-width = 507;
+width = 508;
 },
 {
 anchors = (
@@ -131789,7 +132127,7 @@ ref = _guideMontessori1;
 scale = (0.542,1);
 }
 );
-width = 507;
+width = 508;
 }
 );
 metricRight = e;
@@ -141280,38 +141618,57 @@ width = 374;
 {
 export = 0;
 glyphname = _z.master;
-lastChange = "2024-12-06 09:22:03 +0000";
+lastChange = "2025-04-07 08:27:04 +0000";
 layers = (
 {
 background = {
 shapes = (
 {
-pos = (-241,0);
-ref = _conect.left;
-},
-{
-pos = (-81,0);
-ref = _a.master;
-},
-{
 attr = {
-identifier = ID0x7f80efc3ce40;
-lineCapEnd = "1";
-lineCapStart = "1";
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 60;
+strokeWidth = 65;
 };
 closed = 0;
 nodes = (
-(190,360,l),
-(190,-129,ls),
-(190,-310,o),
-(173,-373,o),
-(121,-373,cs),
-(71,-373,o),
-(51,-330,o),
-(51,-278,cs),
-(51,-117,o),
-(166,-99,o),
-(293,0,c)
+(0,405,l),
+(38,387,o),
+(101,385,o),
+(129,385,cs),
+(212,385,o),
+(275,394,o),
+(275,394,cs),
+(283,395,o),
+(286,391,o),
+(279,379,cs),
+(257,341,o),
+(171,201,o),
+(106,78,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 60;
+strokeWidth = 65;
+};
+closed = 0;
+nodes = (
+(106,76,l),
+(227,62,o),
+(275,-60,o),
+(275,-170,cs),
+(275,-293,o),
+(232,-343,o),
+(190,-343,cs),
+(150,-343,o),
+(112,-299,o),
+(112,-234,cs),
+(112,-158,o),
+(166,-69,o),
+(293,30,c)
 );
 }
 );
@@ -141357,12 +141714,12 @@ nodes = (
 (275,-170,cs),
 (275,-293,o),
 (232,-343,o),
-(190,-343,cs),
-(150,-343,o),
-(112,-299,o),
-(112,-234,cs),
-(112,-158,o),
-(166,-69,o),
+(180,-343,cs),
+(104,-343,o),
+(76,-230,o),
+(135,-134,cs),
+(165,-83,o),
+(218,-28,o),
 (293,30,c)
 );
 }
@@ -141371,39 +141728,6 @@ width = 293;
 },
 {
 background = {
-shapes = (
-{
-pos = (-241,0);
-ref = _conect.left;
-},
-{
-pos = (-81,0);
-ref = _a.master;
-},
-{
-attr = {
-identifier = ID0x7f80efc3ce40;
-lineCapEnd = "1";
-lineCapStart = "1";
-};
-closed = 0;
-nodes = (
-(190,360,l),
-(190,-129,ls),
-(190,-310,o),
-(173,-373,o),
-(121,-373,cs),
-(71,-373,o),
-(51,-330,o),
-(51,-278,cs),
-(51,-117,o),
-(166,-99,o),
-(293,0,c)
-);
-}
-);
-};
-layerId = m002;
 shapes = (
 {
 attr = {
@@ -141452,11 +141776,63 @@ nodes = (
 (166,-69,o),
 (293,30,c)
 );
-},
+}
+);
+};
+layerId = m002;
+shapes = (
 {
 alignment = -1;
 ref = _guideMontessori1;
 scale = (0.6153,1);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 60;
+strokeWidth = 65;
+};
+closed = 0;
+nodes = (
+(0,405,l),
+(38,387,o),
+(101,385,o),
+(129,385,cs),
+(212,385,o),
+(275,394,o),
+(275,394,cs),
+(283,395,o),
+(286,391,o),
+(279,379,cs),
+(257,341,o),
+(171,201,o),
+(106,78,c)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 60;
+strokeWidth = 65;
+};
+closed = 0;
+nodes = (
+(106,76,l),
+(227,62,o),
+(275,-60,o),
+(275,-170,cs),
+(275,-293,o),
+(232,-343,o),
+(180,-343,cs),
+(104,-343,o),
+(76,-230,o),
+(135,-134,cs),
+(165,-83,o),
+(218,-28,o),
+(293,30,c)
+);
 }
 );
 width = 293;
@@ -141465,32 +141841,51 @@ width = 293;
 background = {
 shapes = (
 {
-pos = (-241,0);
-ref = _conect.left;
-},
-{
-pos = (-81,0);
-ref = _a.master;
-},
-{
 attr = {
-identifier = ID0x7f80efc3ce40;
-lineCapEnd = "1";
-lineCapStart = "1";
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 60;
+strokeWidth = 65;
 };
 closed = 0;
 nodes = (
-(190,360,l),
-(190,-129,ls),
-(190,-310,o),
-(173,-373,o),
-(121,-373,cs),
-(71,-373,o),
-(51,-330,o),
-(51,-278,cs),
-(51,-117,o),
-(166,-99,o),
-(293,0,c)
+(0,405,l),
+(38,387,o),
+(101,385,o),
+(129,385,cs),
+(212,385,o),
+(275,394,o),
+(275,394,cs),
+(283,395,o),
+(286,391,o),
+(279,379,cs),
+(257,341,o),
+(171,201,o),
+(106,78,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 60;
+strokeWidth = 65;
+};
+closed = 0;
+nodes = (
+(106,76,l),
+(227,62,o),
+(275,-60,o),
+(275,-170,cs),
+(275,-293,o),
+(232,-343,o),
+(190,-343,cs),
+(150,-343,o),
+(112,-299,o),
+(112,-234,cs),
+(112,-158,o),
+(166,-69,o),
+(293,30,c)
 );
 }
 );
@@ -141499,8 +141894,8 @@ layerId = "F3447581-435E-44E2-ABAC-414C89955411";
 shapes = (
 {
 attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
+lineCapEnd = "1";
+lineCapStart = "1";
 strokeHeight = 60;
 strokeWidth = 65;
 };
@@ -141523,8 +141918,8 @@ nodes = (
 },
 {
 attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
+lineCapEnd = "1";
+lineCapStart = "1";
 strokeHeight = 60;
 strokeWidth = 65;
 };
@@ -141536,12 +141931,12 @@ nodes = (
 (275,-170,cs),
 (275,-293,o),
 (232,-343,o),
-(190,-343,cs),
-(150,-343,o),
-(112,-299,o),
-(112,-234,cs),
-(112,-158,o),
-(166,-69,o),
+(180,-343,cs),
+(104,-343,o),
+(76,-230,o),
+(135,-134,cs),
+(165,-83,o),
+(218,-28,o),
 (293,30,c)
 );
 }
@@ -141596,39 +141991,6 @@ width = 293;
 background = {
 shapes = (
 {
-pos = (-241,0);
-ref = _conect.left;
-},
-{
-pos = (-81,0);
-ref = _a.master;
-},
-{
-attr = {
-identifier = ID0x7f80efc3ce40;
-lineCapEnd = "1";
-lineCapStart = "1";
-};
-closed = 0;
-nodes = (
-(190,360,l),
-(190,-129,ls),
-(190,-310,o),
-(173,-373,o),
-(121,-373,cs),
-(71,-373,o),
-(51,-330,o),
-(51,-278,cs),
-(51,-117,o),
-(166,-99,o),
-(293,0,c)
-);
-}
-);
-};
-layerId = m005;
-shapes = (
-{
 attr = {
 lineCapEnd = 1;
 lineCapStart = 1;
@@ -141675,11 +142037,63 @@ nodes = (
 (166,-69,o),
 (293,30,c)
 );
-},
+}
+);
+};
+layerId = m005;
+shapes = (
 {
 alignment = -1;
 ref = _guideMontessori1;
 scale = (0.6153,1);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 60;
+strokeWidth = 65;
+};
+closed = 0;
+nodes = (
+(0,405,l),
+(38,387,o),
+(101,385,o),
+(129,385,cs),
+(212,385,o),
+(275,394,o),
+(275,394,cs),
+(283,395,o),
+(286,391,o),
+(279,379,cs),
+(257,341,o),
+(171,201,o),
+(106,78,c)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 60;
+strokeWidth = 65;
+};
+closed = 0;
+nodes = (
+(106,76,l),
+(227,62,o),
+(275,-60,o),
+(275,-170,cs),
+(275,-293,o),
+(232,-343,o),
+(180,-343,cs),
+(104,-343,o),
+(76,-230,o),
+(135,-134,cs),
+(165,-83,o),
+(218,-28,o),
+(293,30,c)
+);
 }
 );
 width = 293;
