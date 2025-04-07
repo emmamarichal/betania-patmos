@@ -1,13 +1,13 @@
-# Betània Patmos
-The file is built as a color font.
-Each color-layer:
-- Layer 1 ► regular
-- Layer 2 ► regular con pauta Montessori superpuesta
-- Layer 3 ► super ligada (the round letters a, c, d, g, q have an entry stroke at the init or when isolated)
-- Layer 4 ► super ligada con pauta Montessori superpuesta
-- La pauta sin letras (solo renglones) se encuentra en el el archivo idependiente betania-patmosPautaMontessori
+**Betània Patmos font family is built as a color font. Each color-layer:**
 
-In this link, you can find the schema for the OpenType CALT ► https://docs.google.com/spreadsheets/d/1EkZOVEq2mW7irsxCQbfG921_dTimuX6Kt_FzSJJKsU8/edit?usp=sharing)
+- Font 1 ► regular
+- Font 2 ► regular + Guide Lines (GDL)
+- Font 3 ► IN (the round letters a, c, d, g, q have an entry stroke at the init or when isolated)
+- Font 4 ► IN + Guide Lines
+- Font 5 ► Guide Lines (only Guide Lines according the Pauta Montessori)
+
+! [Link to font specimen](https://github.com/huertatipografica/betania-patmos/blob/main/fonts/BetaniaPatmosSpecimen.pdf)
+
 
 References:
 
