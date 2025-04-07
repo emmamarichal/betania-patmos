@@ -4,7 +4,7 @@
 classes = (
 {
 automatic = 1;
-code = "A B C a b c";
+code = "hyphen underscore parenleft parenright bracketleft bracketright";
 name = All;
 }
 );

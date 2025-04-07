@@ -1,6 +1,9 @@
 {
 .appVersion = "3337";
 .formatVersion = 3;
+DisplayStrings = (
+"Hola ahí!"
+);
 axes = (
 {
 name = Color;
@@ -196,7 +199,13 @@ sub bracketright bracketright by GDL.end;
 # GuideLines - GDL - x-hight color 
 sub equal equal by GDL.color;
 sub braceleft braceleft by GDL.start.color;
-sub braceright braceright by GDL.end.color;";
+sub braceright braceright by GDL.end.color;
+
+
+# Starts
+sub asterisk asterisk by whiteStar;
+sub asterisk asterisk asterisk by blackStar;
+";
 tag = calt;
 },
 {
@@ -151116,7 +151125,7 @@ value = AddExtremes;
 instanceInterpolations = {
 m002 = 1;
 };
-name = RegularPauta;
+name = RegularGDL;
 },
 {
 axesValues = (
@@ -151145,7 +151154,7 @@ value = AddExtremes;
 instanceInterpolations = {
 "F3447581-435E-44E2-ABAC-414C89955411" = 1;
 };
-name = Superligada;
+name = In;
 },
 {
 axesValues = (
@@ -151154,7 +151163,7 @@ axesValues = (
 instanceInterpolations = {
 m005 = 1;
 };
-name = SuperligadaPauta;
+name = InGDL;
 },
 {
 axesValues = (
@@ -151163,7 +151172,7 @@ axesValues = (
 instanceInterpolations = {
 m004 = 1;
 };
-name = Pauta;
+name = GuideLine;
 }
 );
 kerningLTR = {
