@@ -2,9 +2,7 @@
 .appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
-"
-Hoy hizo algo.
-/_z.master z/z.from.bottom/z.from.middle/z.from.top/z.from.base.long"
+"/GDL.color"
 );
 axes = (
 {
@@ -15,7 +13,7 @@ tag = COLR;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo A_N_D a aacute adieresis agrave atilde ae b c ccedilla d eth e eacute edieresis egrave etilde f g h i idotless iacute idieresis igrave itilde j jdotless k l ldot m n ntilde o oacute odieresis ograve oslash otilde oe p thorn q r s germandbls t u uacute udieresis ugrave utilde v w x y ytilde z saltillo a.fina aacute.fina adieresis.fina agrave.fina atilde.fina ae.fina b.fina c.fina ccedilla.fina d.fina eth.fina e.fina eacute.fina edieresis.fina egrave.fina etilde.fina f.fina g.fina h.fina i.fina idotless.fina iacute.fina idieresis.fina igrave.fina itilde.fina j.fina jdotless.fina k.fina l.fina ldot.fina m.fina n.fina ntilde.fina o.fina oacute.fina odieresis.fina ograve.fina oslash.fina otilde.fina oe.fina p.fina thorn.fina q.fina r.fina s.fina germandbls.fina t.fina u.fina uacute.fina udieresis.fina ugrave.fina utilde.fina v.fina w.fina x.fina y.fina ytilde.fina z.fina saltillo.fina a.init aacute.init adieresis.init agrave.init atilde.init ae.init b.init c.init ccedilla.init d.init eth.init e.init eacute.init edieresis.init egrave.init etilde.init f.init g.init h.init i.init idotless.init iacute.init idieresis.init igrave.init itilde.init j.init jdotless.init k.init l.init ldot.init m.init n.init ntilde.init o.init oacute.init odieresis.init ograve.init oslash.init otilde.init oe.init p.init thorn.init q.init r.init s.init germandbls.init t.init u.init uacute.init udieresis.init ugrave.init utilde.init v.init w.init x.init y.init ytilde.init z.init saltillo.init a.isol aacute.isol adieresis.isol agrave.isol atilde.isol ae.isol b.isol c.isol ccedilla.isol d.isol eth.isol e.isol eacute.isol edieresis.isol egrave.isol etilde.isol f.isol g.isol h.isol i.isol idotless.isol iacute.isol idieresis.isol igrave.isol itilde.isol j.isol jdotless.isol k.isol l.isol ldot.isol m.isol n.isol ntilde.isol o.isol oacute.isol odieresis.isol ograve.isol oslash.isol otilde.isol oe.isol p.isol thorn.isol q.isol r.isol s.isol germandbls.isol t.isol u.isol uacute.isol udieresis.isol ugrave.isol utilde.isol v.isol w.isol x.isol y.isol ytilde.isol z.isol saltillo.isol a.from.bottom aacute.from.bottom adieresis.from.bottom agrave.from.bottom atilde.from.bottom ae.from.bottom b.from.bottom c.from.bottom ccedilla.from.bottom d.from.bottom eth.from.bottom e.from.bottom eacute.from.bottom edieresis.from.bottom egrave.from.bottom etilde.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom idotless.from.bottom iacute.from.bottom idieresis.from.bottom igrave.from.bottom itilde.from.bottom j.from.bottom jdotless.from.bottom k.from.bottom l.from.bottom ldot.from.bottom m.from.bottom n.from.bottom ntilde.from.bottom o.from.bottom oacute.from.bottom odieresis.from.bottom ograve.from.bottom oslash.from.bottom otilde.from.bottom oe.from.bottom p.from.bottom thorn.from.bottom q.from.bottom r.from.bottom s.from.bottom germandbls.from.bottom t.from.bottom u.from.bottom uacute.from.bottom udieresis.from.bottom ugrave.from.bottom utilde.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom ytilde.from.bottom z.from.bottom saltillo.from.bottom a.from.middle aacute.from.middle adieresis.from.middle agrave.from.middle atilde.from.middle ae.from.middle b.from.middle c.from.middle ccedilla.from.middle d.from.middle eth.from.middle e.from.middle eacute.from.middle edieresis.from.middle egrave.from.middle etilde.from.middle f.from.middle g.from.middle h.from.middle i.from.middle idotless.from.middle iacute.from.middle idieresis.from.middle igrave.from.middle itilde.from.middle j.from.middle jdotless.from.middle k.from.middle l.from.middle ldot.from.middle m.from.middle n.from.middle ntilde.from.middle o.from.middle oacute.from.middle odieresis.from.middle ograve.from.middle oslash.from.middle otilde.from.middle oe.from.middle p.from.middle thorn.from.middle q.from.middle r.from.middle s.from.middle germandbls.from.middle t.from.middle u.from.middle uacute.from.middle udieresis.from.middle ugrave.from.middle utilde.from.middle v.from.middle w.from.middle x.from.middle y.from.middle ytilde.from.middle z.from.middle saltillo.from.middle a.from.top aacute.from.top adieresis.from.top agrave.from.top atilde.from.top ae.from.top b.from.top c.from.top ccedilla.from.top d.from.top eth.from.top e.from.top eacute.from.top edieresis.from.top egrave.from.top etilde.from.top f.from.top g.from.top h.from.top i.from.top idotless.from.top iacute.from.top idieresis.from.top igrave.from.top itilde.from.top j.from.top jdotless.from.top k.from.top l.from.top ldot.from.top m.from.top n.from.top ntilde.from.top o.from.top oacute.from.top odieresis.from.top ograve.from.top oslash.from.top otilde.from.top oe.from.top p.from.top thorn.from.top q.from.top r.from.top s.from.top germandbls.from.top t.from.top u.from.top uacute.from.top udieresis.from.top ugrave.from.top utilde.from.top v.from.top w.from.top x.from.top y.from.top ytilde.from.top z.from.top saltillo.from.top a.from.bottom.fina aacute.from.bottom.fina adieresis.from.bottom.fina agrave.from.bottom.fina atilde.from.bottom.fina ae.from.bottom.fina b.from.bottom.fina c.from.bottom.fina ccedilla.from.bottom.fina d.from.bottom.fina eth.from.bottom.fina e.from.bottom.fina eacute.from.bottom.fina edieresis.from.bottom.fina egrave.from.bottom.fina etilde.from.bottom.fina f.from.bottom.fina g.from.bottom.fina h.from.bottom.fina i.from.bottom.fina idotless.from.bottom.fina iacute.from.bottom.fina idieresis.from.bottom.fina igrave.from.bottom.fina itilde.from.bottom.fina j.from.bottom.fina jdotless.from.bottom.fina k.from.bottom.fina l.from.bottom.fina ldot.from.bottom.fina m.from.bottom.fina n.from.bottom.fina ntilde.from.bottom.fina o.from.bottom.fina oacute.from.bottom.fina odieresis.from.bottom.fina ograve.from.bottom.fina oslash.from.bottom.fina otilde.from.bottom.fina oe.from.bottom.fina p.from.bottom.fina thorn.from.bottom.fina q.from.bottom.fina r.from.bottom.fina s.from.bottom.fina germandbls.from.bottom.fina t.from.bottom.fina u.from.bottom.fina uacute.from.bottom.fina udieresis.from.bottom.fina ugrave.from.bottom.fina utilde.from.bottom.fina v.from.bottom.fina w.from.bottom.fina x.from.bottom.fina y.from.bottom.fina ytilde.from.bottom.fina z.from.bottom.fina saltillo.from.bottom.fina a.from.middle.fina aacute.from.middle.fina adieresis.from.middle.fina agrave.from.middle.fina atilde.from.middle.fina ae.from.middle.fina b.from.middle.fina c.from.middle.fina ccedilla.from.middle.fina d.from.middle.fina eth.from.middle.fina e.from.middle.fina eacute.from.middle.fina edieresis.from.middle.fina egrave.from.middle.fina etilde.from.middle.fina f.from.middle.fina g.from.middle.fina h.from.middle.fina i.from.middle.fina idotless.from.middle.fina iacute.from.middle.fina idieresis.from.middle.fina igrave.from.middle.fina itilde.from.middle.fina j.from.middle.fina jdotless.from.middle.fina k.from.middle.fina l.from.middle.fina ldot.from.middle.fina m.from.middle.fina n.from.middle.fina ntilde.from.middle.fina o.from.middle.fina oacute.from.middle.fina odieresis.from.middle.fina ograve.from.middle.fina oslash.from.middle.fina otilde.from.middle.fina oe.from.middle.fina p.from.middle.fina thorn.from.middle.fina q.from.middle.fina r.from.middle.fina s.from.middle.fina germandbls.from.middle.fina t.from.middle.fina u.from.middle.fina uacute.from.middle.fina udieresis.from.middle.fina ugrave.from.middle.fina utilde.from.middle.fina v.from.middle.fina w.from.middle.fina x.from.middle.fina y.from.middle.fina ytilde.from.middle.fina z.from.middle.fina saltillo.from.middle.fina a.from.top.fina aacute.from.top.fina adieresis.from.top.fina agrave.from.top.fina atilde.from.top.fina ae.from.top.fina b.from.top.fina c.from.top.fina ccedilla.from.top.fina d.from.top.fina eth.from.top.fina e.from.top.fina eacute.from.top.fina edieresis.from.top.fina egrave.from.top.fina etilde.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina idotless.from.top.fina iacute.from.top.fina idieresis.from.top.fina igrave.from.top.fina itilde.from.top.fina j.from.top.fina jdotless.from.top.fina k.from.top.fina l.from.top.fina ldot.from.top.fina m.from.top.fina n.from.top.fina ntilde.from.top.fina o.from.top.fina oacute.from.top.fina odieresis.from.top.fina ograve.from.top.fina oslash.from.top.fina otilde.from.top.fina oe.from.top.fina p.from.top.fina thorn.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina germandbls.from.top.fina t.from.top.fina u.from.top.fina uacute.from.top.fina udieresis.from.top.fina ugrave.from.top.fina utilde.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina ytilde.from.top.fina z.from.top.fina saltillo.from.top.fina a.from.base.long aacute.from.base.long adieresis.from.base.long agrave.from.base.long atilde.from.base.long ae.from.base.long b.from.base.long c.from.base.long ccedilla.from.base.long d.from.base.long eth.from.base.long e.from.base.long eacute.from.base.long edieresis.from.base.long egrave.from.base.long etilde.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long idotless.from.base.long iacute.from.base.long idieresis.from.base.long igrave.from.base.long itilde.from.base.long j.from.base.long jdotless.from.base.long k.from.base.long l.from.base.long ldot.from.base.long m.from.base.long n.from.base.long ntilde.from.base.long o.from.base.long oacute.from.base.long odieresis.from.base.long ograve.from.base.long oslash.from.base.long otilde.from.base.long oe.from.base.long p.from.base.long thorn.from.base.long q.from.base.long r.from.base.long s.from.base.long germandbls.from.base.long t.from.base.long u.from.base.long uacute.from.base.long udieresis.from.base.long ugrave.from.base.long utilde.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long ytilde.from.base.long z.from.base.long saltillo.from.base.long a.from.base.long.fina aacute.from.base.long.fina adieresis.from.base.long.fina agrave.from.base.long.fina atilde.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina ccedilla.from.base.long.fina d.from.base.long.fina eth.from.base.long.fina e.from.base.long.fina eacute.from.base.long.fina edieresis.from.base.long.fina egrave.from.base.long.fina etilde.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina idotless.from.base.long.fina iacute.from.base.long.fina idieresis.from.base.long.fina igrave.from.base.long.fina itilde.from.base.long.fina j.from.base.long.fina jdotless.from.base.long.fina k.from.base.long.fina l.from.base.long.fina ldot.from.base.long.fina m.from.base.long.fina n.from.base.long.fina ntilde.from.base.long.fina o.from.base.long.fina oacute.from.base.long.fina odieresis.from.base.long.fina ograve.from.base.long.fina oslash.from.base.long.fina otilde.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina thorn.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina germandbls.from.base.long.fina t.from.base.long.fina u.from.base.long.fina uacute.from.base.long.fina udieresis.from.base.long.fina ugrave.from.base.long.fina utilde.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina ytilde.from.base.long.fina z.from.base.long.fina saltillo.from.base.long.fina zero one two three four five six seven eight nine nine.alt zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths fraction.alt zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace enspace emspace enquad emquad thirdemspace fourthemspace sixthemspace figurespace punctuationspace thinspace hairspace zerowidthspace CR period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle guillemetleft.case guillemetright.case guilsinglleft.case guilsinglright.case baht at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl at.case cent currency dollar euro hryvnia ruble rupeeIndian sheqel sterling won yen because dotminus excess plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity integral product summation radical partialdiff percent perthousand proportion therefore upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow dottedCircle lozenge dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb cedillacomb ogonekcomb slashlongcomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek GDL GDL.end GDL.start barcomp.short";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aring Atilde AE B C Ccedilla D Eth E Eacute Ecircumflex Edieresis Egrave Etilde F G H I IJ Iacute Icircumflex Idieresis Igrave Itilde J Jacute K L M N Ntilde O Oacute Ocircumflex Odieresis Ograve Oslash Otilde OE P Thorn Q R S Germandbls T U Uacute Ucircumflex Udieresis Ugrave Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Saltillo A_N_D a aacute adieresis agrave atilde ae b c ccedilla d eth e eacute edieresis egrave etilde f g h i idotless iacute idieresis igrave itilde j jdotless k l ldot m n ntilde o oacute odieresis ograve oslash otilde oe p thorn q r s germandbls t u uacute udieresis ugrave utilde v w x y ytilde z saltillo a.fina aacute.fina adieresis.fina agrave.fina atilde.fina ae.fina b.fina c.fina ccedilla.fina d.fina eth.fina e.fina eacute.fina edieresis.fina egrave.fina etilde.fina f.fina g.fina h.fina i.fina idotless.fina iacute.fina idieresis.fina igrave.fina itilde.fina j.fina jdotless.fina k.fina l.fina ldot.fina m.fina n.fina ntilde.fina o.fina oacute.fina odieresis.fina ograve.fina oslash.fina otilde.fina oe.fina p.fina thorn.fina q.fina r.fina s.fina germandbls.fina t.fina u.fina uacute.fina udieresis.fina ugrave.fina utilde.fina v.fina w.fina x.fina y.fina ytilde.fina z.fina saltillo.fina a.init aacute.init adieresis.init agrave.init atilde.init ae.init b.init c.init ccedilla.init d.init eth.init e.init eacute.init edieresis.init egrave.init etilde.init f.init g.init h.init i.init idotless.init iacute.init idieresis.init igrave.init itilde.init j.init jdotless.init k.init l.init ldot.init m.init n.init ntilde.init o.init oacute.init odieresis.init ograve.init oslash.init otilde.init oe.init p.init thorn.init q.init r.init s.init germandbls.init t.init u.init uacute.init udieresis.init ugrave.init utilde.init v.init w.init x.init y.init ytilde.init z.init saltillo.init a.isol aacute.isol adieresis.isol agrave.isol atilde.isol ae.isol b.isol c.isol ccedilla.isol d.isol eth.isol e.isol eacute.isol edieresis.isol egrave.isol etilde.isol f.isol g.isol h.isol i.isol idotless.isol iacute.isol idieresis.isol igrave.isol itilde.isol j.isol jdotless.isol k.isol l.isol ldot.isol m.isol n.isol ntilde.isol o.isol oacute.isol odieresis.isol ograve.isol oslash.isol otilde.isol oe.isol p.isol thorn.isol q.isol r.isol s.isol germandbls.isol t.isol u.isol uacute.isol udieresis.isol ugrave.isol utilde.isol v.isol w.isol x.isol y.isol ytilde.isol z.isol saltillo.isol a.from.bottom aacute.from.bottom adieresis.from.bottom agrave.from.bottom atilde.from.bottom ae.from.bottom b.from.bottom c.from.bottom ccedilla.from.bottom d.from.bottom eth.from.bottom e.from.bottom eacute.from.bottom edieresis.from.bottom egrave.from.bottom etilde.from.bottom f.from.bottom g.from.bottom h.from.bottom i.from.bottom idotless.from.bottom iacute.from.bottom idieresis.from.bottom igrave.from.bottom itilde.from.bottom j.from.bottom jdotless.from.bottom k.from.bottom l.from.bottom ldot.from.bottom m.from.bottom n.from.bottom ntilde.from.bottom o.from.bottom oacute.from.bottom odieresis.from.bottom ograve.from.bottom oslash.from.bottom otilde.from.bottom oe.from.bottom p.from.bottom thorn.from.bottom q.from.bottom r.from.bottom s.from.bottom germandbls.from.bottom t.from.bottom u.from.bottom uacute.from.bottom udieresis.from.bottom ugrave.from.bottom utilde.from.bottom v.from.bottom w.from.bottom x.from.bottom y.from.bottom ytilde.from.bottom z.from.bottom saltillo.from.bottom a.from.middle aacute.from.middle adieresis.from.middle agrave.from.middle atilde.from.middle ae.from.middle b.from.middle c.from.middle ccedilla.from.middle d.from.middle eth.from.middle e.from.middle eacute.from.middle edieresis.from.middle egrave.from.middle etilde.from.middle f.from.middle g.from.middle h.from.middle i.from.middle idotless.from.middle iacute.from.middle idieresis.from.middle igrave.from.middle itilde.from.middle j.from.middle jdotless.from.middle k.from.middle l.from.middle ldot.from.middle m.from.middle n.from.middle ntilde.from.middle o.from.middle oacute.from.middle odieresis.from.middle ograve.from.middle oslash.from.middle otilde.from.middle oe.from.middle p.from.middle thorn.from.middle q.from.middle r.from.middle s.from.middle germandbls.from.middle t.from.middle u.from.middle uacute.from.middle udieresis.from.middle ugrave.from.middle utilde.from.middle v.from.middle w.from.middle x.from.middle y.from.middle ytilde.from.middle z.from.middle saltillo.from.middle a.from.top aacute.from.top adieresis.from.top agrave.from.top atilde.from.top ae.from.top b.from.top c.from.top ccedilla.from.top d.from.top eth.from.top e.from.top eacute.from.top edieresis.from.top egrave.from.top etilde.from.top f.from.top g.from.top h.from.top i.from.top idotless.from.top iacute.from.top idieresis.from.top igrave.from.top itilde.from.top j.from.top jdotless.from.top k.from.top l.from.top ldot.from.top m.from.top n.from.top ntilde.from.top o.from.top oacute.from.top odieresis.from.top ograve.from.top oslash.from.top otilde.from.top oe.from.top p.from.top thorn.from.top q.from.top r.from.top s.from.top germandbls.from.top t.from.top u.from.top uacute.from.top udieresis.from.top ugrave.from.top utilde.from.top v.from.top w.from.top x.from.top y.from.top ytilde.from.top z.from.top saltillo.from.top a.from.bottom.fina aacute.from.bottom.fina adieresis.from.bottom.fina agrave.from.bottom.fina atilde.from.bottom.fina ae.from.bottom.fina b.from.bottom.fina c.from.bottom.fina ccedilla.from.bottom.fina d.from.bottom.fina eth.from.bottom.fina e.from.bottom.fina eacute.from.bottom.fina edieresis.from.bottom.fina egrave.from.bottom.fina etilde.from.bottom.fina f.from.bottom.fina g.from.bottom.fina h.from.bottom.fina i.from.bottom.fina idotless.from.bottom.fina iacute.from.bottom.fina idieresis.from.bottom.fina igrave.from.bottom.fina itilde.from.bottom.fina j.from.bottom.fina jdotless.from.bottom.fina k.from.bottom.fina l.from.bottom.fina ldot.from.bottom.fina m.from.bottom.fina n.from.bottom.fina ntilde.from.bottom.fina o.from.bottom.fina oacute.from.bottom.fina odieresis.from.bottom.fina ograve.from.bottom.fina oslash.from.bottom.fina otilde.from.bottom.fina oe.from.bottom.fina p.from.bottom.fina thorn.from.bottom.fina q.from.bottom.fina r.from.bottom.fina s.from.bottom.fina germandbls.from.bottom.fina t.from.bottom.fina u.from.bottom.fina uacute.from.bottom.fina udieresis.from.bottom.fina ugrave.from.bottom.fina utilde.from.bottom.fina v.from.bottom.fina w.from.bottom.fina x.from.bottom.fina y.from.bottom.fina ytilde.from.bottom.fina z.from.bottom.fina saltillo.from.bottom.fina a.from.middle.fina aacute.from.middle.fina adieresis.from.middle.fina agrave.from.middle.fina atilde.from.middle.fina ae.from.middle.fina b.from.middle.fina c.from.middle.fina ccedilla.from.middle.fina d.from.middle.fina eth.from.middle.fina e.from.middle.fina eacute.from.middle.fina edieresis.from.middle.fina egrave.from.middle.fina etilde.from.middle.fina f.from.middle.fina g.from.middle.fina h.from.middle.fina i.from.middle.fina idotless.from.middle.fina iacute.from.middle.fina idieresis.from.middle.fina igrave.from.middle.fina itilde.from.middle.fina j.from.middle.fina jdotless.from.middle.fina k.from.middle.fina l.from.middle.fina ldot.from.middle.fina m.from.middle.fina n.from.middle.fina ntilde.from.middle.fina o.from.middle.fina oacute.from.middle.fina odieresis.from.middle.fina ograve.from.middle.fina oslash.from.middle.fina otilde.from.middle.fina oe.from.middle.fina p.from.middle.fina thorn.from.middle.fina q.from.middle.fina r.from.middle.fina s.from.middle.fina germandbls.from.middle.fina t.from.middle.fina u.from.middle.fina uacute.from.middle.fina udieresis.from.middle.fina ugrave.from.middle.fina utilde.from.middle.fina v.from.middle.fina w.from.middle.fina x.from.middle.fina y.from.middle.fina ytilde.from.middle.fina z.from.middle.fina saltillo.from.middle.fina a.from.top.fina aacute.from.top.fina adieresis.from.top.fina agrave.from.top.fina atilde.from.top.fina ae.from.top.fina b.from.top.fina c.from.top.fina ccedilla.from.top.fina d.from.top.fina eth.from.top.fina e.from.top.fina eacute.from.top.fina edieresis.from.top.fina egrave.from.top.fina etilde.from.top.fina f.from.top.fina g.from.top.fina h.from.top.fina i.from.top.fina idotless.from.top.fina iacute.from.top.fina idieresis.from.top.fina igrave.from.top.fina itilde.from.top.fina j.from.top.fina jdotless.from.top.fina k.from.top.fina l.from.top.fina ldot.from.top.fina m.from.top.fina n.from.top.fina ntilde.from.top.fina o.from.top.fina oacute.from.top.fina odieresis.from.top.fina ograve.from.top.fina oslash.from.top.fina otilde.from.top.fina oe.from.top.fina p.from.top.fina thorn.from.top.fina q.from.top.fina r.from.top.fina s.from.top.fina germandbls.from.top.fina t.from.top.fina u.from.top.fina uacute.from.top.fina udieresis.from.top.fina ugrave.from.top.fina utilde.from.top.fina v.from.top.fina w.from.top.fina x.from.top.fina y.from.top.fina ytilde.from.top.fina z.from.top.fina saltillo.from.top.fina a.from.base.long aacute.from.base.long adieresis.from.base.long agrave.from.base.long atilde.from.base.long ae.from.base.long b.from.base.long c.from.base.long ccedilla.from.base.long d.from.base.long eth.from.base.long e.from.base.long eacute.from.base.long edieresis.from.base.long egrave.from.base.long etilde.from.base.long f.from.base.long g.from.base.long h.from.base.long i.from.base.long idotless.from.base.long iacute.from.base.long idieresis.from.base.long igrave.from.base.long itilde.from.base.long j.from.base.long jdotless.from.base.long k.from.base.long l.from.base.long ldot.from.base.long m.from.base.long n.from.base.long ntilde.from.base.long o.from.base.long oacute.from.base.long odieresis.from.base.long ograve.from.base.long oslash.from.base.long otilde.from.base.long oe.from.base.long p.from.base.long thorn.from.base.long q.from.base.long r.from.base.long s.from.base.long germandbls.from.base.long t.from.base.long u.from.base.long uacute.from.base.long udieresis.from.base.long ugrave.from.base.long utilde.from.base.long v.from.base.long w.from.base.long x.from.base.long y.from.base.long ytilde.from.base.long z.from.base.long saltillo.from.base.long a.from.base.long.fina aacute.from.base.long.fina adieresis.from.base.long.fina agrave.from.base.long.fina atilde.from.base.long.fina ae.from.base.long.fina b.from.base.long.fina c.from.base.long.fina ccedilla.from.base.long.fina d.from.base.long.fina eth.from.base.long.fina e.from.base.long.fina eacute.from.base.long.fina edieresis.from.base.long.fina egrave.from.base.long.fina etilde.from.base.long.fina f.from.base.long.fina g.from.base.long.fina h.from.base.long.fina i.from.base.long.fina idotless.from.base.long.fina iacute.from.base.long.fina idieresis.from.base.long.fina igrave.from.base.long.fina itilde.from.base.long.fina j.from.base.long.fina jdotless.from.base.long.fina k.from.base.long.fina l.from.base.long.fina ldot.from.base.long.fina m.from.base.long.fina n.from.base.long.fina ntilde.from.base.long.fina o.from.base.long.fina oacute.from.base.long.fina odieresis.from.base.long.fina ograve.from.base.long.fina oslash.from.base.long.fina otilde.from.base.long.fina oe.from.base.long.fina p.from.base.long.fina thorn.from.base.long.fina q.from.base.long.fina r.from.base.long.fina s.from.base.long.fina germandbls.from.base.long.fina t.from.base.long.fina u.from.base.long.fina uacute.from.base.long.fina udieresis.from.base.long.fina ugrave.from.base.long.fina utilde.from.base.long.fina v.from.base.long.fina w.from.base.long.fina x.from.base.long.fina y.from.base.long.fina ytilde.from.base.long.fina z.from.base.long.fina saltillo.from.base.long.fina zero one two three four five six seven eight nine nine.alt zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths fraction.alt zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace enspace emspace enquad emquad thirdemspace fourthemspace sixthemspace figurespace punctuationspace thinspace hairspace zerowidthspace CR period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle guillemetleft.case guillemetright.case guilsinglleft.case guilsinglright.case baht at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl at.case cent currency dollar euro hryvnia ruble rupeeIndian sheqel sterling won yen because dotminus excess plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity integral product summation radical partialdiff percent perthousand proportion therefore upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow dottedCircle lozenge dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb cedillacomb ogonekcomb slashlongcomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek GDL GDL.color GDL.end GDL.start barcomp.short GDL.end.color GDL.start.color";
 name = All;
 },
 {
@@ -193,12 +191,15 @@ lookup MEDIAL {
 # ele geminada 
 sub @lFina' @periodcentered @l by l;
 
-
 # GuideLines - GDL
 sub underscore underscore by GDL;
 sub bracketleft bracketleft by GDL.start;
 sub bracketright bracketright by GDL.end;
-";
+
+# GuideLines - GDL - x-hight color 
+sub equal equal by GDL.color;
+sub braceleft braceleft by GDL.start.color;
+sub braceright braceright by GDL.end.color;";
 tag = calt;
 },
 {
@@ -878,18 +879,6 @@ guides = (
 {
 locked = 1;
 pos = (332,298);
-},
-{
-pos = (332,298);
-},
-{
-pos = (332,970);
-},
-{
-pos = (328,419);
-},
-{
-pos = (-15,-7);
 }
 );
 id = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -991,32 +980,6 @@ value = 60;
 {
 name = "Master Color";
 value = (128,255);
-}
-);
-guides = (
-{
-pos = (222,-365);
-},
-{
-pos = (332,298);
-},
-{
-pos = (332,970);
-},
-{
-pos = (328,419);
-},
-{
-pos = (222,-365);
-},
-{
-pos = (332,298);
-},
-{
-pos = (332,970);
-},
-{
-pos = (328,419);
 }
 );
 id = m002;
@@ -1322,33 +1285,6 @@ name = "Master Color";
 value = (115,253,255,191);
 }
 );
-guides = (
-{
-pos = (222,-365);
-},
-{
-angle = 90;
-pos = (332,298);
-},
-{
-pos = (332,970);
-},
-{
-pos = (328,419);
-},
-{
-pos = (222,-365);
-},
-{
-pos = (332,298);
-},
-{
-pos = (332,970);
-},
-{
-pos = (328,419);
-}
-);
 id = m004;
 metricValues = (
 {
@@ -1566,7 +1502,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.51,1);
 }
 );
@@ -1671,7 +1607,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.51,1);
 }
 );
@@ -1759,7 +1695,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.51,1);
 }
 );
@@ -2474,7 +2410,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.78,1);
 }
 );
@@ -2573,7 +2509,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.78,1);
 }
 );
@@ -2648,7 +2584,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.78,1);
 }
 );
@@ -2791,7 +2727,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.26,1);
 }
 );
@@ -2897,7 +2833,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.26,1);
 }
 );
@@ -2966,7 +2902,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.26,1);
 }
 );
@@ -3117,7 +3053,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.27,1);
 }
 );
@@ -3234,7 +3170,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.27,1);
 }
 );
@@ -3307,7 +3243,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.27,1);
 }
 );
@@ -3538,7 +3474,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.52,1);
 }
 );
@@ -3669,7 +3605,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.52,1);
 }
 );
@@ -3747,7 +3683,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.52,1);
 }
 );
@@ -3973,7 +3909,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.22,1);
 }
 );
@@ -4054,7 +3990,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.22,1);
 }
 );
@@ -4111,7 +4047,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.22,1);
 }
 );
@@ -4539,7 +4475,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.21,1);
 }
 );
@@ -4583,7 +4519,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.21,1);
 }
 );
@@ -4621,7 +4557,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.21,1);
 }
 );
@@ -4756,7 +4692,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -4856,7 +4792,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -4921,7 +4857,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -5094,7 +5030,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.47,1);
 }
 );
@@ -5218,7 +5154,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.47,1);
 }
 );
@@ -5302,7 +5238,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.47,1);
 }
 );
@@ -5479,7 +5415,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.04,1);
 }
 );
@@ -5607,7 +5543,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.04,1);
 }
 );
@@ -5693,7 +5629,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.04,1);
 }
 );
@@ -5912,12 +5848,12 @@ shapes = (
 {
 alignment = -1;
 pos = (125,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.18,1);
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2659,1);
 }
 );
@@ -6458,7 +6394,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.18,1);
 }
 );
@@ -6566,7 +6502,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.18,1);
 }
 );
@@ -6632,7 +6568,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.18,1);
 }
 );
@@ -6820,7 +6756,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.4,1);
 }
 );
@@ -6904,7 +6840,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.4,1);
 }
 );
@@ -6962,7 +6898,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.4,1);
 }
 );
@@ -7075,7 +7011,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.21,1);
 }
 );
@@ -7164,7 +7100,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.21,1);
 }
 );
@@ -7218,7 +7154,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.21,1);
 }
 );
@@ -7425,7 +7361,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.01,1);
 }
 );
@@ -7570,7 +7506,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.01,1);
 }
 );
@@ -7671,7 +7607,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.01,1);
 }
 );
@@ -7828,7 +7764,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -7936,7 +7872,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -8012,7 +7948,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -8260,7 +8196,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.64,1);
 }
 );
@@ -8403,7 +8339,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.64,1);
 }
 );
@@ -8489,7 +8425,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.64,1);
 }
 );
@@ -9247,7 +9183,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.9,1);
 }
 );
@@ -9449,7 +9385,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.0831,1);
 }
 );
@@ -9593,7 +9529,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.9,1);
 }
 );
@@ -9676,7 +9612,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.29,1);
 }
 );
@@ -9729,7 +9665,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.29,1);
 }
 );
@@ -9768,7 +9704,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.29,1);
 }
 );
@@ -9863,7 +9799,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.17,1);
 }
 );
@@ -9914,7 +9850,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.17,1);
 }
 );
@@ -9959,7 +9895,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.17,1);
 }
 );
@@ -10176,7 +10112,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-2,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.64,1);
 }
 );
@@ -10333,7 +10269,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.38,1);
 }
 );
@@ -10399,7 +10335,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.38,1);
 }
 );
@@ -10451,7 +10387,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.38,1);
 }
 );
@@ -10906,7 +10842,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.21,1);
 }
 );
@@ -11314,7 +11250,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.21,1);
 }
 );
@@ -11539,7 +11475,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.21,1);
 }
 );
@@ -11942,7 +11878,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.37,1);
 }
 );
@@ -12292,7 +12228,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.37,1);
 }
 );
@@ -12491,7 +12427,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.37,1);
 }
 );
@@ -12622,7 +12558,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.26,1);
 }
 );
@@ -12717,7 +12653,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.26,1);
 }
 );
@@ -12780,7 +12716,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.26,1);
 }
 );
@@ -12883,7 +12819,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.47,1);
 }
 );
@@ -12956,7 +12892,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.47,1);
 }
 );
@@ -13005,7 +12941,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.47,1);
 }
 );
@@ -13436,7 +13372,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.45,1);
 }
 );
@@ -13487,7 +13423,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.45,1);
 }
 );
@@ -13524,7 +13460,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.45,1);
 }
 );
@@ -13707,7 +13643,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.4,1);
 }
 );
@@ -13828,7 +13764,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.4,1);
 }
 );
@@ -13917,7 +13853,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.4,1);
 }
 );
@@ -14276,7 +14212,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.48,1);
 }
 );
@@ -14319,7 +14255,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.48,1);
 }
 );
@@ -14356,7 +14292,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.48,1);
 }
 );
@@ -14465,7 +14401,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.45,1);
 }
 );
@@ -14537,7 +14473,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.45,1);
 }
 );
@@ -14589,7 +14525,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.45,1);
 }
 );
@@ -15040,7 +14976,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.32,1);
 }
 );
@@ -15088,7 +15024,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.32,1);
 }
 );
@@ -15179,7 +15115,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.32,1);
 }
 );
@@ -15188,7 +15124,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.32,1);
 }
 );
@@ -15199,7 +15135,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.32,1);
 }
 );
@@ -15247,7 +15183,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.32,1);
 }
 );
@@ -15316,7 +15252,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.59,1);
 }
 );
@@ -15361,7 +15297,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.59,1);
 }
 );
@@ -15394,7 +15330,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.59,1);
 }
 );
@@ -27691,7 +27627,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.43,1);
 },
 {
@@ -27843,7 +27779,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.43,1);
 }
 );
@@ -27865,7 +27801,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.43,1);
 },
 {
@@ -30511,7 +30447,7 @@ ref = _conect.left.long;
 {
 alignment = -1;
 pos = (183,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.33,1);
 }
 );
@@ -30640,7 +30576,7 @@ ref = _conect.left.long;
 {
 alignment = -1;
 pos = (183,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.33,1);
 }
 );
@@ -30716,7 +30652,7 @@ ref = _conect.left.long;
 {
 alignment = -1;
 pos = (183,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.33,1);
 }
 );
@@ -32555,7 +32491,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.36,1);
 },
 {
@@ -35106,7 +35042,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.62,1);
 }
 );
@@ -35145,7 +35081,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.62,1);
 }
 );
@@ -35178,7 +35114,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.62,1);
 }
 );
@@ -40748,7 +40684,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6207,1);
 }
 );
@@ -40793,7 +40729,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6207,1);
 }
 );
@@ -40826,7 +40762,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6207,1);
 }
 );
@@ -42959,7 +42895,7 @@ width = 540;
 color = 2;
 glyphname = oacute.init;
 kernLeft = init.redonda;
-lastChange = "2024-12-06 11:29:02 +0000";
+lastChange = "2025-04-07 10:18:00 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -43016,7 +42952,7 @@ shapes = (
 ref = o.init;
 },
 {
-pos = (154,59);
+pos = (336,59);
 ref = acutecomb;
 }
 );
@@ -43028,7 +42964,7 @@ width = 540;
 color = 2;
 glyphname = odieresis.init;
 kernLeft = init.redonda;
-lastChange = "2024-12-06 11:29:02 +0000";
+lastChange = "2025-04-07 10:18:00 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -43085,7 +43021,7 @@ shapes = (
 ref = o.init;
 },
 {
-pos = (23,59);
+pos = (205,59);
 ref = dieresiscomb;
 }
 );
@@ -43097,7 +43033,7 @@ width = 540;
 color = 2;
 glyphname = ograve.init;
 kernLeft = init.redonda;
-lastChange = "2024-12-06 11:29:02 +0000";
+lastChange = "2025-04-07 10:18:00 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -43154,7 +43090,7 @@ shapes = (
 ref = o.init;
 },
 {
-pos = (34,59);
+pos = (216,59);
 ref = gravecomb;
 }
 );
@@ -43166,7 +43102,7 @@ width = 540;
 color = 2;
 glyphname = oslash.init;
 kernLeft = init.redonda;
-lastChange = "2024-12-06 11:29:02 +0000";
+lastChange = "2025-04-07 10:18:00 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -43227,7 +43163,7 @@ shapes = (
 ref = o.init;
 },
 {
-pos = (-180,0);
+pos = (2,0);
 ref = slashlongcomb;
 }
 );
@@ -43237,6 +43173,7 @@ width = 540;
 },
 {
 glyphname = otilde.init;
+lastChange = "2025-04-07 10:18:17 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -43284,7 +43221,7 @@ shapes = (
 ref = o.init;
 },
 {
-pos = (0,59);
+pos = (182,59);
 ref = tildecomb;
 }
 );
@@ -46905,7 +46842,7 @@ width = 673;
 color = 3;
 glyphname = oacute.isol;
 kernLeft = init.redonda;
-lastChange = "2024-12-06 11:29:07 +0000";
+lastChange = "2025-04-07 10:18:17 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -46962,7 +46899,7 @@ shapes = (
 ref = o.isol;
 },
 {
-pos = (154,59);
+pos = (336,59);
 ref = acutecomb;
 }
 );
@@ -46974,7 +46911,7 @@ width = 673;
 color = 3;
 glyphname = odieresis.isol;
 kernLeft = init.redonda;
-lastChange = "2024-12-06 11:29:07 +0000";
+lastChange = "2025-04-07 10:18:17 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -47031,7 +46968,7 @@ shapes = (
 ref = o.isol;
 },
 {
-pos = (23,59);
+pos = (205,59);
 ref = dieresiscomb;
 }
 );
@@ -47043,7 +46980,7 @@ width = 673;
 color = 3;
 glyphname = ograve.isol;
 kernLeft = init.redonda;
-lastChange = "2024-12-06 11:29:07 +0000";
+lastChange = "2025-04-07 10:18:17 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -47100,7 +47037,7 @@ shapes = (
 ref = o.isol;
 },
 {
-pos = (34,59);
+pos = (216,59);
 ref = gravecomb;
 }
 );
@@ -47112,7 +47049,7 @@ width = 673;
 color = 3;
 glyphname = oslash.isol;
 kernLeft = init.redonda;
-lastChange = "2024-12-06 11:29:07 +0000";
+lastChange = "2025-04-07 10:18:17 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -47173,7 +47110,7 @@ shapes = (
 ref = o.isol;
 },
 {
-pos = (-180,0);
+pos = (2,0);
 ref = slashlongcomb;
 }
 );
@@ -47183,6 +47120,7 @@ width = 673;
 },
 {
 glyphname = otilde.isol;
+lastChange = "2025-04-07 10:18:17 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -47230,7 +47168,7 @@ shapes = (
 ref = o.isol;
 },
 {
-pos = (0,59);
+pos = (182,59);
 ref = tildecomb;
 }
 );
@@ -49743,7 +49681,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7137,1);
 }
 );
@@ -49903,7 +49841,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7137,1);
 }
 );
@@ -50006,7 +49944,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7137,1);
 }
 );
@@ -50760,7 +50698,7 @@ ref = _conect.from.bottom.long;
 {
 alignment = -1;
 pos = (202,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.341,1);
 }
 );
@@ -50830,7 +50768,7 @@ ref = _conect.from.bottom.long;
 {
 alignment = -1;
 pos = (202,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.341,1);
 }
 );
@@ -50877,7 +50815,7 @@ ref = _conect.from.bottom.long;
 {
 alignment = -1;
 pos = (202,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.341,1);
 }
 );
@@ -55475,7 +55413,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6644,1);
 }
 );
@@ -55594,7 +55532,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6644,1);
 }
 );
@@ -55668,7 +55606,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6644,1);
 }
 );
@@ -56360,7 +56298,7 @@ ref = _conect.left.long.o;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7369,1);
 }
 );
@@ -56428,7 +56366,7 @@ ref = _conect.left.long.o;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7369,1);
 }
 );
@@ -56473,7 +56411,7 @@ ref = _conect.left.long.o;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7369,1);
 }
 );
@@ -60701,7 +60639,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.497,1);
 }
 );
@@ -60824,7 +60762,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.497,1);
 }
 );
@@ -60903,7 +60841,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.497,1);
 }
 );
@@ -61541,7 +61479,7 @@ ref = _conect.from.top.i;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4626,1);
 }
 );
@@ -61609,7 +61547,7 @@ ref = _conect.from.top.i;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4626,1);
 }
 );
@@ -61654,7 +61592,7 @@ ref = _conect.from.top.i;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4626,1);
 }
 );
@@ -79861,7 +79799,7 @@ ref = _conect.from.base.long.to.i;
 {
 alignment = -1;
 pos = (235,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3737,1);
 }
 );
@@ -79930,7 +79868,7 @@ ref = _conect.from.base.long.to.i;
 {
 alignment = -1;
 pos = (235,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3737,1);
 }
 );
@@ -79976,7 +79914,7 @@ ref = _conect.from.base.long.to.i;
 {
 alignment = -1;
 pos = (235,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3737,1);
 }
 );
@@ -87807,7 +87745,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.35,1);
 },
 {
@@ -87895,7 +87833,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.35,1);
 }
 );
@@ -87906,7 +87844,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.35,1);
 },
 {
@@ -88014,7 +87952,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.83,1);
 },
 {
@@ -88122,7 +88060,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.83,1);
 }
 );
@@ -88166,7 +88104,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.83,1);
 },
 {
@@ -88600,7 +88538,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.18,1);
 },
 {
@@ -89035,7 +88973,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.18,1);
 }
 );
@@ -89232,7 +89170,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.18,1);
 },
 {
@@ -89685,7 +89623,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.08,1);
 },
 {
@@ -90135,7 +90073,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.08,1);
 }
 );
@@ -90338,7 +90276,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.08,1);
 },
 {
@@ -90488,7 +90426,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.33,1);
 },
 {
@@ -90629,7 +90567,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.33,1);
 }
 );
@@ -90684,7 +90622,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.33,1);
 },
 {
@@ -90828,7 +90766,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.12,1);
 },
 {
@@ -90963,7 +90901,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.12,1);
 }
 );
@@ -91016,7 +90954,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.12,1);
 },
 {
@@ -91175,7 +91113,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.1845,1);
 }
 );
@@ -91258,7 +91196,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.1845,1);
 }
 );
@@ -91335,7 +91273,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.1845,1);
 }
 );
@@ -91487,7 +91425,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.14,1);
 },
 {
@@ -91674,7 +91612,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.14,1);
 }
 );
@@ -91731,7 +91669,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.14,1);
 },
 {
@@ -92231,7 +92169,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2,1);
 },
 {
@@ -92720,7 +92658,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2,1);
 }
 );
@@ -92931,7 +92869,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2,1);
 },
 {
@@ -93056,7 +92994,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.14,1);
 },
 {
@@ -93163,7 +93101,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.14,1);
 }
 );
@@ -93204,7 +93142,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.14,1);
 },
 {
@@ -93320,7 +93258,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.17,1);
 },
 {
@@ -93434,7 +93372,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.17,1);
 }
 );
@@ -93480,7 +93418,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.17,1);
 },
 {
@@ -98575,7 +98513,7 @@ nodes = (
 },
 {
 pos = (-252,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.5042,1);
 }
 );
@@ -98606,7 +98544,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-486,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.399,1);
 }
 );
@@ -98630,7 +98568,7 @@ nodes = (
 },
 {
 pos = (-252,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.5042,1);
 }
 );
@@ -98684,7 +98622,7 @@ ref = two.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -98716,7 +98654,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -98742,7 +98680,7 @@ ref = two.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -98796,7 +98734,7 @@ ref = four.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -98828,7 +98766,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -98854,7 +98792,7 @@ ref = four.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -98908,7 +98846,7 @@ ref = four.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -98940,7 +98878,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -98966,7 +98904,7 @@ ref = four.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99020,7 +98958,7 @@ ref = eight.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99052,7 +98990,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99078,7 +99016,7 @@ ref = eight.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99132,7 +99070,7 @@ ref = eight.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99164,7 +99102,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99190,7 +99128,7 @@ ref = eight.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99244,7 +99182,7 @@ ref = eight.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99276,7 +99214,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99302,7 +99240,7 @@ ref = eight.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99356,7 +99294,7 @@ ref = eight.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99388,7 +99326,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -99414,7 +99352,7 @@ ref = eight.dnom;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.96,1);
 }
 );
@@ -100726,7 +100664,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-5,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5,1);
 }
 );
@@ -100742,7 +100680,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-5,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5,1);
 }
 );
@@ -100754,7 +100692,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-5,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5,1);
 }
 );
@@ -101258,7 +101196,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.57,1);
 }
 );
@@ -101331,7 +101269,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.57,1);
 }
 );
@@ -101392,7 +101330,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.57,1);
 }
 );
@@ -101512,7 +101450,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.61,1);
 }
 );
@@ -101608,7 +101546,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.61,1);
 }
 );
@@ -101665,7 +101603,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.61,1);
 }
 );
@@ -101728,7 +101666,7 @@ scale = (1.1961,1.1961);
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.52,1);
 }
 );
@@ -101771,7 +101709,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.52,1);
 }
 );
@@ -101808,7 +101746,7 @@ scale = (1.1961,1.1961);
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.52,1);
 }
 );
@@ -102040,7 +101978,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.21,1);
 }
 );
@@ -102152,7 +102090,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.46,1);
 }
 );
@@ -102189,7 +102127,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.46,1);
 }
 );
@@ -102246,7 +102184,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.46,1);
 }
 );
@@ -102344,7 +102282,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.46,1);
 }
 );
@@ -102405,7 +102343,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.46,1);
 }
 );
@@ -102473,7 +102411,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.46,1);
 }
 );
@@ -102551,7 +102489,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8908,1);
 },
 {
@@ -102661,7 +102599,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8908,1);
 }
 );
@@ -102726,7 +102664,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8908,1);
 }
 );
@@ -102870,7 +102808,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8891,1);
 }
 );
@@ -102968,7 +102906,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8891,1);
 }
 );
@@ -103054,7 +102992,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8891,1);
 }
 );
@@ -103432,7 +103370,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.61,1);
 }
 );
@@ -103487,7 +103425,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.61,1);
 }
 );
@@ -103536,7 +103474,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.61,1);
 }
 );
@@ -103683,7 +103621,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.16,1);
 }
 );
@@ -103782,7 +103720,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.16,1);
 }
 );
@@ -103875,7 +103813,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.16,1);
 }
 );
@@ -104059,7 +103997,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.67,1);
 }
 );
@@ -104184,7 +104122,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.67,1);
 }
 );
@@ -104303,7 +104241,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.67,1);
 }
 );
@@ -104370,7 +104308,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9167,1);
 }
 );
@@ -104417,7 +104355,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9167,1);
 }
 );
@@ -104458,7 +104396,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9167,1);
 }
 );
@@ -104525,7 +104463,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8656,1);
 }
 );
@@ -104572,7 +104510,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8656,1);
 }
 );
@@ -104613,7 +104551,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8656,1);
 }
 );
@@ -104808,7 +104746,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6789,1);
 }
 );
@@ -104855,7 +104793,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6789,1);
 }
 );
@@ -104896,7 +104834,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6789,1);
 }
 );
@@ -104974,7 +104912,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.08,1);
 }
 );
@@ -105032,7 +104970,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.08,1);
 }
 );
@@ -105073,7 +105011,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.08,1);
 }
 );
@@ -105151,7 +105089,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.52,1);
 }
 );
@@ -105209,7 +105147,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.52,1);
 }
 );
@@ -105250,7 +105188,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.52,1);
 }
 );
@@ -105317,7 +105255,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8763,1);
 }
 );
@@ -105364,7 +105302,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8763,1);
 }
 );
@@ -105405,7 +105343,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8763,1);
 }
 );
@@ -105507,7 +105445,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-10,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7178,1);
 }
 );
@@ -105582,7 +105520,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-10,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7178,1);
 }
 );
@@ -105634,7 +105572,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-10,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7178,1);
 }
 );
@@ -105846,7 +105784,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6349,1);
 }
 );
@@ -105929,7 +105867,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6349,1);
 }
 );
@@ -106000,7 +105938,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6349,1);
 }
 );
@@ -106242,7 +106180,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7972,1);
 }
 );
@@ -106341,7 +106279,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7972,1);
 }
 );
@@ -106434,7 +106372,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7972,1);
 }
 );
@@ -106651,7 +106589,7 @@ ref = comma;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9273,1);
 }
 );
@@ -106693,7 +106631,7 @@ ref = comma;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9273,1);
 }
 );
@@ -106722,7 +106660,7 @@ ref = comma;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9273,1);
 }
 );
@@ -106794,7 +106732,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8171,1);
 }
 );
@@ -106825,7 +106763,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8171,1);
 }
 );
@@ -106877,7 +106815,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8171,1);
 }
 );
@@ -106934,7 +106872,7 @@ ref = quoteright;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8068,1);
 }
 );
@@ -106982,7 +106920,7 @@ ref = quoteright;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8068,1);
 }
 );
@@ -107015,7 +106953,7 @@ ref = quoteright;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8068,1);
 }
 );
@@ -107071,7 +107009,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5446,1);
 }
 );
@@ -107102,7 +107040,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5446,1);
 }
 );
@@ -107138,7 +107076,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5446,1);
 }
 );
@@ -107216,7 +107154,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.34,1);
 }
 );
@@ -107269,7 +107207,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.34,1);
 }
 );
@@ -107316,7 +107254,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.34,1);
 }
 );
@@ -107662,7 +107600,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7918,1);
 }
 );
@@ -107735,7 +107673,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7918,1);
 }
 );
@@ -107802,7 +107740,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7918,1);
 }
 );
@@ -107950,7 +107888,7 @@ ref = quoteright;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8479,1);
 }
 );
@@ -107998,7 +107936,7 @@ ref = quoteright;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8479,1);
 }
 );
@@ -108031,7 +107969,7 @@ ref = quoteright;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.8479,1);
 }
 );
@@ -108099,7 +108037,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5446,1);
 }
 );
@@ -108142,7 +108080,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5446,1);
 }
 );
@@ -108176,7 +108114,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5446,1);
 }
 );
@@ -108660,13 +108598,13 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5671,1);
 },
 {
 alignment = -1;
 pos = (559,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7203,1);
 }
 );
@@ -108823,13 +108761,13 @@ ref = _a.master;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5671,1);
 },
 {
 alignment = -1;
 pos = (559,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7203,1);
 }
 );
@@ -108910,13 +108848,13 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5671,1);
 },
 {
 alignment = -1;
 pos = (559,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7203,1);
 }
 );
@@ -109416,13 +109354,13 @@ ref = _final;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.4445,1);
 },
 {
 alignment = -1;
 pos = (852,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.0708,1);
 }
 );
@@ -109852,13 +109790,13 @@ ref = _final;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.4445,1);
 },
 {
 alignment = -1;
 pos = (852,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.0708,1);
 }
 );
@@ -110107,13 +110045,13 @@ ref = _final;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.4445,1);
 },
 {
 alignment = -1;
 pos = (852,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.0708,1);
 }
 );
@@ -110315,7 +110253,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.4015,1);
 }
 );
@@ -110458,7 +110396,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.4015,1);
 }
 );
@@ -110521,7 +110459,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.4015,1);
 }
 );
@@ -111045,7 +110983,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2224,1);
 }
 );
@@ -111493,7 +111431,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2224,1);
 }
 );
@@ -111778,7 +111716,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2224,1);
 }
 );
@@ -112010,7 +111948,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3081,1);
 }
 );
@@ -112188,7 +112126,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3081,1);
 }
 );
@@ -112303,7 +112241,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3081,1);
 }
 );
@@ -112441,7 +112379,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3094,1);
 }
 );
@@ -112515,7 +112453,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3094,1);
 }
 );
@@ -112583,7 +112521,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3094,1);
 }
 );
@@ -112791,7 +112729,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6083,1);
 }
 );
@@ -112908,7 +112846,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6083,1);
 }
 );
@@ -113011,7 +112949,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6083,1);
 }
 );
@@ -113099,7 +113037,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3,1);
 }
 );
@@ -113130,7 +113068,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.912,1);
 }
 );
@@ -113249,7 +113187,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3,1);
 }
 );
@@ -113258,7 +113196,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.912,1);
 }
 );
@@ -113309,7 +113247,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3,1);
 }
 );
@@ -113340,7 +113278,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.912,1);
 }
 );
@@ -113431,7 +113369,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5264,1);
 }
 );
@@ -113461,7 +113399,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5264,1);
 }
 );
@@ -113485,7 +113423,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5264,1);
 }
 );
@@ -113621,7 +113559,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5264,1);
 }
 );
@@ -113722,7 +113660,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5264,1);
 }
 );
@@ -113801,7 +113739,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5264,1);
 }
 );
@@ -113877,7 +113815,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.995,1);
 }
 );
@@ -113920,7 +113858,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.995,1);
 }
 );
@@ -113957,7 +113895,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.995,1);
 }
 );
@@ -114059,7 +113997,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.0836,1);
 }
 );
@@ -114115,7 +114053,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.0836,1);
 }
 );
@@ -114165,7 +114103,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.0836,1);
 }
 );
@@ -114370,7 +114308,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.8526,1);
 }
 );
@@ -114463,7 +114401,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.8526,1);
 }
 );
@@ -114585,7 +114523,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.8526,1);
 }
 );
@@ -114748,7 +114686,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9459,1);
 }
 );
@@ -114873,7 +114811,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9459,1);
 }
 );
@@ -114954,7 +114892,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9459,1);
 }
 );
@@ -115214,7 +115152,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3076,1);
 }
 );
@@ -115393,7 +115331,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3076,1);
 }
 );
@@ -115522,7 +115460,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3076,1);
 }
 );
@@ -116773,7 +116711,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.45,1);
 }
 );
@@ -116904,7 +116842,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.45,1);
 }
 );
@@ -117021,7 +116959,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.45,1);
 }
 );
@@ -117475,7 +117413,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3831,1);
 }
 );
@@ -117852,7 +117790,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3831,1);
 }
 );
@@ -118078,7 +118016,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3831,1);
 }
 );
@@ -118194,7 +118132,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -118268,7 +118206,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -118325,7 +118263,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -118467,7 +118405,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -118543,7 +118481,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -118613,7 +118551,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -118717,7 +118655,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.46,1);
 }
 );
@@ -118774,7 +118712,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.46,1);
 }
 );
@@ -118825,7 +118763,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.46,1);
 }
 );
@@ -118997,7 +118935,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.339,1);
 }
 );
@@ -119109,7 +119047,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.339,1);
 }
 );
@@ -119194,7 +119132,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.339,1);
 }
 );
@@ -119477,7 +119415,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -119538,7 +119476,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -119618,7 +119556,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.49,1);
 }
 );
@@ -119802,7 +119740,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-36,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 },
 {
@@ -119866,7 +119804,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-36,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 },
 {
@@ -119947,7 +119885,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -119973,7 +119911,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -120012,7 +119950,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -120062,7 +120000,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -120092,7 +120030,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -120116,7 +120054,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -120178,7 +120116,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.0116,1);
 }
 );
@@ -120205,7 +120143,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.0116,1);
 }
 );
@@ -120244,7 +120182,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.0116,1);
 }
 );
@@ -120448,7 +120386,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -120473,7 +120411,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -120512,7 +120450,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -120697,7 +120635,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2497,1);
 }
 );
@@ -120738,7 +120676,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2497,1);
 }
 );
@@ -120773,7 +120711,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2497,1);
 }
 );
@@ -120885,7 +120823,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -120910,7 +120848,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -120939,7 +120877,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -121008,7 +120946,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3092,1);
 }
 );
@@ -121030,7 +120968,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3092,1);
 }
 );
@@ -121081,7 +121019,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3092,1);
 }
 );
@@ -121155,7 +121093,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -121180,7 +121118,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -121233,7 +121171,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -121363,7 +121301,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3,1);
 }
 );
@@ -121436,7 +121374,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3,1);
 }
 );
@@ -121521,7 +121459,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3,1);
 }
 );
@@ -121595,7 +121533,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3,1);
 }
 );
@@ -121637,7 +121575,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3,1);
 }
 );
@@ -121673,7 +121611,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3,1);
 }
 );
@@ -121725,7 +121663,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3799,1);
 }
 );
@@ -121756,7 +121694,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3799,1);
 }
 );
@@ -121781,7 +121719,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3799,1);
 }
 );
@@ -121817,7 +121755,7 @@ scale = (1,-1);
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.43,1);
 }
 );
@@ -121840,7 +121778,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.43,1);
 }
 );
@@ -121857,7 +121795,7 @@ scale = (1,-1);
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.43,1);
 }
 );
@@ -122273,7 +122211,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.9408,1);
 }
 );
@@ -122644,7 +122582,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.9408,1);
 }
 );
@@ -122851,7 +122789,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.9408,1);
 }
 );
@@ -122915,7 +122853,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2,1);
 }
 );
@@ -122952,7 +122890,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2,1);
 }
 );
@@ -122983,7 +122921,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2,1);
 }
 );
@@ -123091,7 +123029,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6226,1);
 }
 );
@@ -123150,7 +123088,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6226,1);
 }
 );
@@ -123203,7 +123141,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6226,1);
 }
 );
@@ -123339,7 +123277,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2282,1);
 }
 );
@@ -123412,7 +123350,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2282,1);
 }
 );
@@ -123479,7 +123417,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.2282,1);
 }
 );
@@ -123557,7 +123495,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.1091,1);
 }
 );
@@ -123601,7 +123539,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.1091,1);
 }
 );
@@ -123639,7 +123577,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (2.1091,1);
 }
 );
@@ -123841,7 +123779,7 @@ ref = degree;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6822,1);
 }
 );
@@ -124008,7 +123946,7 @@ ref = degree;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6822,1);
 }
 );
@@ -124103,7 +124041,7 @@ ref = degree;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6822,1);
 }
 );
@@ -124255,7 +124193,7 @@ ref = degree;
 {
 alignment = -1;
 pos = (829,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7362,1);
 }
 );
@@ -124403,7 +124341,7 @@ ref = percent;
 {
 alignment = -1;
 pos = (829,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7362,1);
 }
 );
@@ -124482,7 +124420,7 @@ ref = degree;
 {
 alignment = -1;
 pos = (829,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7362,1);
 }
 );
@@ -124816,7 +124754,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.31,1);
 }
 );
@@ -124839,7 +124777,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.31,1);
 }
 );
@@ -124879,7 +124817,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.31,1);
 }
 );
@@ -125128,7 +125066,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.31,1);
 }
 );
@@ -125151,7 +125089,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.31,1);
 }
 );
@@ -125191,7 +125129,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.31,1);
 }
 );
@@ -125250,7 +125188,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.22,1);
 }
 );
@@ -125273,7 +125211,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.22,1);
 }
 );
@@ -125313,7 +125251,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.22,1);
 }
 );
@@ -125391,7 +125329,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.5481,1);
 }
 );
@@ -125435,7 +125373,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.5481,1);
 }
 );
@@ -125473,7 +125411,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.5481,1);
 }
 );
@@ -125532,7 +125470,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.22,1);
 }
 );
@@ -125555,7 +125493,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.22,1);
 }
 );
@@ -125595,7 +125533,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.22,1);
 }
 );
@@ -125765,7 +125703,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3114,1);
 }
 );
@@ -125793,7 +125731,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3114,1);
 }
 );
@@ -125862,7 +125800,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.3114,1);
 }
 );
@@ -125920,7 +125858,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6988,1);
 }
 );
@@ -125954,7 +125892,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6988,1);
 }
 );
@@ -125982,7 +125920,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.6988,1);
 }
 );
@@ -126026,7 +125964,7 @@ ref = greater;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -126052,7 +125990,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -126074,7 +126012,7 @@ ref = greater;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.42,1);
 }
 );
@@ -127534,7 +127472,7 @@ pos = (297,0);
 layerId = m004;
 shapes = (
 {
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.0385,1);
 }
 );
@@ -129445,7 +129383,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.592,1);
 }
 );
@@ -129593,7 +129531,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.592,1);
 }
 );
@@ -129618,7 +129556,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.592,1);
 }
 );
@@ -129651,7 +129589,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.592,1);
 }
 );
@@ -129661,18 +129599,14 @@ width = 296;
 },
 {
 glyphname = GDL;
-lastChange = "2025-04-07 08:09:31 +0000";
+lastChange = "2025-04-07 09:52:36 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
-},
-{
-alignment = -1;
-ref = _guideMontessori2;
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129682,11 +129616,11 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129696,11 +129630,11 @@ layerId = "F3447581-435E-44E2-ABAC-414C89955411";
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129710,11 +129644,11 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129724,11 +129658,67 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
+ref = _GuideLine;
+}
+);
+width = 500;
+}
+);
+},
+{
+glyphname = GDL.color;
+lastChange = "2025-04-07 10:03:03 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+alignment = -1;
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = "F3447581-435E-44E2-ABAC-414C89955411";
+shapes = (
+{
+alignment = -1;
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+ref = _GuideLine.color;
 }
 );
 width = 500;
@@ -129737,27 +129727,19 @@ width = 500;
 },
 {
 glyphname = GDL.end;
-lastChange = "2025-04-07 08:19:52 +0000";
+lastChange = "2025-04-07 10:03:50 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+pos = (493,0);
+ref = _GuideLine.end.start.base;
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
-},
-{
-closed = 1;
-nodes = (
-(493,-370,l),
-(500,-370,l),
-(500,780,l),
-(493,780,l)
-);
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129767,20 +129749,12 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+pos = (493,0);
+ref = _GuideLine.end.start.base;
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
-},
-{
-closed = 1;
-nodes = (
-(493,-370,l),
-(500,-370,l),
-(500,780,l),
-(493,780,l)
-);
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129790,20 +129764,12 @@ layerId = "F3447581-435E-44E2-ABAC-414C89955411";
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+pos = (493,0);
+ref = _GuideLine.end.start.base;
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
-},
-{
-closed = 1;
-nodes = (
-(493,-370,l),
-(500,-370,l),
-(500,780,l),
-(493,780,l)
-);
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129813,20 +129779,12 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+pos = (493,0);
+ref = _GuideLine.end.start.base;
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
-},
-{
-closed = 1;
-nodes = (
-(493,-370,l),
-(500,-370,l),
-(500,780,l),
-(493,780,l)
-);
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129836,20 +129794,12 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+pos = (493,0);
+ref = _GuideLine.end.start.base;
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
-},
-{
-closed = 1;
-nodes = (
-(493,-370,l),
-(500,-370,l),
-(500,780,l),
-(493,780,l)
-);
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129858,27 +129808,19 @@ width = 500;
 },
 {
 glyphname = GDL.start;
-lastChange = "2025-04-07 08:20:02 +0000";
+lastChange = "2025-04-07 10:04:25 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
-alignment = -1;
-ref = _guideMontessori1;
+pos = (7,0);
+ref = _GuideLine.end.start.base;
+scale = (-1,1);
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
-},
-{
-closed = 1;
-nodes = (
-(0,-370,l),
-(7,-370,l),
-(7,780,l),
-(0,780,l)
-);
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129887,21 +129829,13 @@ width = 500;
 layerId = m002;
 shapes = (
 {
-alignment = -1;
-ref = _guideMontessori1;
+pos = (7,0);
+ref = _GuideLine.end.start.base;
+scale = (-1,1);
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
-},
-{
-closed = 1;
-nodes = (
-(0,-370,l),
-(7,-370,l),
-(7,780,l),
-(0,780,l)
-);
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129910,21 +129844,13 @@ width = 500;
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
 shapes = (
 {
-alignment = -1;
-ref = _guideMontessori1;
+pos = (7,0);
+ref = _GuideLine.end.start.base;
+scale = (-1,1);
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
-},
-{
-closed = 1;
-nodes = (
-(0,-370,l),
-(7,-370,l),
-(7,780,l),
-(0,780,l)
-);
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129933,21 +129859,13 @@ width = 500;
 layerId = m005;
 shapes = (
 {
-alignment = -1;
-ref = _guideMontessori1;
+pos = (7,0);
+ref = _GuideLine.end.start.base;
+scale = (-1,1);
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
-},
-{
-closed = 1;
-nodes = (
-(0,-370,l),
-(7,-370,l),
-(7,780,l),
-(0,780,l)
-);
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -129956,21 +129874,13 @@ width = 500;
 layerId = m004;
 shapes = (
 {
-alignment = -1;
-ref = _guideMontessori1;
+pos = (7,0);
+ref = _GuideLine.end.start.base;
+scale = (-1,1);
 },
 {
 alignment = -1;
-ref = _guideMontessori2;
-},
-{
-closed = 1;
-nodes = (
-(0,-370,l),
-(7,-370,l),
-(7,780,l),
-(0,780,l)
-);
+ref = _GuideLine;
 }
 );
 width = 500;
@@ -130104,6 +130014,380 @@ width = 358;
 );
 },
 {
+glyphname = GDL.end.color;
+lastChange = "2025-04-07 10:05:10 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+alignment = -1;
+pos = (493,0);
+ref = _GuideLine.end.start.base;
+},
+{
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (493,0);
+ref = _GuideLine.end.start.base;
+},
+{
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = "F3447581-435E-44E2-ABAC-414C89955411";
+shapes = (
+{
+alignment = -1;
+pos = (493,0);
+ref = _GuideLine.end.start.base;
+},
+{
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+pos = (493,0);
+ref = _GuideLine.end.start.base;
+},
+{
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (493,0);
+ref = _GuideLine.end.start.base;
+},
+{
+ref = _GuideLine.color;
+}
+);
+width = 500;
+}
+);
+},
+{
+glyphname = GDL.start.color;
+lastChange = "2025-04-07 10:05:40 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+alignment = -1;
+pos = (7,0);
+ref = _GuideLine.end.start.base;
+scale = (-1,1);
+},
+{
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (7,0);
+ref = _GuideLine.end.start.base;
+scale = (-1,1);
+},
+{
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = "F3447581-435E-44E2-ABAC-414C89955411";
+shapes = (
+{
+alignment = -1;
+pos = (7,0);
+ref = _GuideLine.end.start.base;
+scale = (-1,1);
+},
+{
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+pos = (7,0);
+ref = _GuideLine.end.start.base;
+scale = (-1,1);
+},
+{
+ref = _GuideLine.color;
+}
+);
+width = 500;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (7,0);
+ref = _GuideLine.end.start.base;
+scale = (-1,1);
+},
+{
+ref = _GuideLine.color;
+}
+);
+width = 500;
+}
+);
+},
+{
+export = 0;
+glyphname = _GuideLine;
+lastChange = "2025-04-07 09:58:42 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-7,l),
+(500,-7,l),
+(500,11,l),
+(0,11,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(500,-370,l),
+(500,-363,l),
+(0,-363,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,417,l),
+(500,417,l),
+(500,424,l),
+(0,424,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,773,l),
+(500,773,l),
+(500,780,l),
+(0,780,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-7,l),
+(500,-7,l),
+(500,11,l),
+(0,11,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(500,-370,l),
+(500,-363,l),
+(0,-363,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,417,l),
+(500,417,l),
+(500,424,l),
+(0,424,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,773,l),
+(500,773,l),
+(500,780,l),
+(0,780,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = "F3447581-435E-44E2-ABAC-414C89955411";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-7,l),
+(500,-7,l),
+(500,11,l),
+(0,11,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(500,-370,l),
+(500,-363,l),
+(0,-363,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,417,l),
+(500,417,l),
+(500,424,l),
+(0,424,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,773,l),
+(500,773,l),
+(500,780,l),
+(0,780,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-7,l),
+(500,-7,l),
+(500,11,l),
+(0,11,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(500,-370,l),
+(500,-363,l),
+(0,-363,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,417,l),
+(500,417,l),
+(500,424,l),
+(0,424,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,773,l),
+(500,773,l),
+(500,780,l),
+(0,780,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-7,l),
+(500,-7,l),
+(500,11,l),
+(0,11,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(500,-370,l),
+(500,-363,l),
+(0,-363,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,417,l),
+(500,417,l),
+(500,424,l),
+(0,424,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,773,l),
+(500,773,l),
+(500,780,l),
+(0,780,l)
+);
+}
+);
+width = 500;
+}
+);
+},
+{
 export = 0;
 glyphname = _arco1;
 lastChange = "2024-12-06 09:22:03 +0000";
@@ -130191,7 +130475,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.19,1);
 }
 );
@@ -130264,7 +130548,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.19,1);
 }
 );
@@ -130311,7 +130595,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.19,1);
 }
 );
@@ -130425,7 +130709,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.468,1);
 }
 );
@@ -130513,7 +130797,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.468,1);
 }
 );
@@ -130569,7 +130853,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.468,1);
 }
 );
@@ -130677,7 +130961,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.468,1);
 }
 );
@@ -130759,7 +131043,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.468,1);
 }
 );
@@ -130812,7 +131096,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.468,1);
 }
 );
@@ -130898,7 +131182,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.59,1);
 }
 );
@@ -130959,7 +131243,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.59,1);
 }
 );
@@ -131001,7 +131285,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.59,1);
 }
 );
@@ -131071,7 +131355,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.472,1);
 }
 );
@@ -131118,7 +131402,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.472,1);
 }
 );
@@ -131152,7 +131436,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.472,1);
 }
 );
@@ -131244,7 +131528,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2948,1);
 }
 );
@@ -131313,7 +131597,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2948,1);
 }
 );
@@ -131358,7 +131642,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2948,1);
 }
 );
@@ -131368,8 +131652,8 @@ width = 147;
 },
 {
 export = 0;
-glyphname = _guideMontessori1;
-lastChange = "2024-12-23 09:46:49 +0000";
+glyphname = _GuideLine.color;
+lastChange = "2025-04-07 09:59:55 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -131379,44 +131663,8 @@ closed = 1;
 nodes = (
 (0,-7,l),
 (500,-7,l),
-(500,11,l),
-(0,11,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,417,l),
-(500,417,l),
 (500,424,l),
 (0,424,l)
-);
-},
-{
-ref = _guideMontessori2;
-}
-);
-width = 500;
-},
-{
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,-7,l),
-(500,-7,l),
-(500,11,l),
-(0,11,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,773,l),
-(500,773,l),
-(500,780,l),
-(0,780,l)
 );
 },
 {
@@ -131431,10 +131679,43 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(0,417,l),
-(500,417,l),
+(0,773,l),
+(500,773,l),
+(500,780,l),
+(0,780,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-7,l),
+(500,-7,l),
 (500,424,l),
 (0,424,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(500,-370,l),
+(500,-363,l),
+(0,-363,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,773,l),
+(500,773,l),
+(500,780,l),
+(0,780,l)
 );
 }
 );
@@ -131448,20 +131729,26 @@ closed = 1;
 nodes = (
 (0,-7,l),
 (500,-7,l),
-(500,11,l),
-(0,11,l)
+(500,424,l),
+(0,424,l)
 );
-},
-{
-ref = _guideMontessori2;
 },
 {
 closed = 1;
 nodes = (
-(0,417,l),
-(500,417,l),
-(500,424,l),
-(0,424,l)
+(0,-370,l),
+(500,-370,l),
+(500,-363,l),
+(0,-363,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,773,l),
+(500,773,l),
+(500,780,l),
+(0,780,l)
 );
 }
 );
@@ -131475,26 +131762,8 @@ closed = 1;
 nodes = (
 (0,-7,l),
 (500,-7,l),
-(500,11,l),
-(0,11,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,414,l),
-(500,414,l),
-(500,421,l),
-(0,421,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,773,l),
-(500,773,l),
-(500,780,l),
-(0,780,l)
+(500,424,l),
+(0,424,l)
 );
 },
 {
@@ -131504,6 +131773,15 @@ nodes = (
 (500,-370,l),
 (500,-363,l),
 (0,-363,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,773,l),
+(500,773,l),
+(500,780,l),
+(0,780,l)
 );
 }
 );
@@ -131517,58 +131795,9 @@ closed = 1;
 nodes = (
 (0,-7,l),
 (500,-7,l),
-(500,11,l),
-(0,11,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,773,l),
-(500,773,l),
-(500,780,l),
-(0,780,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,-370,l),
-(500,-370,l),
-(500,-363,l),
-(0,-363,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,417,l),
-(500,417,l),
 (500,424,l),
 (0,424,l)
 );
-}
-);
-width = 500;
-}
-);
-},
-{
-export = 0;
-glyphname = _guideMontessori2;
-lastChange = "2024-12-06 09:22:03 +0000";
-layers = (
-{
-layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,773,l),
-(500,773,l),
-(500,780,l),
-(0,780,l)
-);
 },
 {
 closed = 1;
@@ -131578,13 +131807,7 @@ nodes = (
 (500,-363,l),
 (0,-363,l)
 );
-}
-);
-width = 500;
 },
-{
-layerId = m002;
-shapes = (
 {
 closed = 1;
 nodes = (
@@ -131592,87 +131815,6 @@ nodes = (
 (500,773,l),
 (500,780,l),
 (0,780,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,-370,l),
-(500,-370,l),
-(500,-363,l),
-(0,-363,l)
-);
-}
-);
-width = 500;
-},
-{
-layerId = "F3447581-435E-44E2-ABAC-414C89955411";
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,773,l),
-(500,773,l),
-(500,780,l),
-(0,780,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,-370,l),
-(500,-370,l),
-(500,-363,l),
-(0,-363,l)
-);
-}
-);
-width = 500;
-},
-{
-layerId = m004;
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,773,l),
-(500,773,l),
-(500,780,l),
-(0,780,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,-370,l),
-(500,-370,l),
-(500,-363,l),
-(0,-363,l)
-);
-}
-);
-width = 500;
-},
-{
-layerId = m005;
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,773,l),
-(500,773,l),
-(500,780,l),
-(0,780,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,-370,l),
-(500,-370,l),
-(500,-363,l),
-(0,-363,l)
 );
 }
 );
@@ -131997,7 +132139,7 @@ nodes = (
 {
 alignment = -1;
 pos = (238,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.542,1);
 }
 );
@@ -132068,7 +132210,7 @@ ref = _a.master.init;
 {
 alignment = -1;
 pos = (236,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.542,1);
 }
 );
@@ -132123,7 +132265,7 @@ nodes = (
 {
 alignment = -1;
 pos = (253,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.542,1);
 }
 );
@@ -133488,7 +133630,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.256,1);
 }
 );
@@ -133570,7 +133712,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.256,1);
 }
 );
@@ -133624,7 +133766,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.256,1);
 }
 );
@@ -133682,7 +133824,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1524,1);
 }
 );
@@ -133716,7 +133858,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1524,1);
 }
 );
@@ -133744,7 +133886,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1524,1);
 }
 );
@@ -133856,7 +133998,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7625,1);
 }
 );
@@ -133925,7 +134067,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7625,1);
 }
 );
@@ -133980,7 +134122,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7625,1);
 }
 );
@@ -134239,7 +134381,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2413,1);
 }
 );
@@ -134308,7 +134450,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2413,1);
 }
 );
@@ -134353,7 +134495,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2413,1);
 }
 );
@@ -134563,7 +134705,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3203,1);
 }
 );
@@ -134743,13 +134885,13 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.206,1);
 },
 {
 alignment = -1;
 pos = (-140,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.319,1);
 }
 );
@@ -134844,13 +134986,13 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.206,1);
 },
 {
 alignment = -1;
 pos = (-140,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.319,1);
 }
 );
@@ -134861,7 +135003,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.206,1);
 }
 );
@@ -134893,13 +135035,13 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.206,1);
 },
 {
 alignment = -1;
 pos = (-140,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.319,1);
 }
 );
@@ -135045,7 +135187,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.376,1);
 }
 );
@@ -135162,7 +135304,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.376,1);
 }
 );
@@ -135231,7 +135373,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.376,1);
 }
 );
@@ -135317,7 +135459,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.66,1);
 }
 );
@@ -135378,7 +135520,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.66,1);
 }
 );
@@ -135420,7 +135562,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.66,1);
 }
 );
@@ -135472,7 +135614,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.0812,1);
 }
 );
@@ -135505,7 +135647,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.0812,1);
 }
 );
@@ -135530,7 +135672,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.0812,1);
 }
 );
@@ -135623,7 +135765,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.36,1);
 }
 );
@@ -135693,7 +135835,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.36,1);
 }
 );
@@ -135719,7 +135861,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.36,1);
 }
 );
@@ -135758,7 +135900,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.36,1);
 }
 );
@@ -135839,7 +135981,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-2,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.267,1);
 }
 );
@@ -135898,7 +136040,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-2,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.267,1);
 }
 );
@@ -135938,7 +136080,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-2,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.267,1);
 }
 );
@@ -136184,7 +136326,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.317,1);
 }
 );
@@ -136293,7 +136435,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.317,1);
 }
 );
@@ -136361,7 +136503,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.317,1);
 }
 );
@@ -136501,7 +136643,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2904,1);
 }
 );
@@ -136608,7 +136750,7 @@ ref = _bucle.ascendente;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2904,1);
 }
 );
@@ -136677,7 +136819,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2904,1);
 }
 );
@@ -136921,7 +137063,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.766,1);
 }
 );
@@ -136992,7 +137134,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.766,1);
 }
 );
@@ -137057,7 +137199,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.766,1);
 }
 );
@@ -137290,7 +137432,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.284,1);
 }
 );
@@ -137338,7 +137480,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.284,1);
 }
 );
@@ -137380,7 +137522,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.284,1);
 }
 );
@@ -137568,7 +137710,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.374,1);
 }
 );
@@ -137662,7 +137804,7 @@ ref = _bucle.ascendente;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.374,1);
 }
 );
@@ -137719,7 +137861,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.374,1);
 }
 );
@@ -138159,7 +138301,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.72,1);
 }
 );
@@ -138313,7 +138455,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.72,1);
 }
 );
@@ -138405,7 +138547,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.72,1);
 }
 );
@@ -138557,7 +138699,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.01,1);
 }
 );
@@ -138660,7 +138802,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.01,1);
 }
 );
@@ -138735,7 +138877,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (1.01,1);
 }
 );
@@ -138827,7 +138969,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.508,1);
 }
 );
@@ -138878,7 +139020,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.508,1);
 }
 );
@@ -138923,7 +139065,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.508,1);
 }
 );
@@ -139027,7 +139169,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2619,1);
 }
 );
@@ -139106,7 +139248,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2619,1);
 }
 );
@@ -139157,7 +139299,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2619,1);
 }
 );
@@ -139385,7 +139527,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.598,1);
 }
 );
@@ -139478,7 +139620,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.598,1);
 }
 );
@@ -139539,7 +139681,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.598,1);
 }
 );
@@ -139810,7 +139952,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5434,1);
 }
 );
@@ -139934,7 +140076,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5434,1);
 }
 );
@@ -140015,7 +140157,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5434,1);
 }
 );
@@ -140107,7 +140249,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3318,1);
 }
 );
@@ -140163,7 +140305,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3318,1);
 }
 );
@@ -140208,7 +140350,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3318,1);
 }
 );
@@ -140264,7 +140406,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.22,1);
 }
 );
@@ -140297,7 +140439,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.22,1);
 }
 );
@@ -140324,7 +140466,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.22,1);
 }
 );
@@ -140452,7 +140594,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.542,1);
 }
 );
@@ -140539,7 +140681,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.542,1);
 }
 );
@@ -140602,7 +140744,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.542,1);
 }
 );
@@ -140738,7 +140880,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.64,1);
 }
 );
@@ -140845,7 +140987,7 @@ ref = _arco.v;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.64,1);
 }
 );
@@ -140912,7 +141054,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.64,1);
 }
 );
@@ -141264,7 +141406,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6995,1);
 }
 );
@@ -141431,7 +141573,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6995,1);
 }
 );
@@ -141535,7 +141677,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6995,1);
 }
 );
@@ -141783,7 +141925,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6153,1);
 },
 {
@@ -141981,7 +142123,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6153,1);
 }
 );
@@ -142044,7 +142186,7 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6153,1);
 },
 {
@@ -142186,7 +142328,7 @@ ref = _a.master;
 {
 alignment = -1;
 pos = (69,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (-0.1389,1);
 }
 );
@@ -142247,7 +142389,7 @@ ref = _a.master;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1223,1);
 }
 );
@@ -142382,7 +142524,7 @@ ref = _bucle.ascendente;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.284,1);
 }
 );
@@ -142462,7 +142604,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.284,1);
 }
 );
@@ -142514,7 +142656,7 @@ ref = _bucle.ascendente;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.284,1);
 }
 );
@@ -142638,7 +142780,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.26,1);
 }
 );
@@ -142731,7 +142873,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.26,1);
 }
 );
@@ -142792,7 +142934,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.26,1);
 }
 );
@@ -143040,7 +143182,7 @@ ref = _c.master;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.17,1);
 }
 );
@@ -143141,7 +143283,7 @@ ref = _c.master;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.17,1);
 }
 );
@@ -143302,7 +143444,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.32,1);
 }
 );
@@ -143391,7 +143533,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.32,1);
 }
 );
@@ -143446,7 +143588,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.32,1);
 }
 );
@@ -143500,7 +143642,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3677,1);
 }
 );
@@ -143532,7 +143674,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3677,1);
 }
 );
@@ -143558,7 +143700,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3677,1);
 }
 );
@@ -143629,7 +143771,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-4,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1537,1);
 }
 );
@@ -143678,7 +143820,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-4,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1537,1);
 }
 );
@@ -143713,7 +143855,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-4,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1537,1);
 }
 );
@@ -143769,7 +143911,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.41,1);
 }
 );
@@ -143802,7 +143944,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.41,1);
 }
 );
@@ -143829,7 +143971,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.41,1);
 }
 );
@@ -143928,7 +144070,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.365,1);
 }
 );
@@ -144004,7 +144146,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.365,1);
 }
 );
@@ -144052,7 +144194,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.365,1);
 }
 );
@@ -144122,7 +144264,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.372,1);
 }
 );
@@ -144169,7 +144311,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.372,1);
 }
 );
@@ -144203,7 +144345,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.372,1);
 }
 );
@@ -144313,7 +144455,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3599,1);
 }
 );
@@ -144401,7 +144543,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3599,1);
 }
 );
@@ -144455,7 +144597,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3599,1);
 }
 );
@@ -144515,7 +144657,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.37,1);
 }
 );
@@ -144550,7 +144692,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.37,1);
 }
 );
@@ -144579,7 +144721,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.37,1);
 }
 );
@@ -144767,7 +144909,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.355,1);
 }
 );
@@ -144825,7 +144967,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.355,1);
 }
 );
@@ -144864,7 +145006,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.355,1);
 }
 );
@@ -144918,7 +145060,7 @@ ref = _bucle.decendente;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1146,1);
 }
 );
@@ -144968,7 +145110,7 @@ ref = _bucle.decendente;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1146,1);
 }
 );
@@ -145340,7 +145482,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4233,1);
 }
 );
@@ -145389,7 +145531,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4233,1);
 }
 );
@@ -145424,7 +145566,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4233,1);
 }
 );
@@ -145435,7 +145577,7 @@ width = 205;
 {
 export = 0;
 glyphname = _o.master.init;
-lastChange = "2024-12-11 13:11:30 +0000";
+lastChange = "2025-04-07 10:17:58 +0000";
 layers = (
 {
 anchors = (
@@ -145560,7 +145702,7 @@ ref = _o.master;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.17,1);
 }
 );
@@ -145673,23 +145815,23 @@ width = 360;
 anchors = (
 {
 name = bottom;
-pos = (117,0);
+pos = (299,0);
 },
 {
 name = center;
-pos = (117,180);
+pos = (299,180);
 },
 {
 name = ogonek;
-pos = (240,49);
+pos = (422,49);
 },
 {
 name = top;
-pos = (163,419);
+pos = (345,419);
 },
 {
 name = topright;
-pos = (373,360);
+pos = (385,360);
 }
 );
 background = {
@@ -145919,7 +146061,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-2,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.27,1);
 }
 );
@@ -145958,7 +146100,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-2,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.27,1);
 }
 );
@@ -145991,7 +146133,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-2,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.27,1);
 }
 );
@@ -146203,7 +146345,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.935,1);
 }
 );
@@ -146364,7 +146506,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.935,1);
 }
 );
@@ -146469,7 +146611,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.935,1);
 }
 );
@@ -146526,6 +146668,88 @@ ref = _s.master;
 }
 );
 width = 265;
+}
+);
+},
+{
+export = 0;
+glyphname = _GuideLine.end.start.base;
+lastChange = "2025-04-07 10:02:26 +0000";
+layers = (
+{
+layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
+}
+);
+width = 7;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
+}
+);
+width = 7;
+},
+{
+layerId = "F3447581-435E-44E2-ABAC-414C89955411";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
+}
+);
+width = 7;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
+}
+);
+width = 7;
+},
+{
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
+}
+);
+width = 7;
 }
 );
 },
@@ -146661,7 +146885,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3877,1);
 }
 );
@@ -146757,7 +146981,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3877,1);
 }
 );
@@ -146826,7 +147050,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3877,1);
 }
 );
@@ -146969,7 +147193,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9303,1);
 }
 );
@@ -147065,7 +147289,7 @@ ref = _brazo.b;
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9303,1);
 }
 );
@@ -147134,7 +147358,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.9303,1);
 }
 );
@@ -147220,7 +147444,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2662,1);
 }
 );
@@ -147284,7 +147508,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2662,1);
 }
 );
@@ -147326,7 +147550,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.2662,1);
 }
 );
@@ -147420,7 +147644,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5169,1);
 }
 );
@@ -147491,7 +147715,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5169,1);
 }
 );
@@ -147537,7 +147761,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5169,1);
 }
 );
@@ -147650,7 +147874,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-3,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4317,1);
 }
 );
@@ -147740,7 +147964,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-3,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4317,1);
 }
 );
@@ -147796,7 +148020,7 @@ nodes = (
 {
 alignment = -1;
 pos = (-3,0);
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4317,1);
 }
 );
@@ -147900,7 +148124,7 @@ width = 44;
 layerId = m004;
 shapes = (
 {
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.0874,1);
 }
 );
@@ -147993,7 +148217,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1529,1);
 }
 );
@@ -148034,7 +148258,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1529,1);
 }
 );
@@ -148061,7 +148285,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.1529,1);
 }
 );
@@ -148115,7 +148339,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4267,1);
 }
 );
@@ -148147,7 +148371,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4267,1);
 }
 );
@@ -148173,7 +148397,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.4267,1);
 }
 );
@@ -148337,7 +148561,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3976,1);
 }
 );
@@ -148458,7 +148682,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3976,1);
 }
 );
@@ -148539,7 +148763,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.3976,1);
 }
 );
@@ -149054,7 +149278,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7294,1);
 }
 );
@@ -149108,7 +149332,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7294,1);
 }
 );
@@ -149134,7 +149358,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7294,1);
 }
 );
@@ -149190,7 +149414,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5446,1);
 }
 );
@@ -149223,7 +149447,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5446,1);
 }
 );
@@ -149250,7 +149474,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5446,1);
 }
 );
@@ -149404,7 +149628,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6288,1);
 }
 );
@@ -149532,7 +149756,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6288,1);
 }
 );
@@ -149608,7 +149832,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.6288,1);
 }
 );
@@ -149668,7 +149892,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5806,1);
 }
 );
@@ -149703,7 +149927,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5806,1);
 }
 );
@@ -149732,7 +149956,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5806,1);
 }
 );
@@ -149824,7 +150048,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7843,1);
 }
 );
@@ -149891,7 +150115,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7843,1);
 }
 );
@@ -149936,7 +150160,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.7843,1);
 }
 );
@@ -150032,7 +150256,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5071,1);
 }
 );
@@ -150105,7 +150329,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5071,1);
 }
 );
@@ -150138,7 +150362,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.5071,1);
 }
 );
@@ -150218,7 +150442,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.505,1);
 }
 );
@@ -150276,7 +150500,7 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.505,1);
 }
 );
@@ -150315,7 +150539,7 @@ nodes = (
 },
 {
 alignment = -1;
-ref = _guideMontessori1;
+ref = _GuideLine;
 scale = (0.505,1);
 }
 );
