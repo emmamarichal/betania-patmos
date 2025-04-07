@@ -217,7 +217,7 @@ unicode = 41;
 },
 {
 glyphname = bracketleft;
-lastChange = "2025-04-04 13:59:44 +0000";
+lastChange = "2025-04-07 08:14:01 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -231,7 +231,13 @@ alignment = -1;
 ref = _guideMontessori2;
 },
 {
-ref = _guideMontessori3;
+closed = 1;
+nodes = (
+(0,-370,l),
+(7,-370,l),
+(7,780,l),
+(0,780,l)
+);
 }
 );
 width = 500;
