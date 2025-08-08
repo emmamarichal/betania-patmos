@@ -1,8 +1,9 @@
 {
-.appVersion = "3337";
+.appVersion = "3420";
 .formatVersion = 3;
 DisplayStrings = (
-"Hola ahí!"
+"Hola ahí!",
+"ò/_g.master/_g.master/_g.master/_g.master/_g.master/_g.master.init/_g.master.init/_g.master.init/_g.master.init/_g.master.init/_b.from.top.master"
 );
 axes = (
 {
@@ -40,6 +41,11 @@ value = 1;
 {
 name = "Enforce Compatibility Check";
 value = 0;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2024-12-06 09:21:47 +0000";
@@ -32451,7 +32457,7 @@ unicode = 246;
 {
 color = 0;
 glyphname = ograve;
-lastChange = "2024-12-06 11:28:51 +0000";
+lastChange = "2025-08-08 12:35:55 +0000";
 layers = (
 {
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
@@ -32501,6 +32507,7 @@ ref = _GuideLine;
 scale = (0.36,1);
 },
 {
+alignment = -1;
 pos = (180,0);
 ref = _o.master;
 }
@@ -137350,7 +137357,7 @@ width = 145;
 {
 export = 0;
 glyphname = _g.master;
-lastChange = "2024-12-06 09:22:03 +0000";
+lastChange = "2025-08-08 12:35:55 +0000";
 layers = (
 {
 anchors = (
@@ -137367,6 +137374,7 @@ pos = (-17,0);
 ref = _part.bucle;
 },
 {
+alignment = -1;
 pos = (271,0);
 ref = _bucle.decendente;
 }
@@ -137388,6 +137396,7 @@ pos = (-17,0);
 ref = _part.bucle;
 },
 {
+alignment = -1;
 pos = (271,0);
 ref = _bucle.decendente;
 }
@@ -137409,6 +137418,7 @@ pos = (-17,0);
 ref = _part.bucle;
 },
 {
+alignment = -1;
 pos = (271,0);
 ref = _bucle.decendente;
 }
@@ -137430,6 +137440,7 @@ pos = (-17,0);
 ref = _part.bucle;
 },
 {
+alignment = -1;
 pos = (271,0);
 ref = _bucle.decendente;
 }
@@ -137451,6 +137462,7 @@ pos = (-17,0);
 ref = _part.bucle;
 },
 {
+alignment = -1;
 pos = (271,0);
 ref = _bucle.decendente;
 }
@@ -145537,7 +145549,7 @@ width = 177;
 {
 export = 0;
 glyphname = _g.master.init;
-lastChange = "2024-12-06 09:54:41 +0000";
+lastChange = "2025-08-08 12:35:55 +0000";
 layers = (
 {
 anchors = (
@@ -145554,6 +145566,7 @@ pos = (55,0);
 ref = _part.bucle;
 },
 {
+alignment = -1;
 pos = (343,0);
 ref = _bucle.decendente;
 }
@@ -145575,6 +145588,7 @@ pos = (55,0);
 ref = _part.bucle;
 },
 {
+alignment = -1;
 pos = (343,0);
 ref = _bucle.decendente;
 },
@@ -145596,6 +145610,7 @@ pos = (330,419);
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
 shapes = (
 {
+alignment = -1;
 ref = _conect.left;
 },
 {
@@ -145604,6 +145619,7 @@ pos = (162,0);
 ref = _part.bucle;
 },
 {
+alignment = -1;
 pos = (449,0);
 ref = _bucle.decendente;
 }
@@ -145625,6 +145641,7 @@ pos = (55,0);
 ref = _part.bucle;
 },
 {
+alignment = -1;
 pos = (343,0);
 ref = _bucle.decendente;
 },
@@ -145650,10 +145667,12 @@ alignment = -1;
 ref = _conect.left;
 },
 {
+alignment = -1;
 pos = (164,0);
 ref = _part.bucle;
 },
 {
+alignment = -1;
 pos = (451,0);
 ref = _bucle.decendente;
 }
@@ -147581,7 +147600,7 @@ width = 189;
 {
 export = 0;
 glyphname = _b.from.top.master;
-lastChange = "2024-12-06 09:22:03 +0000";
+lastChange = "2025-08-08 12:35:55 +0000";
 layers = (
 {
 background = {
@@ -147804,6 +147823,7 @@ pos = (213,0);
 ref = _panza.b;
 },
 {
+alignment = -1;
 pos = (345,0);
 ref = _brazo.b;
 },
@@ -152046,7 +152066,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024 The Betania Patmos Project Authors (https://github.com/CaroGiovagnoli/betania-patmos)";
+value = "Copyright 2024 The Betania Patmos Project Authors (https://github.com/huertatipografica/betania-patmos)";
 }
 );
 },
@@ -152061,33 +152081,33 @@ value = "Carolina Giovagnoli";
 },
 {
 key = designerURL;
-value = www.huertatipografica.com;
+value = "https://www.huertatipografica.com";
 },
 {
 key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
 values = (
 {
 language = dflt;
-value = "Carolina Giovagnoli";
+value = "Huerta Tipografica";
 }
 );
 },
 {
 key = manufacturerURL;
-value = www.huertatipografica.com;
+value = "https://www.huertatipografica.com";
 },
 {
 key = vendorID;
